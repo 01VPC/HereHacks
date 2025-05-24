@@ -19,7 +19,9 @@ import {
   Car,
   Building
 } from 'lucide-react';
-import mockGeoJsonData from '../data/mockdata.json';
+// import mockGeoJsonData from '../data/mockdata.geojson';
+
+
 const DataSources = () => {
     const [isAddingSource, setIsAddingSource] = useState(false);
     const [showGeoJson, setShowGeoJson] = useState(false);
@@ -30,7 +32,157 @@ const DataSources = () => {
     const [showResponseDialog, setShowResponseDialog] = useState(false);
     const [activeSource, setActiveSource] = useState(null);
   
-   
+    const mockGeoJsonData = {
+      type: "FeatureCollection",
+      features: [
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              73.06496,
+              19.03464
+            ]
+          },
+          "properties": {
+            "name": "New Ajwa Family Restaurant",
+            "address": "Kharghar Sector 7, Navi Mumbai",
+            "weight": 15,
+            "confidence_percent": 92
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              73.06496,
+              19.03464
+            ]
+          },
+          "properties": {
+            "name": "New Ajwa Family Restaurant",
+            "address": "Kharghar Sector 7, Navi Mumbai",
+            "weight": 15,
+            "confidence_percent": 92
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              73.06496,
+              19.03464
+            ]
+          },
+          "properties": {
+            "name": "New Ajwa Family Restaurant",
+            "address": "Kharghar Sector 7, Navi Mumbai",
+            "weight": 15,
+            "confidence_percent": 92
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              73.06496,
+              19.03464
+            ]
+          },
+          "properties": {
+            "name": "New Ajwa Family Restaurant",
+            "address": "Kharghar Sector 7, Navi Mumbai",
+            "weight": 15,
+            "confidence_percent": 92
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              73.06496,
+              19.03464
+            ]
+          },
+          "properties": {
+            "name": "New Ajwa Family Restaurant",
+            "address": "Kharghar Sector 7, Navi Mumbai",
+            "weight": 15,
+            "confidence_percent": 92
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              73.03403,
+              19.00712
+            ]
+          },
+          "properties": {
+            "name": "Afzal's Mao Restaurant",
+            "address": "Cbd Belapur Sector 15, Navi Mumbai",
+            "weight": 9,
+            "confidence_percent": 91
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              73.03403,
+              19.00712
+            ]
+          },
+          "properties": {
+            "name": "Afzal's Mao Restaurant",
+            "address": "Cbd Belapur Sector 15, Navi Mumbai",
+            "weight": 9,
+            "confidence_percent": 91
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              73.03403,
+              19.00712
+            ]
+          },
+          "properties": {
+            "name": "Afzal's Mao Restaurant",
+            "address": "Cbd Belapur Sector 15, Navi Mumbai",
+            "weight": 9,
+            "confidence_percent": 91
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              73.01075,
+              19.06108
+            ]
+          },
+          "properties": {
+            "name": "Titan Family Restaurant & Bar",
+            "address": "Sanpada, Navi Mumbai",
+            "weight": 11,
+            "confidence_percent": 91
+          }
+        },
+      ]
+    };
+
+
   const dataSources = [
     { name: 'Open Street Maps', type: 'Vector Tiles', status: 'Active', lastUpdate: '2 min ago', icon: Map, color: 'blue', coverage: '99.8%' },
     { name: 'JustDial Data', type: 'POI Data', status: 'Inactive', lastUpdate: '2 hours ago', icon: Building, color: 'purple', coverage: '92.1%' },
