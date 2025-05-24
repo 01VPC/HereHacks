@@ -1,4 +1,3 @@
-# scrapers/wikipedia_scraper.py
 import wikipedia
 import re
 import requests
@@ -8,9 +7,10 @@ from requests.adapters import HTTPAdapter
 import logging
 from datetime import datetime
 from typing import List, Dict, Optional
+import time
 
 class WikipediaScraper:
-    def __init__(self):
+    def __init__(self, max_results=50, timeout_seconds=30):
         self.logger = self._setup_logger()
         self.session = self._setup_session()
         wikipedia.set_lang("en")
@@ -18,6 +18,9 @@ class WikipediaScraper:
         self.ROAD_KEYWORDS = ['road', 'highway', 'expressway', 'street', 'avenue', 'boulevard', 'marg']
         self.METRO_KEYWORDS = ['metro', 'station', 'subway', 'railway', 'train']
         self.DELAY = 1  # seconds between requests
+        self.MAX_RESULTS = max_results  # Maximum results to return
+        self.TIMEOUT = timeout_seconds  # Maximum time to spend scraping
+        self.START_TIME = None
 
     def _setup_logger(self):
         logger = logging.getLogger('WikipediaScraper')
@@ -41,57 +44,79 @@ class WikipediaScraper:
         return session
 
     def search_location(self, location: str, categories: Optional[List[str]] = None) -> List[Dict]:
-        """Main method to search for location data"""
+        """Main method to search for location data with time and result limits"""
+        self.START_TIME = time.time()
         self.logger.info(f"Starting Wikipedia search for: {location}")
         
         results = []
         
-        # Special handling for Mumbai
-        if location.lower() == 'mumbai':
-            results.extend(self._scrape_mumbai_specific_data())
-        else:
-            # Generic Wikipedia search
-            search_terms = [
-                f"List of roads in {location}",
-                f"Transport in {location}",
-                f"{location} Metro",
-                f"Geography of {location}"
-            ]
+        try:
+            # Special handling for Mumbai
+            if location.lower() == 'mumbai':
+                results.extend(self._scrape_mumbai_specific_data())
+            else:
+                # Generic Wikipedia search with limited terms
+                search_terms = [
+                    f"List of roads in {location}",
+                    f"Transport in {location}",
+                    f"{location} Metro"
+                ]
+                
+                for term in search_terms:
+                    if self._should_continue(results):
+                        try:
+                            self.logger.info(f"Searching for: {term}")
+                            page_results = self._search_wikipedia(term, location)
+                            results.extend(page_results)
+                        except Exception as e:
+                            self.logger.error(f"Error searching for {term}: {e}")
+                    else:
+                        break
             
-            for term in search_terms:
-                try:
-                    self.logger.info(f"Searching for: {term}")
-                    page_results = self._search_wikipedia(term, location)
-                    results.extend(page_results)
-                except Exception as e:
-                    self.logger.error(f"Error searching for {term}: {e}")
+            return results[:self.MAX_RESULTS]  # Ensure we don't exceed max results
         
-        return results
+        except Exception as e:
+            self.logger.error(f"Error in search_location: {e}")
+            return results[:self.MAX_RESULTS]
+
+    def _should_continue(self, current_results: list) -> bool:
+        """Check if we should continue scraping based on time and results"""
+        if len(current_results) >= self.MAX_RESULTS:
+            self.logger.info(f"Reached max results ({self.MAX_RESULTS})")
+            return False
+        
+        if time.time() - self.START_TIME > self.TIMEOUT:
+            self.logger.info(f"Reached timeout ({self.TIMEOUT} seconds)")
+            return False
+        
+        return True
 
     def _scrape_mumbai_specific_data(self) -> List[Dict]:
-        """Specialized scraper for Mumbai transport data"""
+        """Optimized scraper for Mumbai transport data with limits"""
         mumbai_data = []
         
-        # Scrape Mumbai roads
-        try:
-            roads = self._scrape_mumbai_roads()
-            mumbai_data.extend(roads)
-            self.logger.info(f"Found {len(roads)} Mumbai roads")
-        except Exception as e:
-            self.logger.error(f"Failed to scrape Mumbai roads: {e}")
+        # Scrape Mumbai roads with limit
+        if self._should_continue(mumbai_data):
+            try:
+                roads = self._scrape_mumbai_roads()
+                mumbai_data.extend(roads)
+                self.logger.info(f"Found {len(roads)} Mumbai roads")
+            except Exception as e:
+                self.logger.error(f"Failed to scrape Mumbai roads: {e}")
         
-        # Scrape Mumbai metro stations
-        try:
-            metro_stations = self._scrape_mumbai_metro()
-            mumbai_data.extend(metro_stations)
-            self.logger.info(f"Found {len(metro_stations)} Mumbai metro stations")
-        except Exception as e:
-            self.logger.error(f"Failed to scrape Mumbai metro: {e}")
+        # Scrape Mumbai metro stations with limit
+        if self._should_continue(mumbai_data):
+            try:
+                metro_stations = self._scrape_mumbai_metro()
+                mumbai_data.extend(metro_stations)
+                self.logger.info(f"Found {len(metro_stations)} Mumbai metro stations")
+            except Exception as e:
+                self.logger.error(f"Failed to scrape Mumbai metro: {e}")
         
         return mumbai_data
 
     def _scrape_mumbai_roads(self) -> List[Dict]:
-        """Scrape Mumbai roads data with addresses"""
+        """Optimized Mumbai roads scraper with early termination"""
         roads = []
         page_title = "List of roads in Mumbai"
         
@@ -99,36 +124,42 @@ class WikipediaScraper:
             page = wikipedia.page(page_title)
             soup = BeautifulSoup(page.html(), 'html.parser')
             
-            # Find all list items containing road information
-            for li in soup.select('li'):
+            # Limit list items processing
+            for li in list(soup.select('li'))[:100]:  # Only check first 100 list items
+                if not self._should_continue(roads):
+                    break
+                
                 text = li.get_text().strip()
                 if any(keyword in text.lower() for keyword in self.ROAD_KEYWORDS):
                     road_data = self._process_road_text(text, "Mumbai")
                     if road_data:
                         roads.append(road_data)
             
-            # Also check tables for road data
-            for table in soup.find_all('table', {'class': 'wikitable'}):
-                for row in table.find_all('tr')[1:]:  # Skip header
+            # Limit table processing
+            for table in list(soup.find_all('table', {'class': 'wikitable'}))[:3]:  # Only first 3 tables
+                if not self._should_continue(roads):
+                    break
+                
+                for row in list(table.find_all('tr')[1:])[:20]:  # First 20 rows
                     cols = row.find_all('td')
                     if len(cols) >= 1:
                         road_data = self._process_road_text(cols[0].get_text().strip(), "Mumbai")
                         if road_data:
                             roads.append(road_data)
             
-            # Get details for major roads
+            # Only process first 5 major roads
             major_roads = [
                 "Western Express Highway",
                 "Eastern Express Highway",
                 "Linking Road, Mumbai",
                 "Marine Drive, Mumbai",
-                "S.V. Road, Mumbai",
-                "L.B.S. Marg, Mumbai",
-                "Dr. Annie Besant Road, Mumbai",
-                "P.D'Mello Road, Mumbai"
+                "S.V. Road, Mumbai"
             ]
             
-            for road in major_roads:
+            for road in major_roads[:5]:
+                if not self._should_continue(roads):
+                    break
+                
                 try:
                     road_details = self._get_road_details(road, "Mumbai")
                     if road_details:
@@ -142,25 +173,31 @@ class WikipediaScraper:
         return roads
 
     def _scrape_mumbai_metro(self) -> List[Dict]:
-        """Scrape Mumbai metro stations data with more details"""
+        """Optimized Mumbai metro scraper with limits"""
         stations = []
         page_titles = [
             "List of Mumbai Metro stations",
-            "Mumbai Metro",
-            "Mumbai Monorail"
+            "Mumbai Metro"
         ]
         
-        for page_title in page_titles:
+        for page_title in page_titles[:2]:  # Only first 2 pages
+            if not self._should_continue(stations):
+                break
+                
             try:
                 page = wikipedia.page(page_title)
                 soup = BeautifulSoup(page.html(), 'html.parser')
                 
-                # Find station tables
-                for table in soup.find_all('table', {'class': 'wikitable'}):
+                # Only process first 3 tables
+                for table in list(soup.find_all('table', {'class': 'wikitable'}))[:3]:
+                    if not self._should_continue(stations):
+                        break
+                    
                     headers = [th.get_text().strip().lower() for th in table.find_all('th')]
                     
                     if 'station' in headers or any(h in ['name', 'station name'] for h in headers):
-                        for row in table.find_all('tr')[1:]:  # Skip header
+                        # Only process first 20 rows
+                        for row in list(table.find_all('tr')[1:])[:20]:
                             cols = row.find_all('td')
                             if len(cols) >= 1:  # At least station name
                                 station_name = cols[0].get_text().strip()
@@ -171,28 +208,14 @@ class WikipediaScraper:
                                     'scrape_time': datetime.now().isoformat()
                                 }
                                 
-                                # Try to get line information
-                                if len(cols) >= 2:
-                                    station_data['line'] = cols[1].get_text().strip()
-                                
-                                # Try to get interchange information
-                                if len(cols) >= 3:
-                                    station_data['interchange'] = cols[2].get_text().strip()
+                                # Skip coordinate lookup if we're at limit
+                                if not self._should_continue(stations):
+                                    break
                                 
                                 # Get coordinates and address
                                 coords = self._get_coordinates_for_station(station_name)
                                 if coords:
                                     station_data.update(coords)
-                                
-                                # Get address if no coordinates
-                                if 'latitude' not in station_data:
-                                    try:
-                                        station_page = wikipedia.page(station_name)
-                                        address = self._extract_address(station_page.content, "Mumbai")
-                                        if address:
-                                            station_data['address'] = address
-                                    except:
-                                        pass
                                 
                                 stations.append(station_data)
                 
@@ -200,15 +223,19 @@ class WikipediaScraper:
                 self.logger.error(f"Error scraping {page_title}: {e}")
         
         return stations
+    
 
     def _search_wikipedia(self, search_term: str, location: str) -> List[Dict]:
-        """Generic Wikipedia search method"""
+        """Optimized Wikipedia search with result limits"""
         results = []
         
         try:
-            search_results = wikipedia.search(search_term, results=10)
+            search_results = wikipedia.search(search_term, results=5)  # Only get 5 results
             
             for title in search_results:
+                if not self._should_continue(results):
+                    break
+                
                 try:
                     page_data = self._extract_page_data(title, location)
                     if page_data:
@@ -219,14 +246,15 @@ class WikipediaScraper:
         except wikipedia.exceptions.DisambiguationError as e:
             self.logger.info(f"Disambiguation needed for {search_term}, trying first option")
             try:
-                page_data = self._extract_page_data(e.options[0], location)
-                if page_data:
-                    results.append(page_data)
+                if self._should_continue(results):
+                    page_data = self._extract_page_data(e.options[0], location)
+                    if page_data:
+                        results.append(page_data)
             except:
                 pass
         
         return results
-
+    
     def _extract_page_data(self, title: str, location: str) -> Optional[Dict]:
         """Extract data from a Wikipedia page"""
         try:

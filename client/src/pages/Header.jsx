@@ -30,7 +30,7 @@ const Header = ({ activeTab, setActiveTab }) => {
               { key: 'pipeline', label: 'Pipeline', icon: Cpu },
               { key: 'data', label: 'Data Sources', icon: Database },
               { key: 'maps', label: 'Maps', icon: Map },
-              { key: 'quality', label: 'Quality', icon: Shield }
+              { key: 'genAI Analysis', label: 'genAI Analysis', icon: Shield }
             ].map(({ key, label, icon: Icon }) => (
               <button
                 key={key}

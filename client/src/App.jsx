@@ -4,7 +4,7 @@ import Dashboard from './pages/Dashboard';
 import Pipeline from './pages/Pipeline';
 import DataSources from './pages/DataSources';
 import Maps from './pages/Maps';
-import QualityCheck from './pages/QualityCheck';
+// import QualityCheck from './pages/QualityCheck';
 import GeoIntelligenceDashboard from './pages/QualityCheck';
 
 const App = () => {

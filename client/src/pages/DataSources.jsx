@@ -21,10 +21,14 @@ import {
 } from 'lucide-react';
 
 const DataSources = () => {
-  const [isAddingSource, setIsAddingSource] = useState(false);
-  const [showGeoJson, setShowGeoJson] = useState(false);
-  const [configuredSources, setConfiguredSources] = useState([]);
-  const [configuringSource, setConfiguringSource] = useState(null);
+    const [isAddingSource, setIsAddingSource] = useState(false);
+    const [showGeoJson, setShowGeoJson] = useState(false);
+    const [configuredSources, setConfiguredSources] = useState([]);
+    const [configuringSource, setConfiguringSource] = useState(null);
+    const [loading, setLoading] = useState(false);
+    const [responseData, setResponseData] = useState(null);
+    const [showResponseDialog, setShowResponseDialog] = useState(false);
+    const [activeSource, setActiveSource] = useState(null);
 
   const dataSources = [
     { name: 'Open Street Maps', type: 'Vector Tiles', status: 'Active', lastUpdate: '2 min ago', icon: Map, color: 'blue', coverage: '99.8%' },
@@ -33,68 +37,125 @@ const DataSources = () => {
     { name: 'HERE Satellite', type: 'Imagery', status: 'Active', lastUpdate: '5 min ago', icon: Satellite, color: 'green', coverage: '95.2%' },
     { name: 'Traffic Cameras', type: 'Real-time Video', status: 'Active', lastUpdate: '1 min ago', icon: Camera, color: 'orange', coverage: '87.5%' },
     { name: 'Fleet Tracking', type: 'Vehicle IoT', status: 'Active', lastUpdate: '30 sec ago', icon: Car, color: 'cyan', coverage: '96.7%' },
-    
   ];
-
-  // Mock GeoJSON data that would be fetched from data folder
-  const mockGeoJsonData = {
-    type: "FeatureCollection",
-    features: [
-      {
-        type: "Feature",
-        properties: {
-          name: "HERE Office Berlin",
-          category: "office",
-          rating: 4.8
-        },
-        geometry: {
-          type: "Point",
-          coordinates: [13.4050, 52.5200]
-        }
-      },
-      {
-        type: "Feature",
-        properties: {
-          name: "Brandenburg Gate",
-          category: "landmark",
-          description: "Historical monument"
-        },
-        geometry: {
-          type: "Point",
-          coordinates: [13.3777, 52.5163]
-        }
-      },
-      {
-        type: "Feature",
-        properties: {
-          name: "Traffic Analysis Zone",
-          category: "traffic",
-          status: "active"
-        },
-        geometry: {
-          type: "Polygon",
-          coordinates: [[
-            [13.3500, 52.5000],
-            [13.4000, 52.5000],
-            [13.4000, 52.5300],
-            [13.3500, 52.5300],
-            [13.3500, 52.5000]
-          ]]
-        }
-      }
-    ]
-  };
 
   const handleConfigure = async (sourceName) => {
     setConfiguringSource(sourceName);
+    setActiveSource(sourceName);
     
-    // Simulate configuration process
-    setTimeout(() => {
-      setConfiguringSource(null);
-      setConfiguredSources(prev => [...prev, sourceName]);
-    }, 10000);
+    if (sourceName === 'Open Street Maps') {
+      try {
+        setLoading(true);
+        
+        // Make the API request
+        const response = await fetch('http://localhost:5001/overpass/all/south_mumbai', {
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+          },
+        });
+  
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+  
+        const data = await response.json();
+        setResponseData(data);
+        setConfiguredSources(prev => [...prev, sourceName]);
+        
+      } catch (error) {
+        console.error('Error fetching OSM data:', error);
+        setResponseData({ 
+          error: 'Failed to fetch OSM data', 
+          details: error.message 
+        });
+      } finally {
+        setLoading(false);
+        setConfiguringSource(null);
+      }
+    } 
+    else if (sourceName === 'JustDial Data') {
+      try {
+        setLoading(true);
+        
+        // Make API request to JustDial scraper
+        const response = await fetch('http://localhost:5001/scraper/justdial/mumbai', {
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+          },
+        });
+  
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+  
+        const data = await response.json();
+        setResponseData(data);
+        setConfiguredSources(prev => [...prev, sourceName]);
+        
+      } catch (error) {
+        console.error('Error fetching JustDial data:', error);
+        setResponseData({ 
+          error: 'Failed to fetch JustDial data', 
+          details: error.message 
+        });
+      } finally {
+        setLoading(false);
+        setConfiguringSource(null);
+      }
+    }
+    else if (sourceName === 'Wikipedia') {
+      try {
+        setLoading(true);
+        
+        // Make API request to Wikipedia scraper
+        const response = await fetch('http://localhost:5001/scraper/wikipedia/mumbai', {
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+          },
+        });
+  
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+  
+        const data = await response.json();
+        setResponseData(data);
+        setConfiguredSources(prev => [...prev, sourceName]);
+        
+      } catch (error) {
+        console.error('Error fetching Wikipedia data:', error);
+        setResponseData({ 
+          error: 'Failed to fetch Wikipedia data', 
+          details: error.message 
+        });
+      } finally {
+        setLoading(false);
+        setConfiguringSource(null);
+      }
+    }
+    else {
+      // Simulate configuration process for other sources
+      setTimeout(() => {
+        setConfiguringSource(null);
+        setConfiguredSources(prev => [...prev, sourceName]);
+      }, 10000);
+    }
   };
 
+  const handleViewLayer = (sourceName) => {
+    setActiveSource(sourceName);
+    if (responseData) {
+      setShowResponseDialog(true);
+    } else {
+      setShowGeoJson(true);
+    }
+  };
   const handleAddSource = async () => {
     setIsAddingSource(true);
     
@@ -106,13 +167,13 @@ const DataSources = () => {
   };
 
   const downloadPDF = () => {
-    // Create a simple PDF-like content (in real app, use jsPDF or similar)
-    const geoJsonString = JSON.stringify(mockGeoJsonData, null, 2);
+    const dataToDownload = responseData || mockGeoJsonData;
+    const geoJsonString = JSON.stringify(dataToDownload, null, 2);
     const blob = new Blob([geoJsonString], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = 'here-geojson-data.json';
+    a.download = 'geojson-data.json';
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
@@ -130,7 +191,6 @@ const DataSources = () => {
     </div>
   );
 
-  // Animated map grid background
   const MapGrid = () => (
     <div className="fixed inset-0 opacity-5 pointer-events-none">
       <div className="absolute inset-0" style={{
@@ -145,17 +205,14 @@ const DataSources = () => {
 
   return (
     <div className="min-h-screen w-full bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 relative overflow-hidden">
-      {/* HERE-style animated background */}
       <MapGrid />
       
-      {/* Floating map elements */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-20 left-20 w-4 h-4 bg-blue-500 rounded-full animate-ping opacity-60"></div>
         <div className="absolute top-40 right-32 w-3 h-3 bg-cyan-500 rounded-full animate-pulse opacity-40"></div>
         <div className="absolute bottom-32 left-1/4 w-5 h-5 bg-indigo-500 rounded-full animate-bounce opacity-30"></div>
         <div className="absolute top-1/3 right-20 w-2 h-2 bg-blue-600 rounded-full animate-ping opacity-50"></div>
         
-        {/* Subtle route lines */}
         <svg className="absolute inset-0 w-full h-full opacity-10">
           <path d="M 100 200 Q 300 100 500 300 T 800 400" stroke="#3b82f6" strokeWidth="2" fill="none" className="animate-pulse" />
           <path d="M 200 500 Q 400 300 600 600 T 900 500" stroke="#06b6d4" strokeWidth="1.5" fill="none" className="animate-pulse" />
@@ -163,7 +220,6 @@ const DataSources = () => {
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto p-6 space-y-8">
-        {/* HERE-style Header */}
         <div className="text-center mb-12">
           <div className="flex items-center justify-center mb-6">
             <div className="relative">
@@ -184,7 +240,6 @@ const DataSources = () => {
           </p>
         </div>
 
-        {/* Main Dashboard */}
         <div className="bg-white/80 backdrop-blur-xl rounded-3xl shadow-2xl border border-white/50 p-8">
           <div className="flex justify-between items-center mb-8">
             <h2 className="text-3xl font-light text-gray-800 flex items-center">
@@ -209,7 +264,6 @@ const DataSources = () => {
             </div>
           </div>
 
-          {/* Loading State for Add Source */}
           {isAddingSource && (
             <div className="bg-blue-50 rounded-2xl border-2 border-blue-200 p-8 mb-8">
               <h3 className="text-2xl font-light text-gray-800 mb-4 text-center flex items-center justify-center">
@@ -223,14 +277,25 @@ const DataSources = () => {
             </div>
           )}
 
-          {/* Data Sources Grid - HERE Style */}
+          {loading && (
+            <div className="bg-blue-50 rounded-2xl border-2 border-blue-200 p-8 mb-8">
+              <h3 className="text-2xl font-light text-gray-800 mb-4 text-center flex items-center justify-center">
+                <Crosshair className="h-6 w-6 text-blue-600 mr-3 animate-spin" />
+                Fetching Data from OpenStreet Maps...
+              </h3>
+              <LoadingSpinner />
+              <p className="text-center text-gray-600 mt-4 font-light">
+                Loading Mumbai full dataset from Overpass API
+              </p>
+            </div>
+          )}
+
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
             {dataSources.map((source, index) => (
               <div key={index} className="group relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-400/20 to-cyan-400/20 rounded-2xl blur opacity-0 group-hover:opacity-100 transition-all duration-500"></div>
                 <div className="relative bg-white rounded-2xl shadow-lg border border-gray-200 hover:border-blue-300 transition-all duration-300 overflow-hidden">
                   
-                  {/* Card Header */}
                   <div className="bg-gradient-to-r from-gray-100 to-blue-200 p-6 border-b border-gray-100">
                     <div className="flex items-center justify-between mb-4">
                       <div className="flex items-center space-x-3">
@@ -253,7 +318,6 @@ const DataSources = () => {
                     </div>
                   </div>
 
-                  {/* Card Body */}
                   <div className="p-6 space-y-4 bg-blue-50">
                     <div className="grid grid-cols-2 gap-4 text-sm">
                       <div>
@@ -295,8 +359,11 @@ const DataSources = () => {
                           </div>
                         ) : 'Configure'}
                       </button>
-                      <button className="flex-1 px-4 py-2 bg-gray-100 text-gray-700 rounded-xl hover:bg-gray-200 hover:shadow-lg transition-all duration-300 text-sm font-medium">
-                        View Layer
+                      <button 
+                        onClick={() => handleViewLayer(source.name)}
+                        className="flex-1 px-4 py-2 bg-gray-100 text-gray-700 rounded-xl hover:bg-gray-200 hover:shadow-lg transition-all duration-300 text-sm font-medium"
+                      >
+                        View Data
                       </button>
                     </div>
                   </div>
@@ -305,7 +372,6 @@ const DataSources = () => {
             ))}
           </div>
 
-          {/* GeoJSON Results */}
           {showGeoJson && (
             <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl border-2 border-blue-200 p-8">
               <div className="flex justify-between items-center mb-6">
@@ -326,7 +392,7 @@ const DataSources = () => {
               
               <div className="bg-gray-900 rounded-xl p-6 border border-gray-300 max-h-96 overflow-y-auto mb-6">
                 <pre className="text-green-400 text-sm font-mono leading-relaxed">
-                  {JSON.stringify(mockGeoJsonData, null, 2)}
+                  {JSON.stringify(responseData || mockGeoJsonData, null, 2)}
                 </pre>
               </div>
               
@@ -338,7 +404,7 @@ const DataSources = () => {
                       <Database className="h-5 w-5 text-blue-600" />
                     </div>
                   </div>
-                  <p className="text-3xl font-bold text-blue-600">{mockGeoJsonData.features.length}</p>
+                  <p className="text-3xl font-bold text-blue-600">{(responseData?.features || mockGeoJsonData.features).length}</p>
                   <p className="text-sm text-gray-500 mt-1">Location points processed</p>
                 </div>
                 <div className="bg-white rounded-xl p-6 shadow-lg border border-green-200">
@@ -366,7 +432,79 @@ const DataSources = () => {
           )}
         </div>
 
-        {/* HERE-style footer */}
+        {/* Response Dialog */}
+        {showResponseDialog && (
+    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
+      <div className="bg-white rounded-2xl shadow-2xl w-full max-w-4xl max-h-[90vh] overflow-hidden">
+        <div className={`p-6 flex justify-between items-center ${
+          activeSource === 'Open Street Maps' ? 'bg-blue-600' : 
+          activeSource === 'JustDial Data' ? 'bg-purple-600' : 
+          activeSource === 'Wikipedia' ? 'bg-teal-600' : 'bg-gray-600'
+        } text-white`}>
+          <h3 className="text-2xl font-medium">
+            {activeSource} Data Response
+          </h3>
+          <button 
+            onClick={() => setShowResponseDialog(false)}
+            className="p-2 rounded-full hover:bg-black/10 transition-colors"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
+        <div className="p-6 overflow-y-auto max-h-[70vh]">
+          <div className="mb-4">
+            <h4 className="text-lg font-medium text-gray-800 mb-2">Data Summary</h4>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+              <div className="bg-gray-100 p-4 rounded-lg">
+                <p className="text-sm text-gray-600">Total Records</p>
+                <p className="text-2xl font-bold">
+                  {responseData?.features?.length || responseData?.length || 'N/A'}
+                </p>
+              </div>
+              <div className="bg-gray-100 p-4 rounded-lg">
+                <p className="text-sm text-gray-600">Source</p>
+                <p className="text-2xl font-bold">{activeSource}</p>
+              </div>
+              <div className="bg-gray-100 p-4 rounded-lg">
+                <p className="text-sm text-gray-600">Last Updated</p>
+                <p className="text-2xl font-bold">
+                  {new Date().toLocaleString()}
+                </p>
+              </div>
+            </div>
+          </div>
+          
+          <div className="bg-gray-900 rounded-xl p-6 border border-gray-300">
+            <pre className="text-green-400 text-sm font-mono leading-relaxed">
+              {JSON.stringify(responseData, null, 2)}
+            </pre>
+          </div>
+        </div>
+        <div className="bg-gray-100 p-4 flex justify-between items-center">
+          <div className="text-sm text-gray-600">
+            Showing first {Math.min(10, responseData?.features?.length || responseData?.length || 0)} records
+          </div>
+          <div className="flex space-x-3">
+            <button 
+              onClick={downloadPDF}
+              className="px-6 py-2 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors flex items-center"
+            >
+              <Download className="h-4 w-4 mr-2" />
+              Export Data
+            </button>
+            <button 
+              onClick={() => setShowResponseDialog(false)}
+              className="px-6 py-2 bg-gray-600 text-white rounded-xl hover:bg-gray-700 transition-colors"
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  )}
         <div className="text-center py-8">
           <p className="text-gray-500 font-light">
             Powered by HERE Location Services • Real-time global coverage
@@ -376,7 +514,7 @@ const DataSources = () => {
 
       <style jsx>{`
         .animate-spin-slow {
-          animation: spin 4s linear infinite;
+          animation: spin 6s linear infinite;
         }
         
         @keyframes float {
@@ -385,7 +523,7 @@ const DataSources = () => {
         }
         
         .animate-float {
-          animation: float 3s ease-in-out infinite;
+          animation: float 7s ease-in-out infinite;
         }
       `}</style>
     </div>
