@@ -1,0 +1,502 @@
+name,cuisines,rating,price_for_two,address,query,latitude,longitude
+Pints Of Wisdom,"North Indian, Bar Food, Chinese, Biryani, Fast Food",New,"₹1,000 for two","Bandra Kurla Complex, Mumbai","Pints Of Wisdom Bandra Kurla Complex, Mumbai",19.06346,72.85822
+Dobaraa,"North Indian, Continental, Salad, Desserts",4.6,"₹1,200 for two","Phoenix Palladium, Lower Parel, Mumbai","Dobaraa Phoenix Palladium, Lower Parel, Mumbai",18.9949,72.82454
+Legume,"Street Food, North Indian, Italian",4.2,"₹1,000 for two","Phoenix Palladium, Lower Parel, Mumbai","Legume Phoenix Palladium, Lower Parel, Mumbai",18.9949,72.82454
+Mitron,"North Indian, European, Continental, Asian, Sushi, Chinese, Desserts, Beverages",4.2,"₹2,000 for two","Linking Road, Bandra West, Mumbai","Mitron Linking Road, Bandra West, Mumbai",19.05454,72.83754
+Chala Basuya Bar & Kitchen,"North Indian, Mughlai, Kebab, Chinese, Seafood, Biryani, Thai, Sichuan",4.1,"₹1,200 for two","Dadar West, Mumbai","Chala Basuya Bar & Kitchen Dadar West, Mumbai",19.03179,72.84051
+Cha,"Asian, Chinese",4.5,"₹1,500 for two","Palladium Mall, Lower Parel, Mumbai","Cha Palladium Mall, Lower Parel, Mumbai",18.99477,72.8246
+Julius,"European, Continental, Mediterranean",4.6,"₹2,000 for two","Phoenix Palladium, Lower Parel, Mumbai","Julius Phoenix Palladium, Lower Parel, Mumbai",18.9949,72.82454
+Brasserie 1935 Kitchen & Bar,"North Indian, Chinese, Asian, Continental, Mexican, Seafood, Brasserie",4.1,"₹1,800 for two","Sion, Mumbai","Brasserie 1935 Kitchen & Bar Sion, Mumbai",19.04045,72.86505
+POMPA,Mexican,New,"₹2,500 for two","Linking Road, Bandra West, Mumbai","POMPA Linking Road, Bandra West, Mumbai",19.05454,72.83754
+Epitome,"Italian, North Indian, Asian, Arabian, Sushi, Desserts, Beverages",4.1,"₹2,500 for two","Lower Parel, Mumbai","Epitome Lower Parel, Mumbai",18.99611,72.82786
+Pop Tate's,"Italian, Fast Food, Pizza, Chinese, Continental, Asian, Seafood, Beverages",4.4,"₹1,300 for two","Bandra Kurla Complex, Mumbai","Pop Tate's Bandra Kurla Complex, Mumbai",19.07245,72.87021
+The Nines,"Continental, Asian, North Indian, Pizza, Italian, Desserts, Sushi",4.3,"₹2,000 for two","Juhu, Mumbai","The Nines Juhu, Mumbai",19.11066,72.82516
+Poult,"Burger, Fast Food, American",4.3,"₹1,000 for two","Palladium Mall, Lower Parel, Mumbai","Poult Palladium Mall, Lower Parel, Mumbai",18.99477,72.8246
+All Saints,"Continental, Italian, Salad, Sushi, Chinese, Desserts, Bar Food, Asian",4.0,"₹1,500 for two","Khar, Mumbai","All Saints Khar, Mumbai",19.06805,72.83757
+Earth Cafe @ BKC,"Cafe, Coffee, Continental, Pizza, Pasta, Sandwich, Wraps, Desserts",4.4,"₹1,700 for two","Bandra Kurla Complex, Mumbai","Earth Cafe @ BKC Bandra Kurla Complex, Mumbai",19.0609,72.86481
+Yuhi,"Asian, Chinese, Sushi, Italian, North Indian, Biryani, Pizza, Desserts",4.2,"₹1,800 for two","Powai, Mumbai","Yuhi Powai, Mumbai",19.12315,72.90933
+Trèsind,Modern Indian,4.9,"₹8,000 for two","Bandra Kurla Complex, Mumbai","Trèsind Bandra Kurla Complex, Mumbai",19.06419,72.85824
+Nxt Lvl,"North Indian, Continental, Bar Food, Desserts",4.2,"₹1,800 for two","Wagle Estate, Thane West, Thane","Nxt Lvl Wagle Estate, Thane West, Thane",19.18931,72.95244
+August Cafe,"Cafe, Beverages, Italian, Continental, Asian, Healthy Food, Mediterranean, Desserts",4.9,"₹1,200 for two","Khar, Mumbai","August Cafe Khar, Mumbai",19.07118,72.83325
+Cray Craft,"Modern Indian, North Indian, Chinese, Pizza, Asian",4.5,"₹1,000 for two","Marol, Mumbai","Cray Craft Marol, Mumbai",19.11202,72.88355
+U Turn,"North Indian, Chinese, Continental, Bar Food, Seafood",4.2,"₹1,200 for two","Khar, Mumbai","U Turn Khar, Mumbai",19.07111,72.83997
+Eve,"Asian, Continental, North Indian, Sushi, Pizza, Coffee, Beverages",4.7,"₹1,200 for two","Powai, Mumbai","Eve Powai, Mumbai",19.12315,72.90933
+Arggo's,"Italian, Asian, Beverages, Desserts, Pizza, Pasta, Bar Food, Coffee",4.2,"₹2,000 for two","Linking Road, Bandra West, Mumbai","Arggo's Linking Road, Bandra West, Mumbai",19.05454,72.83754
+Bastian,"Asian, Chinese, Continental, Beverages, Desserts",4.5,"₹3,500 for two","Linking Road, Bandra West, Mumbai","Bastian Linking Road, Bandra West, Mumbai",37.15208,-81.15
+Ishaara,"North Indian, Mughlai, Kebab, Biryani",4.7,"₹1,900 for two","Palladium Mall, Lower Parel, Mumbai","Ishaara Palladium Mall, Lower Parel, Mumbai",18.99477,72.8246
+Blah!,"Continental, Bar Food, Fast Food, Asian, Beverages",4.1,"₹2,000 for two","Bandra Kurla Complex, Mumbai","Blah! Bandra Kurla Complex, Mumbai",19.06375,72.86315
+Lord Of The Drinks,"Fast Food, Italian, Chinese, North Indian, Bar Food, Finger Food, Beverages",4.5,"₹2,500 for two","Worli, Mumbai","Lord Of The Drinks Worli, Mumbai",19.00586,72.82673
+Bustle,"North Indian, Chinese, Italian, Continental, Desserts, Shake, Beverages",4.1,"₹1,900 for two","Borivali West, Mumbai","Bustle Borivali West, Mumbai",19.23496,72.85511
+KOKO,"Asian, Sushi, Desserts, Chinese, Beverages",4.7,"₹3,500 for two","Kamala Mills Compound, Mumbai","KOKO Kamala Mills Compound, Mumbai",19.00267,72.82775
+Demy,"Sushi, Italian, Continental, North Indian, Pizza, Asian, Desserts, Beverages",4.4,"₹2,000 for two","Lower Parel, Mumbai","Demy Lower Parel, Mumbai",18.9968,72.83053
+Freny's All Day Dining & Bar,"Modern Indian, Italian, Pizza, Pasta",3.9,"₹1,000 for two","Linking Road, Bandra West, Mumbai","Freny's All Day Dining & Bar Linking Road, Bandra West, Mumbai",19.07615,72.83445
+3 Stories - All Day Bar,"Asian, Continental, North Indian, Pizza, Beverages",4.0,"₹1,500 for two","Juhu, Mumbai","3 Stories - All Day Bar Juhu, Mumbai",19.11466,72.83659
+The Tanjore Tiffin Room,"Chettinad, South Indian, Biryani, Beverages",4.8,"₹1,800 for two","Pali Hill, Bandra West, Mumbai","The Tanjore Tiffin Room Pali Hill, Bandra West, Mumbai",19.0716,72.82478
+Gigi,"European, Japanese, Pizza, Pasta, Beverages, Desserts",4.0,"₹2,500 for two","Linking Road, Bandra West, Mumbai","Gigi Linking Road, Bandra West, Mumbai",19.05454,72.83754
+Veranda,"North Indian, Chinese, Sandwich, Pasta, Desserts, Beverages",4.4,"₹2,000 for two","Pali Hill, Bandra West, Mumbai","Veranda Pali Hill, Bandra West, Mumbai",19.06217,72.82969
+Bawri,North Indian,3.9,"₹3,000 for two","Bandra Kurla Complex, Mumbai","Bawri Bandra Kurla Complex, Mumbai",19.05979,72.85679
+Mamagoto,"Asian, Sushi, Thai, Japanese, Salad, Desserts, Chinese",4.3,"₹1,200 for two","Hill Road, Bandra West, Mumbai","Mamagoto Hill Road, Bandra West, Mumbai",19.05498,72.82831
+Blabber All Day,"Asian, Italian, Pasta, North Indian, Pizza, Chinese, Cafe, Beverages",4.5,"₹1,800 for two","Juhu, Mumbai","Blabber All Day Juhu, Mumbai",19.11472,72.83641
+Noa By The Nutcracker,"Sandwich, Fast Food, Healthy Food, Desserts, Coffee, Continental, American, European",New,₹600 for two,"Linking Road, Bandra West, Mumbai","Noa By The Nutcracker Linking Road, Bandra West, Mumbai",19.05005,72.82647
+Baliboo,"North Indian, Chinese, Korean, Pasta, Continental, Italian, Coffee, Beverages",4.3,"₹2,100 for two","Goregaon East, Mumbai","Baliboo Goregaon East, Mumbai",19.17017,72.86023
+Millo,"Mexican, Italian, Asian, Modern Indian, Sushi, Desserts, Beverages",4.3,"₹2,000 for two","Kamala Mills Compound, Mumbai","Millo Kamala Mills Compound, Mumbai",19.00387,72.8276
+Takumi,"Salad, Asian, Japanese, Chinese, Desserts, Thai, Sushi, Vietnamese",4.3,"₹1,500 for two","Santacruz West, Mumbai","Takumi Santacruz West, Mumbai",19.08303,72.83895
+3 Wise Monkeys,"Chinese, Thai, Italian, Continental, Sichuan",4.0,"₹2,000 for two","Khar, Mumbai","3 Wise Monkeys Khar, Mumbai",19.07068,72.83955
+Oriv Resto - Cafe - Bar,"North Indian, Chinese, Oriental, Continental, Italian, Fast Food, Wraps, Kebab",4.3,"₹1,400 for two","Borivali West, Mumbai","Oriv Resto - Cafe - Bar Borivali West, Mumbai",19.24222,72.84494
+The Little Easy,"American, Finger Food, Italian, Pizza, Kebab, Seafood, Beverages",4.3,"₹1,700 for two","Linking Road, Bandra West, Mumbai","The Little Easy Linking Road, Bandra West, Mumbai",19.0603,72.8362
+Amazonia,"Chinese, Asian, Japanese, Sushi, Italian, Korean, Salad, Seafood",3.6,"₹1,800 for two","Bandra Kurla Complex, Mumbai","Amazonia Bandra Kurla Complex, Mumbai",19.05952,72.86514
+Masala Library,North Indian,4.3,"₹4,000 for two","First International Financial Centre, Bandra Kurla Complex, Mumbai","Masala Library First International Financial Centre, Bandra Kurla Complex, Mumbai",19.06941,72.86959
+One8 Commune,"Finger Food, Asian, European, Mediterranean, Desserts",4.0,"₹2,500 for two","Juhu, Mumbai","One8 Commune Juhu, Mumbai",19.11233,72.8267
+Caffe Allora,"Pizza, Italian, Pasta",4.5,"₹1,200 for two","Phoenix Palladium, Lower Parel, Mumbai","Caffe Allora Phoenix Palladium, Lower Parel, Mumbai",18.9949,72.82454
+Silly,"Continental, Salad, North Indian, Pizza, Asian, Desserts, Coffee, Beverages",4.0,"₹2,500 for two","Khar, Mumbai","Silly Khar, Mumbai",19.06821,72.83776
+China Bistro,"Chinese, Asian, Sushi, Japanese, Korean, Thai, Seafood, Desserts",4.5,"₹1,500 for two","Bandra Kurla Complex, Mumbai","China Bistro Bandra Kurla Complex, Mumbai",19.06701,72.86645
+Razzberry Rhinoceros,"Mediterranean, Italian, North Indian, Continental, Beverages, Desserts",4.0,"₹2,000 for two","Juhu, Mumbai","Razzberry Rhinoceros Juhu, Mumbai",19.10327,72.82525
+Fresh Catch,"Goan, Seafood, Konkan, Desserts",4.4,"₹1,800 for two","Hill Road, Bandra West, Mumbai","Fresh Catch Hill Road, Bandra West, Mumbai",19.05498,72.82831
+Donna Deli,"Asian, Italian, Salad, Chinese, Pizza, Fast Food",4.4,"₹1,700 for two","Linking Road, Bandra West, Mumbai","Donna Deli Linking Road, Bandra West, Mumbai",19.05454,72.83754
+SAQI,"North Indian, Italian, Asian, Chinese, Pizza, Continental, Desserts, Bar Food",4.1,"₹1,800 for two","Khar, Mumbai","SAQI Khar, Mumbai",19.0728,72.83197
+Doolally Taproom,"Finger Food, American, Italian, Pizza, Fast Food, Beverages, Desserts",4.8,"₹2,500 for two","Veera Desai Area, Mumbai","Doolally Taproom Veera Desai Area, Mumbai",19.0492,72.8287
+Megumi,"Japanese, Asian, Sushi, Beverages, Seafood",4.0,"₹3,500 for two","Santacruz West, Mumbai","Megumi Santacruz West, Mumbai",19.08303,72.83895
+Someplace Else,"North Indian, Continental, Asian, Sushi",4.2,"₹2,500 for two","Jio World Drive, Bandra Kurla Complex, Mumbai","Someplace Else Jio World Drive, Bandra Kurla Complex, Mumbai",19.05289,72.84931
+Raasta,"Continental, Chinese, Italian, Fast Food, Beverages",4.2,"₹2,000 for two","Khar, Mumbai","Raasta Khar, Mumbai",19.0681,72.83802
+Yazu - Pan Asian Supper Club,"Thai, Korean, Japanese, Chinese, Sichuan, Asian, Sushi, Desserts",4.6,"₹1,800 for two","Andheri Lokhandwala, Andheri West, Mumbai","Yazu - Pan Asian Supper Club Andheri Lokhandwala, Andheri West, Mumbai",19.14006,72.82913
+Eight,"Asian, Japanese, Sushi",4.6,"₹3,500 for two","Palladium Mall, Lower Parel, Mumbai","Eight Palladium Mall, Lower Parel, Mumbai",18.99477,72.8246
+Fairy Tale - SIP DINE DANCE,"North Indian, Biryani, Kebab, Chinese, Beverages, Continental, Pizza, Pasta",3.6,"₹1,200 for two","Borivali West, Mumbai","Fairy Tale - SIP DINE DANCE Borivali West, Mumbai",19.22912,72.85367
+BKC Dive.,"Bar Food, North Indian, Chinese, Continental, Pizza, Fast Food, Biryani, Desserts",4.3,"₹1,300 for two","Bandra Kurla Complex, Mumbai","BKC Dive. Bandra Kurla Complex, Mumbai",19.07245,72.87021
+Lucy Lou,"Modern Indian, Asian, Turkish",4.2,"₹1,500 for two","Mahakali, Mumbai","Lucy Lou Mahakali, Mumbai",19.12877,72.8688
+Asia Kitchen By Mainland China,"Chinese, Sushi, Asian, Rolls, Seafood, Desserts, Beverages",4.5,"₹1,600 for two","Bandra Kurla Complex, Mumbai","Asia Kitchen By Mainland China Bandra Kurla Complex, Mumbai",19.07277,72.87025
+Silk Route,"North Indian, Continental, Asian, Bar Food, Italian, Middle Eastern, Beverages",4.2,"₹1,400 for two","Santacruz West, Mumbai","Silk Route Santacruz West, Mumbai",19.08303,72.83895
+Arbab,"Lebanese, Mediterranean, Arabian, Shawarma, Sandwich, Middle Eastern",4.0,"₹1,400 for two","Linking Road, Bandra West, Mumbai","Arbab Linking Road, Bandra West, Mumbai",19.06246,72.83557
+Pleo,"Pizza, Italian, Asian, Continental, European, North Indian, Sushi, Desserts",4.3,"₹1,500 for two","Bandra East, Mumbai","Pleo Bandra East, Mumbai",19.06395,72.84943
+Plum by Bent Chair,"Asian, Sushi, Desserts",4.5,"₹3,000 for two","Worli, Mumbai","Plum by Bent Chair Worli, Mumbai",19.00578,72.82658
+Fingerprint Kitchen & Bar,"Continental, Japanese, North Indian, Biryani, Chinese, Kebab, Asian, Beverages",New,"₹1,400 for two","Malad West, Mumbai","Fingerprint Kitchen & Bar Malad West, Mumbai",19.19742,72.83403
+Poco Loco,"Mexican, Spanish, Continental, Pizza, Salad, Desserts, Beverages, Fast Food",4.3,"₹3,000 for two","Khar, Mumbai","Poco Loco Khar, Mumbai",19.07498,72.82666
+Shy,"Continental, Asian, Italian, North Indian, Chinese, Desserts",4.4,"₹1,800 for two","Cubic Mall, Chembur, Mumbai","Shy Cubic Mall, Chembur, Mumbai",19.04554,72.90325
+Therapy Cocktail Bar,Bar Food,4.1,"₹1,000 for two","Khar, Mumbai","Therapy Cocktail Bar Khar, Mumbai",19.24559,72.84838
+LVEL - Bar & Dinner,"Continental, Italian, North Indian, Mexican, Desserts, Beverages",4.2,"₹1,200 for two","Sakinaka, Mumbai","LVEL - Bar & Dinner Sakinaka, Mumbai",19.10799,72.88791
+Nomad Pizza,"Pizza, Italian, French, American, Turkish, Desserts, Coffee, Tea",4.2,"₹2,000 for two","Linking Road, Bandra West, Mumbai","Nomad Pizza Linking Road, Bandra West, Mumbai",19.05558,72.83576
+Tanatan,"North Indian, Mughlai, South Indian, Seafood, Biryani, Desserts, Beverages",4.6,"₹1,800 for two","Dadar Shivaji Park, Mumbai","Tanatan Dadar Shivaji Park, Mumbai",19.02508,72.84013
+Out Of The Blue,"European, Continental, Italian, Fast Food",4.1,"₹2,000 for two","Le Sutra Hotel, Khar, Mumbai","Out Of The Blue Le Sutra Hotel, Khar, Mumbai",19.0718,72.82541
+Bayleaf Cafe,"Cafe, Coffee, Healthy Food, Fast Food, North Indian, Italian, Asian, Desserts",4.2,"₹1,000 for two","Juhu, Mumbai","Bayleaf Cafe Juhu, Mumbai",19.10699,72.82606
+Neuma,"Asian, Continental, European, Mediterranean, Salad, Sandwich, Desserts, Beverages",3.9,"₹2,500 for two","Colaba, Mumbai","Neuma Colaba, Mumbai",18.9154,72.82592
+The Bombay Cartel,"Sushi, Pizza, North Indian, Pasta, Fast Food, Healthy Food, Thai, Continental",4.0,"₹1,800 for two","Juhu, Mumbai","The Bombay Cartel Juhu, Mumbai",18.97526,72.80641
+Aegyo Cafe & Bakehouse,"Cafe, Coffee, Korean, Desserts, Tea, Asian, Hot Pot, Bubble Tea",3.7,₹900 for two,"Khar, Mumbai","Aegyo Cafe & Bakehouse Khar, Mumbai",19.0669,72.83104
+Rude Lounge,"North Indian, Italian, Chinese, Bar Food, Fast Food, Biryani",4.1,"₹1,900 for two","Supreme Business Park, Powai, Mumbai","Rude Lounge Supreme Business Park, Powai, Mumbai",19.11142,72.9071
+Zaika Fun Dining | Club Aquaria,"North Indian, Chinese, Continental, Mughlai, Biryani, Sichuan, Shake, Beverages",4.3,"₹1,400 for two","Borivali West, Mumbai","Zaika Fun Dining | Club Aquaria Borivali West, Mumbai",19.2403,72.84848
+Tango Tamari,"Japanese, Asian, Sushi",New,"₹2,000 for two","Hotel King's International, Juhu, Mumbai","Tango Tamari Hotel King's International, Juhu, Mumbai",19.10427,72.82645
+Gin Gin,"Continental, Italian, Chinese, Oriental, Mexican, Sushi, Salad",New,"₹1,800 for two","4 Bungalows, Mumbai","Gin Gin 4 Bungalows, Mumbai",19.12922,72.82509
+Balmy - All Day Cafe & Bar,"Asian, Continental, Italian, Sushi, Desserts",4.2,"₹1,800 for two","Mahalaxmi, Mumbai","Balmy - All Day Cafe & Bar Mahalaxmi, Mumbai",18.9752,72.8061
+Bombay Brasserie,"North Indian, South Indian, Biryani, Desserts, Beverages",4.6,"₹1,800 for two","Colaba, Mumbai","Bombay Brasserie Colaba, Mumbai",19.10454,72.87069
+Sante Spa Cuisine,"Continental, Healthy Food, Asian, Italian, Desserts, Cafe, Beverages",4.4,"₹2,100 for two","Bandra Kurla Complex, Mumbai","Sante Spa Cuisine Bandra Kurla Complex, Mumbai",19.06653,72.86634
+Balsa,"North Indian, Chinese, Mexican, Beverages",4.1,"₹1,800 for two","Lower Parel, Mumbai","Balsa Lower Parel, Mumbai",19.00479,72.82594
+The Nutcracker,"Cafe, Beverages, American, European, Salad, Desserts",4.4,₹950 for two,"Reclamation, Bandra West, Mumbai","The Nutcracker Reclamation, Bandra West, Mumbai",19.05005,72.82647
+Mool: Kitchen & Bar,"Modern Indian, Beverages, Desserts",New,"₹1,000 for two","Fort, Mumbai","Mool: Kitchen & Bar Fort, Mumbai",18.93085,72.83383
+Si Nonna’s – The Original Sourdough Pizza,"Pizza, Italian",4.6,"₹1,200 for two","Fun Republic Mall, Veera Desai Area, Mumbai","Si Nonna’s – The Original Sourdough Pizza Fun Republic Mall, Veera Desai Area, Mumbai",19.0028,72.8286
+The Bliss Cuisine & Libations,"North Indian, Chinese, Kebab, Pizza, Continental, Biryani, Salad, Desserts",4.5,"₹1,600 for two","Borivali West, Mumbai","The Bliss Cuisine & Libations Borivali West, Mumbai",19.24235,72.84454
+KOA - Cafe & Bar,"Pizza, North Indian, Sushi, Asian, Chinese, Burger, Desserts, Beverages",4.2,"₹1,700 for two","Korum Mall, Khopat, Thane West, Thane","KOA - Cafe & Bar Korum Mall, Khopat, Thane West, Thane",19.20201,72.96566
+Tiger Yaki,"Asian, Japanese, Sandwich",4.0,₹500 for two,"Pali Hill, Bandra West, Mumbai","Tiger Yaki Pali Hill, Bandra West, Mumbai",19.06221,72.82454
+Mannyogi,"North Indian, Chinese, Mexican, Pizza, Pasta, Desserts, Shake, Beverages",4.0,"₹1,000 for two","Kandivali West, Mumbai","Mannyogi Kandivali West, Mumbai",19.20279,72.85092
+The Lantern Bar At Kandeel,"Chinese, North Indian, Kebab, Mughlai, Seafood, Pasta, Bar Food, Beverages",4.4,"₹1,500 for two","Fort, Mumbai","The Lantern Bar At Kandeel Fort, Mumbai",18.93029,72.83154
+The Sassy Spoon,"Chinese, Mexican, Salad, Burger, Desserts, Beverages",4.4,"₹2,500 for two","Powai, Mumbai","The Sassy Spoon Powai, Mumbai",19.12042,72.90899
+Fiona by Radisson Blu,"North Indian, Continental, Asian, Italian, Desserts, Beverages",4.2,"₹3,500 for two","Marol, Mumbai","Fiona by Radisson Blu Marol, Mumbai",19.11061,72.87879
+Global Fusion,"Chinese, Desserts",4.4,"₹3,000 for two","Times Square, Marol, Mumbai","Global Fusion Times Square, Marol, Mumbai",40.75657,-73.98706
+Lyla,"Mexican, Beverages, Desserts, American",New,"₹2,500 for two","Bandra Kurla Complex, Mumbai","Lyla Bandra Kurla Complex, Mumbai",19.05979,72.85679
+The Flying Saucer,"Bar Food, Continental, North Indian, Pizza, Pasta, Desserts, Beverages",4.1,"₹2,500 for two","Andheri Lokhandwala, Andheri West, Mumbai","The Flying Saucer Andheri Lokhandwala, Andheri West, Mumbai",19.13946,72.83203
+Episode One,"Chinese, Asian, Italian, North Indian, Sushi, Fast Food, Bar Food, Beverages",4.4,"₹1,600 for two","Powai, Mumbai","Episode One Powai, Mumbai",19.12038,72.90924
+Hitchki,"North Indian, Bar Food, Asian, Continental, Desserts, Beverages",4.5,"₹2,000 for two","First International Financial Centre, Bandra Kurla Complex, Mumbai","Hitchki First International Financial Centre, Bandra Kurla Complex, Mumbai",19.06941,72.86959
+Grey Cravings,"North Indian, Asian, Lebanese, Turkish, Salad, Continental, Desserts",4.3,"₹2,500 for two","Chembur, Mumbai","Grey Cravings Chembur, Mumbai",19.04605,72.90791
+AB's - Absolute Barbecues,"Biryani, BBQ, Kebab, North Indian, Desserts",4.4,"₹1,750 for two","Powai, Mumbai","AB's - Absolute Barbecues Powai, Mumbai",19.12274,72.89135
+Veronica's,"Cafe, Fast Food, Beverages",3.0,"₹1,500 for two","Bandstand, Bandra West, Mumbai","Veronica's Bandstand, Bandra West, Mumbai",19.04529,72.81914
+CinCin,"Italian, European, Pasta, Pizza",4.3,"₹3,500 for two","Bandra East, Mumbai","CinCin Bandra East, Mumbai",19.06117,72.86266
+Captain's Brew,"North Indian, Continental, Italian, Asian",New,"₹1,500 for two","Wagle Estate, Thane West, Thane","Captain's Brew Wagle Estate, Thane West, Thane",19.19044,72.95483
+The Bluebop Cafe,"Italian, Burger, Mexican, Pizza, Continental, American, Desserts, Beverages",4.5,"₹1,700 for two","Khar, Mumbai","The Bluebop Cafe Khar, Mumbai",19.07254,72.83444
+Joey's Pizza,"Pizza, Fast Food, Salad",4.5,₹500 for two,"Malad West, Mumbai","Joey's Pizza Malad West, Mumbai",19.17937,72.83723
+Boojee Cafe,"Cafe, Coffee, Beverages, Continental, Bakery, Burger, Sandwich, Desserts",4.2,"₹1,200 for two","Carter Road, Bandra West, Mumbai","Boojee Cafe Carter Road, Bandra West, Mumbai",19.06106,72.82346
+La Cena By Di Mora,"Asian, Mexican, Pizza, Italian, Continental, Spanish, Finger Food, Desserts",4.0,"₹1,800 for two","Wagle Estate, Thane West, Thane","La Cena By Di Mora Wagle Estate, Thane West, Thane",19.18931,72.95244
+Pa Pa Ya,"Asian, Japanese, Thai, Chinese, Sushi, Desserts",4.4,"₹1,500 for two","Inorbit Mall, Malad West, Mumbai","Pa Pa Ya Inorbit Mall, Malad West, Mumbai",19.17409,72.84422
+Warehouse Kitchenbar,"Bar Food, Continental, North Indian, Chinese, Asian, Seafood, Desserts, Beverages",4.4,"₹1,900 for two","Malad West, Mumbai","Warehouse Kitchenbar Malad West, Mumbai",19.1749,72.83761
+Yauatcha,"Asian, Seafood, Chinese, Sichuan, Desserts, Beverages, Cantonese",4.5,"₹3,000 for two","Bandra Kurla Complex, Mumbai","Yauatcha Bandra Kurla Complex, Mumbai",19.06478,72.86604
+Izumi,"Japanese, Sushi, Salad, Desserts, Beverages",4.3,"₹1,800 for two","Linking Road, Bandra West, Mumbai","Izumi Linking Road, Bandra West, Mumbai",19.05454,72.83754
+Chili's American Grill & Bar,"American, Mexican, Burger, Tex-Mex, Healthy Food",4.3,"₹1,900 for two","Ventura Building, Powai, Mumbai","Chili's American Grill & Bar Ventura Building, Powai, Mumbai",19.08556,72.88783
+True Tramm Trunk,"Chinese, Continental, Thai, Japanese, Sushi, Fast Food, Beverages",4.3,"₹2,500 for two","Chandivali, Mumbai","True Tramm Trunk Chandivali, Mumbai",19.11495,72.89484
+Shaadi Mubarak,"North Indian, Chinese",4.4,"₹2,000 for two","Oshiwara, Andheri West, Mumbai","Shaadi Mubarak Oshiwara, Andheri West, Mumbai",19.14861,72.83273
+P.F. Chang's,"Asian, Sushi, Desserts",4.1,"₹2,200 for two","Lower Parel, Mumbai","P.F. Chang's Lower Parel, Mumbai",19.00229,72.82815
+Burma Burma - Fort,"Burmese, Asian, Salad, Ice Cream, Desserts, Bubble Tea",4.7,"₹1,800 for two","Fort, Mumbai","Burma Burma - Fort Fort, Mumbai",18.92949,72.83204
+SAZ - American Brasserie,"Continental, Italian, Street Food, Fast Food, Desserts, Beverages",4.5,"₹2,000 for two","Jio World Drive, Bandra Kurla Complex, Mumbai","SAZ - American Brasserie Jio World Drive, Bandra Kurla Complex, Mumbai",19.05404,72.85119
+Leopold Cafe & Bar,"North Indian, Chinese, Continental, Seafood, Sandwich, Desserts, Beverages",4.2,"₹2,500 for two","Colaba, Mumbai","Leopold Cafe & Bar Colaba, Mumbai",18.92281,72.83171
+The Game Ranch,"Pizza, North Indian, Chinese, Burger, Italian",4.3,"₹1,600 for two","Malad West, Mumbai","The Game Ranch Malad West, Mumbai",19.18031,72.83231
+Mulk,"Street Food, North Indian, Kebab, Mughlai, Biryani, BBQ, Beverages, Desserts",4.6,"₹1,800 for two","Veera Desai Area, Mumbai","Mulk Veera Desai Area, Mumbai",19.12928,72.83771
+Banjara - Goldfinch Hotel,"Bengali, North Indian, South Indian, Asian, Continental, Mangalorean, Desserts, Beverages",4.4,"₹4,000 for two","Goldfinch Hotel, Mahakali, Mumbai","Banjara - Goldfinch Hotel Goldfinch Hotel, Mahakali, Mumbai",19.11976,72.87017
+Glocal Junction,"Continental, North Indian, Biryani, Asian, Pizza, Pasta, Desserts, Beverages",4.5,"₹1,800 for two","Worli, Mumbai","Glocal Junction Worli, Mumbai",19.13792,72.8328
+The Bombay Canteen,"Modern Indian, Bar Food, Beverages",4.7,"₹1,700 for two","Kamala Mills Compound, Mumbai","The Bombay Canteen Kamala Mills Compound, Mumbai",19.00324,72.82758
+Younion,"Finger Food, Finger Food, Continental, European, Chinese, North Indian, Italian, Fast Food, Desserts",4.1,"₹2,000 for two","Kamala Mills Compound, Mumbai","Younion Kamala Mills Compound, Mumbai",19.00324,72.828
+Light House Cafe & Bar,"Chinese, Salad, Continental, Sandwich, Burger, Pizza, Pasta, Italian",4.1,"₹1,500 for two","Worli, Mumbai","Light House Cafe & Bar Worli, Mumbai",18.9943,72.81487
+You Mee,"Chinese, Sushi, Beverages, Asian",4.5,"₹1,000 for two","Andheri Lokhandwala, Andheri West, Mumbai","You Mee Andheri Lokhandwala, Andheri West, Mumbai",19.13775,72.82562
+Angrezi Patiyalaa,"North Indian, Mughlai, Chinese, Salad, Bar Food, Beverages",4.5,"₹1,900 for two","Korum Mall, Khopat, Thane West, Thane","Angrezi Patiyalaa Korum Mall, Khopat, Thane West, Thane",19.20301,72.96515
+Cosy Box,"Mediterranean, Asian, Italian, Turkish, Seafood, European, North Indian, Desserts",4.0,"₹3,000 for two","Lower Parel, Mumbai","Cosy Box Lower Parel, Mumbai",18.99348,72.83122
+Mato Mato,"Continental, Oriental, North Indian, Sandwich, Burger, Pizza, Pasta, Salad",4.3,"₹1,800 for two","Hiranandani Estate, Thane West, Thane","Mato Mato Hiranandani Estate, Thane West, Thane",19.26205,72.98486
+1 BHK - Brew House Kitchen,"Continental, Salad, European, Italian, Fast Food, Modern Indian, Desserts",4.3,"₹1,900 for two","Oshiwara, Andheri West, Mumbai","1 BHK - Brew House Kitchen Oshiwara, Andheri West, Mumbai",19.1894,72.85596
+The Earth Plate - Sahara Star,"Italian, Asian, Mediterranean, North Indian",4.0,"₹5,000 for two","Sahara Star, Vile Parle East, Mumbai","The Earth Plate - Sahara Star Sahara Star, Vile Parle East, Mumbai",19.09539,72.85549
+Grandmama's Cafe,"Cafe, Italian, Continental, American, Burger, Pizza, Fast Food, Beverages",4.0,"₹1,600 for two","Juhu, Mumbai","Grandmama's Cafe Juhu, Mumbai",19.09142,72.82784
+Shizusan,"Japanese, Asian, Korean, Desserts, Chinese, Beverages",4.4,"₹2,500 for two","Phoenix Marketcity, Kurla, Mumbai","Shizusan Phoenix Marketcity, Kurla, Mumbai",19.0862,72.88847
+Basil & Beans,"North Indian, Pasta, Pizza, Italian, Desserts, Continental, Street Food, Bakery",4.5,₹600 for two,"Turbhe, Navi Mumbai","Basil & Beans Turbhe, Navi Mumbai",19.07385,73.03292
+Juliette Ristorante & Bar,"European, Italian, Desserts, Pizza, Pasta, Continental",4.4,"₹2,500 for two","Oshiwara, Andheri West, Mumbai","Juliette Ristorante & Bar Oshiwara, Andheri West, Mumbai",19.14004,72.82916
+Kyma,"Mediterranean, Asian",4.2,"₹3,000 for two","Bandra Kurla Complex, Mumbai","Kyma Bandra Kurla Complex, Mumbai",19.06019,72.86464
+Pizza By The Bay,"Italian, Fast Food, Beverages",4.1,"₹2,500 for two","Churchgate, Mumbai","Pizza By The Bay Churchgate, Mumbai",18.93332,72.8238
+Butterfly High,"Continental, Mughlai, North Indian, Bar Food, Asian, Modern Indian",4.5,"₹2,100 for two","Oshiwara, Andheri West, Mumbai","Butterfly High Oshiwara, Andheri West, Mumbai",19.15193,72.83194
+The Atrangii House Sky Lounge,"Chinese, Asian, Sushi, Seafood, North Indian, Oriental, Fast Food, Desserts",4.3,"₹1,800 for two","Sanpada, Navi Mumbai","The Atrangii House Sky Lounge Sanpada, Navi Mumbai",19.05758,73.00263
+Angrezi Dhaba,"North Indian, Mughlai, Chinese, Seafood, Pasta, Biryani, Bar Food, Desserts",4.2,"₹1,500 for two","Mahakali, Mumbai","Angrezi Dhaba Mahakali, Mumbai",19.12382,72.86433
+Nusara - Ramee Guestline Hotel,"Asian, Rolls, Pizza, Chinese, Desserts",4.3,"₹2,000 for two","Ramee Guestline Hotel, Juhu, Mumbai","Nusara - Ramee Guestline Hotel Ramee Guestline Hotel, Juhu, Mumbai",19.10929,72.82548
+Cream Centre - Veg Bistro,"North Indian, Street Food",3.6,"₹1,900 for two","Inorbit Mall, Malad West, Mumbai","Cream Centre - Veg Bistro Inorbit Mall, Malad West, Mumbai",19.173,72.83569
+Mekada Tapas & Cocktail Bar,"Italian, Continental, North Indian, Bar Food, Asian, Chinese, Mexican",4.5,"₹1,800 for two","Vashi, Navi Mumbai","Mekada Tapas & Cocktail Bar Vashi, Navi Mumbai",19.0664,73.00046
+Buzz N Banter,"Chinese, North Indian, Biryani, Italian, South Indian, Seafood, Kebab",4.5,"₹1,000 for two","Kopar Khairane, Navi Mumbai","Buzz N Banter Kopar Khairane, Navi Mumbai",19.10531,73.00427
+1522 - Bar And Kitchen,"North Indian, Continental, Chinese, Modern Indian, Sichuan, Italian, Desserts, Beverages",4.3,"₹1,800 for two","Goldfinch Hotel, Mahakali, Mumbai","1522 - Bar And Kitchen Goldfinch Hotel, Mahakali, Mumbai",19.11975,72.87019
+The Studs Sports Bar & Grill,"Modern Indian, Continental, Bar Food, Pizza, Thai, Desserts, Beverages",3.9,"₹1,200 for two","Wagle Estate, Thane West, Thane","The Studs Sports Bar & Grill Wagle Estate, Thane West, Thane",19.18839,72.95515
+Luuma House,"Continental, Italian, North Indian, Asian, Beverages, Desserts",New,"₹1,500 for two","Juhu, Mumbai","Luuma House Juhu, Mumbai",19.08617,72.82797
+Sunday The Comfort Kitchen,"Continental, Chinese, Oriental, Italian, Burger, North Indian, Asian, Desserts",4.5,"₹1,400 for two","Borivali West, Mumbai","Sunday The Comfort Kitchen Borivali West, Mumbai",19.2497,72.8487
+Aqua,"North Indian, Mediterranean, Sandwich, Wraps, Burger, Desserts",4.3,"₹1,500 for two","CBD-Belapur, Navi Mumbai","Aqua CBD-Belapur, Navi Mumbai",19.025,73.037
+Gosssip Corner Cafe Resto,"Mexican, Cafe, Panini, Chinese, Momos, Arabian, Desserts, Beverages",4.3,"₹1,500 for two","Dahisar West, Mumbai","Gosssip Corner Cafe Resto Dahisar West, Mumbai",19.25837,72.85307
+Effingut,"Mexican, Continental, North Indian, Beverages",4.4,"₹3,000 for two","Colaba, Mumbai","Effingut Colaba, Mumbai",18.92396,72.8329
+Kalinda,"North Indian, Cantonese, Kebab, Mughlai, Rolls, Salad, Street Food, Beverages",4.3,"₹1,800 for two","Malad West, Mumbai","Kalinda Malad West, Mumbai",19.17633,72.8373
+Rustico,"North Indian, Chinese, Continental, Italian, Pizza, Beverages",3.8,"₹1,400 for two","Fort, Mumbai","Rustico Fort, Mumbai",18.92956,72.8348
+Farzi Cafe,"North Indian, Continental",4.0,"₹3,500 for two","Oberoi Mall, Goregaon East, Mumbai","Farzi Cafe Oberoi Mall, Goregaon East, Mumbai",19.17393,72.86056
+Deja Woo,"Sushi, Continental, Desserts, Bar Food, Salad, Beverages, North Indian, Lebanese",4.0,"₹2,000 for two","Inorbit Mall, Malad West, Mumbai","Deja Woo Inorbit Mall, Malad West, Mumbai",19.17409,72.84422
+Sigree Global Grill,"North Indian, Biryani, Beverages",4.1,"₹1,950 for two","Ventura Building, Powai, Mumbai","Sigree Global Grill Ventura Building, Powai, Mumbai",19.11674,72.90984
+Fisco Restobar,"North Indian, Italian, Asian, Chinese, Fast Food, Biryani, Desserts, Beverages",4.4,"₹1,800 for two","Kandivali West, Mumbai","Fisco Restobar Kandivali West, Mumbai",19.21239,72.84617
+Fisco Hub Restobar,"Chinese, Salad, North Indian, Asian, Continental, Italian, Desserts, Beverages",4.1,"₹1,900 for two","Borivali West, Mumbai","Fisco Hub Restobar Borivali West, Mumbai",19.24286,72.84472
+Ihop,"Pancake, Burger, Steak, Healthy Food, American, Desserts, Shake, Coffee",4.2,"₹1,000 for two","Palladium Mall, Lower Parel, Mumbai","Ihop Palladium Mall, Lower Parel, Mumbai",18.99477,72.8246
+Mag St.,"Pizza, Asian, Continental, Bakery, Beverages, Burger, Cafe, European",3.1,"₹3,000 for two","Linking Road, Bandra West, Mumbai","Mag St. Linking Road, Bandra West, Mumbai",19.06246,72.83557
+Spotlight Skydeck,"North Indian, Italian, Fast Food, Chinese, Bar Food, Street Food, Desserts, Beverages",4.3,"₹1,800 for two","Wagle Estate, Thane West, Thane","Spotlight Skydeck Wagle Estate, Thane West, Thane",19.189,72.95486
+Sea Fire Salt,"Seafood, Maharashtrian, North Indian, Mughlai, Biryani, Desserts, Bar Food",4.5,"₹1,300 for two","Wagle Estate, Thane West, Thane","Sea Fire Salt Wagle Estate, Thane West, Thane",19.19775,72.95598
+Burma Burma,"Burmese, Asian, Salad, Bubble Tea, Desserts",New,"₹1,800 for two","Goregaon East, Mumbai","Burma Burma Goregaon East, Mumbai",19.17381,72.86059
+Taftoon Bar & Kitchen,"North Indian, Lucknowi, Bengali, Kashmiri, Bihari, Beverages",4.4,"₹3,000 for two","Bandra Kurla Complex, Mumbai","Taftoon Bar & Kitchen Bandra Kurla Complex, Mumbai",19.06046,72.86279
+PAUL,"Cafe, Coffee, French, Continental, Italian, Desserts, Beverages",3.8,"₹1,500 for two","Lower Parel, Mumbai","PAUL Lower Parel, Mumbai",18.99491,72.82452
+Tuya's,"North Indian, Salad, Kebab, Italian, Chinese, Street Food, Asian, Pizza",New,"₹1,400 for two","Juhu, Mumbai","Tuya's Juhu, Mumbai",19.10874,72.82646
+Tunak Tunak Tunn,"North Indian, Chinese, Kebab, Fast Food, Mughlai, Biryani, Desserts, Beverages",4.2,"₹1,300 for two","Mulund West, Mumbai","Tunak Tunak Tunn Mulund West, Mumbai",19.17172,72.94301
+Foo Thane,"Chinese, Sushi, Asian, Japanese, Desserts",4.5,"₹2,000 for two","Viviana Mall, Majiwada, Thane West, Thane","Foo Thane Viviana Mall, Majiwada, Thane West, Thane",19.20984,72.97186
+East Asia - Indian | Asian | Continental,"Asian, Chinese, North Indian, Sushi, Continental, Pizza, Pasta, Sichuan",4.5,"₹1,800 for two","Borivali West, Mumbai","East Asia - Indian | Asian | Continental Borivali West, Mumbai",19.2315,72.8624
+TAB - Thoughtful American Bistronomy,"American, Mexican, Desserts",4.5,"₹1,800 for two","Lower Parel, Mumbai","TAB - Thoughtful American Bistronomy Lower Parel, Mumbai",18.99505,72.82386
+Corkage & Co.,"American, Andhra, Asian, Arabian, Afghani, Biryani",New,"₹1,000 for two","Powai, Mumbai","Corkage & Co. Powai, Mumbai",19.1178,72.88958
+Courtyard Pavilion - Courtyard By Marriott Navi Mumbai,"Continental, Asian, North Indian, Italian, South Indian, Fast Food, Desserts",4.4,"₹3,200 for two","Nerul, Navi Mumbai","Courtyard Pavilion - Courtyard By Marriott Navi Mumbai Nerul, Navi Mumbai",19.04334,73.02699
+Western Tadka,"Chinese, South Indian, Street Food, Sandwich, Italian, Salad, Desserts, Beverages",4.0,"₹1,200 for two","Borivali West, Mumbai","Western Tadka Borivali West, Mumbai",19.22379,72.84132
+Pondichery Cafe - Sofitel,"North Indian, European, Asian, French, Healthy Food, Beverages, Desserts",4.0,"₹3,000 for two","Sofitel, Bandra Kurla Complex, Mumbai","Pondichery Cafe - Sofitel Sofitel, Bandra Kurla Complex, Mumbai",19.06774,72.86913
+Bohoba,"Modern Indian, Asian, Italian, European, Desserts, Beverages",4.5,"₹1,500 for two","Malad West, Mumbai","Bohoba Malad West, Mumbai",19.17825,72.83405
+British Brewing Company,"British, Italian, Fast Food, Continental, Chinese, Pizza, Salad, Desserts",4.2,"₹1,800 for two","Times Square, Marol, Mumbai","British Brewing Company Times Square, Marol, Mumbai",19.00082,72.82974
+Punjab Grill,"North Indian, Kebab, Biryani, Desserts",4.5,"₹1,700 for two","Andheri Lokhandwala, Andheri West, Mumbai","Punjab Grill Andheri Lokhandwala, Andheri West, Mumbai",19.13416,72.82561
+Mannrangi,"Finger Food, Italian, North Indian, Biryani, Seafood, Mughlai, Desserts",4.4,"₹1,800 for two","Goregaon West, Mumbai","Mannrangi Goregaon West, Mumbai",19.17362,72.8388
+Toit,"Continental, South Indian, Italian, Fast Food, Desserts",4.5,"₹2,500 for two","Lower Parel, Mumbai","Toit Lower Parel, Mumbai",19.00107,72.82978
+Prithvi Cafe,"North Indian, Bakery, Biryani, Pasta, Rolls, Beverages, Fast Food",4.3,₹600 for two,"Juhu, Mumbai","Prithvi Cafe Juhu, Mumbai",19.10644,72.82614
+Chimichurri,"Chinese, Sushi, Asian, Thai, Japanese, Seafood, Beverages",4.5,"₹2,000 for two","Times Square, Marol, Mumbai","Chimichurri Times Square, Marol, Mumbai",19.14133,72.83331
+Badmaash,Modern Indian,New,"₹2,500 for two","Kamala Mills Compound, Mumbai","Badmaash Kamala Mills Compound, Mumbai",19.00387,72.8276
+The Stables - Peninsula Redpine,"North Indian, Continental, Chinese, Italian, Beverages, Desserts",4.3,"₹3,500 for two","Peninsula Redpine, Marol, Mumbai","The Stables - Peninsula Redpine Peninsula Redpine, Marol, Mumbai",19.10967,72.87601
+House Of Mandarin,"Asian, Chinese, Japanese, Seafood, Desserts, Oriental, Beverages",4.3,"₹2,500 for two","Powai, Mumbai","House Of Mandarin Powai, Mumbai",19.12008,72.90905
+Bo Reverie,"North Indian, Continental, Japanese, Thai, Asian",4.3,"₹1,500 for two","Borivali West, Mumbai","Bo Reverie Borivali West, Mumbai",19.2233,72.8405
+Hana Pan Asian Kitchen and Bar,"Asian, Chinese, Sushi, Desserts, Cantonese, Japanese, Korean, Thai",4.5,"₹1,600 for two","Naupada, Thane West, Thane","Hana Pan Asian Kitchen and Bar Naupada, Thane West, Thane",19.19197,72.97278
+Purple Penguin,"Continental, Modern Indian, Bar Food, Pizza, Chinese, Finger Food, North Indian, Beverages",3.7,"₹1,450 for two","Veera Desai Area, Mumbai","Purple Penguin Veera Desai Area, Mumbai",19.13911,72.83343
+Copper Chimney,"North Indian, Mughlai, Biryani, Kebab, Desserts, Beverages",4.4,"₹1,600 for two","Juhu, Mumbai","Copper Chimney Juhu, Mumbai",19.09332,72.82817
+Liv Eatery & Bar,"Asian, Continental, Mediterranean, North Indian, Italian, Chinese, Sushi, Desserts",4.2,"₹1,600 for two","Wagle Estate, Thane West, Thane","Liv Eatery & Bar Wagle Estate, Thane West, Thane",19.1876,72.95391
+La Loca Maria,"Spanish, European, Italian, Tea, Coffee, Beverages",4.3,"₹4,500 for two","Pali Hill, Bandra West, Mumbai","La Loca Maria Pali Hill, Bandra West, Mumbai",19.05943,72.82939
+Sesame - Hyatt Centric Juhu Mumbai,"Asian, Sushi, Sandwich, Pizza, Healthy Food, Salad, Beverages, Desserts",4.6,"₹2,150 for two","Juhu, Mumbai","Sesame - Hyatt Centric Juhu Mumbai Juhu, Mumbai",19.09156,72.82786
+The Irish House,"Continental, Mediterranean, BBQ, Coffee",4.2,"₹2,500 for two","Inorbit Mall, Malad West, Mumbai","The Irish House Inorbit Mall, Malad West, Mumbai",19.173,72.83587
+Indian Accent,"Modern Indian, North Indian, Desserts, Cafe, Tea, Beverages",3.8,"₹6,000 for two","Bandra Kurla Complex, Mumbai","Indian Accent Bandra Kurla Complex, Mumbai",19.06631,72.86369
+Zaika Restaurant & Party Hall,"North Indian, South Indian, Chinese, Continental, Biryani, Italian, Ice Cream, Beverages",4.2,₹800 for two,"Bhayandar, Mumbai","Zaika Restaurant & Party Hall Bhayandar, Mumbai",19.29501,72.84989
+Facing East,"Asian, Chinese, Sushi, Rolls, Salad, Desserts, Beverages",4.6,"₹1,700 for two","Oshiwara, Andheri West, Mumbai","Facing East Oshiwara, Andheri West, Mumbai",19.15121,72.83281
+Kalp,"North Indian, Asian, Mughlai, Korean, Italian, Desserts",4.1,"₹1,500 for two","Airoli, Navi Mumbai","Kalp Airoli, Navi Mumbai",19.15556,72.99828
+Mansionairre By The Roof,"North Indian, Asian, Chinese, Continental, Italian, Japanese, Lebanese",New,"₹2,000 for two","Wagle Estate, Thane West, Thane","Mansionairre By The Roof Wagle Estate, Thane West, Thane",19.19459,72.95448
+Indian BBQ Co.,"BBQ, Finger Food, Street Food, Desserts",4.6,"₹1,700 for two","Veera Desai Area, Mumbai","Indian BBQ Co. Veera Desai Area, Mumbai",19.13617,72.83334
+PizzaExpress,"Pizza, Bakery, Italian, Salad, Coffee, Beverages",4.3,"₹1,400 for two","Viviana Mall, Majiwada, Thane West, Thane","PizzaExpress Viviana Mall, Majiwada, Thane West, Thane",19.20984,72.97186
+Òsteria,"Continental, European, Italian, Mexican, Pizza, Asian, Desserts, Beverages",4.5,"₹2,000 for two","Veera Desai Area, Mumbai","Òsteria Veera Desai Area, Mumbai",19.1366,72.83746
+The Yellow Chilli,"North Indian, Mughlai, Biryani, Chinese, Continental, Desserts, Beverages",4.1,"₹1,800 for two","Star Mall, Dadar West, Mumbai","The Yellow Chilli Star Mall, Dadar West, Mumbai",19.02293,72.84195
+The Kerala Table,"Kerala, Seafood, Biryani, Chinese, Desserts, Beverages",4.5,"₹1,200 for two","Vashi, Navi Mumbai","The Kerala Table Vashi, Navi Mumbai",19.08522,73.00758
+Cafe Delhi Heights,"Continental, Italian, Oriental, North Indian, Seafood, Street Food",4.5,"₹1,500 for two","Malad West, Mumbai","Cafe Delhi Heights Malad West, Mumbai",19.173,72.83569
+Sirocco,"Finger Food, North Indian, Pizza, Pasta, Salad, Chinese, Coffee, Beverages",4.1,"₹1,800 for two","Versova, Andheri West, Mumbai","Sirocco Versova, Andheri West, Mumbai",19.13637,72.81012
+The Nest,"European, Asian, Lebanese, Continental, Cafe, Salad",4.1,₹900 for two,"Hill Road, Bandra West, Mumbai","The Nest Hill Road, Bandra West, Mumbai",19.05992,72.82956
+Rasoi Kitchen & Bar,"North Indian, Seafood, Chinese, Maharashtrian, Asian, Desserts",4.1,"₹1,800 for two","Khar, Mumbai","Rasoi Kitchen & Bar Khar, Mumbai",19.06858,72.83912
+Rikē - Terrace Bar & Grill,"Continental, Mexican, Mediterranean, Asian, Pizza, Italian, North Indian, Beverages",4.2,"₹2,000 for two","Veera Desai Area, Mumbai","Rikē - Terrace Bar & Grill Veera Desai Area, Mumbai",19.13624,72.83343
+PizzaExpress,"Pizza, Bakery, Italian, Salad, Coffee, Beverages",4.4,"₹1,400 for two","First International Financial Centre, Bandra Kurla Complex, Mumbai","PizzaExpress First International Financial Centre, Bandra Kurla Complex, Mumbai",19.06941,72.86959
+The Terrace - A Maiden Affair,"Continental, Italian, Chinese, Fast Food, Salad, Desserts",4.4,"₹1,800 for two","Andheri Lokhandwala, Andheri West, Mumbai","The Terrace - A Maiden Affair Andheri Lokhandwala, Andheri West, Mumbai",19.13911,72.83343
+Que Sera Sera,"Continental, Italian, Salad, European, Desserts, Beverages",New,"₹1,800 for two","Andheri Lokhandwala, Andheri West, Mumbai","Que Sera Sera Andheri Lokhandwala, Andheri West, Mumbai",19.13986,72.83147
+Jyran - Sofitel,"Desserts, Mughlai, North Indian",4.3,"₹4,000 for two","Sofitel, Bandra Kurla Complex, Mumbai","Jyran - Sofitel Sofitel, Bandra Kurla Complex, Mumbai",19.06821,72.86939
+Versova Vibes Cafe,"North Indian, Chinese, Sichuan, Seafood, Kebab, Biryani, Mughlai, Fast Food",4.1,"₹1,000 for two","Andheri Lokhandwala, Andheri West, Mumbai","Versova Vibes Cafe Andheri Lokhandwala, Andheri West, Mumbai",19.12938,72.8257
+Fusion Ville,"North Indian, Oriental, Pizza, Pasta, Kebab, Chinese, Mughlai, Beverages",4.3,"₹1,000 for two","Marol, Mumbai","Fusion Ville Marol, Mumbai",19.10103,72.83928
+Toast - Bistro & Bar,"Continental, Italian, North Indian, Asian, Thai, Seafood, Desserts, Beverages",4.6,"₹2,500 for two","T24 Residency, Marol, Mumbai","Toast - Bistro & Bar T24 Residency, Marol, Mumbai",19.1108,72.87471
+Ocean Kitchen Fine Dine,"Seafood, North Indian, Continental, Oriental, Asian, Desserts, Chinese, Sushi",4.2,"₹1,200 for two","Malad West, Mumbai","Ocean Kitchen Fine Dine Malad West, Mumbai",19.17945,72.83631
+Mangii Ferra,"Italian, Continental, Salad, Pizza, Pasta, Desserts, Beverages",4.4,"₹3,000 for two","Juhu, Mumbai","Mangii Ferra Juhu, Mumbai",19.11388,72.83537
+Sorozai - Goan Bar & Restaurant,"Bar Food, Goan, Seafood, Mexican, Salad",4.4,"₹1,200 for two","Versova, Andheri West, Mumbai","Sorozai - Goan Bar & Restaurant Versova, Andheri West, Mumbai",19.13111,72.8139
+1441 Pizzeria,"Pizza, Pasta, Italian, Desserts, Beverages",4.5,"₹1,400 for two","Fort, Mumbai","1441 Pizzeria Fort, Mumbai",18.92785,72.83242
+Open Your Soda Bottle,"North Indian, Chinese, Continental",3.9,"₹1,000 for two","Malad West, Mumbai","Open Your Soda Bottle Malad West, Mumbai",19.17847,72.83647
+Miniyaturk,"Mediterranean, Italian, Desserts, Mexican, Asian, Chinese, Lebanese, Middle Eastern",4.9,"₹1,800 for two","Veera Desai Area, Mumbai","Miniyaturk Veera Desai Area, Mumbai",19.13988,72.83483
+Tiger Yaki,"Japanese, Asian",3.6,₹500 for two,"Oshiwara, Andheri West, Mumbai","Tiger Yaki Oshiwara, Andheri West, Mumbai",19.14678,72.82925
+Nadara,"Bar Food, Continental, Chinese, Salad",4.1,"₹1,100 for two","Goregaon East, Mumbai","Nadara Goregaon East, Mumbai",19.13336,72.89554
+O Pedro,"Goan, Sandwich, Finger Food, Desserts, Beverages",4.8,"₹3,500 for two","Jet Airways Godrej, Bandra Kurla Complex, Mumbai","O Pedro Jet Airways Godrej, Bandra Kurla Complex, Mumbai",19.05952,72.86514
+Mainland China,"Chinese, Asian, Seafood, Japanese, Sushi, Desserts, Beverages",4.5,"₹2,000 for two","Veera Desai Area, Mumbai","Mainland China Veera Desai Area, Mumbai",19.14169,72.83252
+Cafe Panama,"Mexican, Salad, Sandwich, Burger, Desserts",4.3,"₹2,000 for two","Lower Parel, Mumbai","Cafe Panama Lower Parel, Mumbai",18.99961,72.83069
+La Veggie,"North Indian, Continental, Chinese, Italian, Mexican, Pizza, Pasta, Beverages",4.1,"₹1,700 for two","Chowpatty, Mumbai","La Veggie Chowpatty, Mumbai",18.95604,72.81376
+The Food Studio,"North Indian, Chinese, Biryani, Kebab, Asian, Pizza, Pasta",New,"₹1,600 for two","Manpada, Thane West, Thane","The Food Studio Manpada, Thane West, Thane",19.2362,72.97254
+Shelter By Javaphile Cafe,"Bakery, Salad, Desserts, Beverages, Burger, Pizza",4.3,"₹1,000 for two","Versova, Andheri West, Mumbai","Shelter By Javaphile Cafe Versova, Andheri West, Mumbai",19.13156,72.81365
+Food Exchange By Novotel,"North Indian, Chinese, Pasta, Pizza, Asian",4.2,"₹3,500 for two","Chakala, Mumbai","Food Exchange By Novotel Chakala, Mumbai",19.10747,72.88313
+Mia Cuccinna,"American, Pizza, Italian, Pasta, Panini, Salad, Beverages, Desserts",4.0,"₹3,000 for two","Hill Road, Bandra West, Mumbai","Mia Cuccinna Hill Road, Bandra West, Mumbai",19.05992,72.82956
+The Brasserie - Hilton Mumbai International Airport,"North Indian, Mughlai, Continental, Salad, Chinese, Shake, Beverages, Desserts",4.1,"₹3,500 for two","Hilton Mumbai International Airport, Chakala, Mumbai","The Brasserie - Hilton Mumbai International Airport Hilton Mumbai International Airport, Chakala, Mumbai",19.10444,72.87067
+Kake Di Hatti,"North Indian, Chinese, Pasta, Fast Food, Desserts, Beverages",3.9,₹800 for two,"Andheri Lokhandwala, Andheri West, Mumbai","Kake Di Hatti Andheri Lokhandwala, Andheri West, Mumbai",19.13775,72.82562
+Nosh & Beyond,"Continental, Italian, Mexican, Middle Eastern, North Indian, Salad, Desserts, Beverages",4.7,"₹1,200 for two","Marol, Mumbai","Nosh & Beyond Marol, Mumbai",19.11274,72.88383
+Makabo,"Chinese, North Indian, Pizza, Rolls, Beverages",4.3,"₹1,750 for two","Kandivali West, Mumbai","Makabo Kandivali West, Mumbai",19.20609,72.83513
+Mastee,"Japanese, North Indian, Italian, Continental, Chinese, Fast Food, Desserts, Beverages",4.3,"₹2,500 for two","Borivali West, Mumbai","Mastee Borivali West, Mumbai",19.22367,72.84115
+Fifty Five East - Grand Hyatt Mumbai Hotel & Residences,"Thai, Lebanese, Japanese, Asian, Chinese, North Indian, Mughlai",4.3,"₹5,000 for two","Grand Hyatt Mumbai & Residences, Santacruz East, Mumbai","Fifty Five East - Grand Hyatt Mumbai Hotel & Residences Grand Hyatt Mumbai & Residences, Santacruz East, Mumbai",19.07767,72.85122
+Lyke,"Asian, North Indian, Chinese, Sushi, Japanese, Continental, Pasta, Pizza",4.1,"₹1,600 for two","Mulund West, Mumbai","Lyke Mulund West, Mumbai",19.16336,72.94074
+Tim Hortons,"Coffee, Sandwich, Cafe, Beverages",4.0,₹700 for two,"Oshiwara, Andheri West, Mumbai","Tim Hortons Oshiwara, Andheri West, Mumbai",19.14322,72.83192
+Indiana Water's,"North Indian, Mughlai, Seafood, Chinese, Kebab, Asian, Biryani, Desserts",4.3,"₹1,400 for two","Viviana Mall, Majiwada, Thane West, Thane","Indiana Water's Viviana Mall, Majiwada, Thane West, Thane",19.20869,72.97145
+Rasoi,"North Indian, Seafood, Chinese, Desserts, Beverages, Malwani, Asian, Maharashtrian",4.5,"₹1,800 for two","Dadar East, Mumbai","Rasoi Dadar East, Mumbai",19.00893,72.84082
+Magnolia Bakery,"Bakery, Desserts, Beverages",3.2,₹500 for two,"Pali Hill, Bandra West, Mumbai","Magnolia Bakery Pali Hill, Bandra West, Mumbai",19.05466,72.82647
+Origami Japanese And Korean Restaurant,"Japanese, Korean, Sushi, BBQ, Rolls",4.3,"₹2,500 for two","Supreme Business Park, Powai, Mumbai","Origami Japanese And Korean Restaurant Supreme Business Park, Powai, Mumbai",19.11113,72.90821
+Al Ayamna,"North Indian, Chinese, Mughlai, Arabian, Turkish, Biryani, Desserts",4.2,"₹1,400 for two","Jogeshwari, Mumbai","Al Ayamna Jogeshwari, Mumbai",19.14627,72.84585
+The DanSing Bottle,"Bar Food, Asian, Chinese, Pizza, Continental, North Indian, Mughlai, Biryani",4.1,"₹1,500 for two","Manpada, Thane West, Thane","The DanSing Bottle Manpada, Thane West, Thane",19.23917,72.97006
+Goa Portuguesa,"Goan, Portuguese, South Indian, Maharashtrian, Desserts, Beverages",4.5,"₹2,500 for two","Mahim, Mumbai","Goa Portuguesa Mahim, Mumbai",19.03183,72.84027
+Sammy Sosa,"Mexican, Continental, Salad, Asian, Chinese",4.7,"₹1,200 for two","Oshiwara, Andheri West, Mumbai","Sammy Sosa Oshiwara, Andheri West, Mumbai",19.15201,72.83118
+Olive Garden,"Asian, North Indian, Continental, Italian, Fast Food, Salad, Desserts, Beverages",4.1,"₹1,400 for two","Borivali West, Mumbai","Olive Garden Borivali West, Mumbai",19.2365,72.84288
+House Party,"Oriental, Italian, Pizza, Modern Indian, Continental, Desserts, Shake, Beverages",4.4,"₹1,000 for two","Khar, Mumbai","House Party Khar, Mumbai",19.07075,72.83789
+The Bliss Heritage Kitchen,"North Indian, Maharashtrian, Biryani, Chinese, Continental, Sushi, Salad, Desserts",New,"₹1,400 for two","Borivali West, Mumbai","The Bliss Heritage Kitchen Borivali West, Mumbai",19.22084,72.8493
+Bonfire Multicuisine Restro Cafe,"North Indian, Continental, Seafood, Salad, Healthy Food, Asian, Desserts, Cafe",4.5,"₹1,000 for two","Versova, Andheri West, Mumbai","Bonfire Multicuisine Restro Cafe Versova, Andheri West, Mumbai",19.14074,72.81239
+Fleur - The Fern Goregaon,"Asian, Continental, North Indian, Shake, Beverages, Desserts",4.3,"₹1,800 for two","Goregaon East, Mumbai","Fleur - The Fern Goregaon Goregaon East, Mumbai",19.16227,72.85692
+Sukoon,"Salad, Wraps, South Indian, Pasta",2.5,"₹1,200 for two","Carter Road, Bandra West, Mumbai","Sukoon Carter Road, Bandra West, Mumbai",19.06076,72.82224
+Shizuru,"Asian, Continental, Salad, Pizza, Burger, Healthy Food, Sushi, Beverages",4.2,"₹1,000 for two","Andheri Lokhandwala, Andheri West, Mumbai","Shizuru Andheri Lokhandwala, Andheri West, Mumbai",19.14156,72.82687
+The Romeo House - Kitchen And Bar,"North Indian, Biryani, Chinese, Pizza, Fast Food, Salad, Beverages",3.9,"₹1,000 for two","Parel, Mumbai","The Romeo House - Kitchen And Bar Parel, Mumbai",18.99432,72.83832
+Keiba X All Saints,"Sushi, Japanese, Chinese, Asian, Salad, Desserts, Beverages",4.3,"₹2,500 for two","Mahalaxmi, Mumbai","Keiba X All Saints Mahalaxmi, Mumbai",19.16749,72.94909
+TomTom Sky Bar & Club,"North Indian, Chinese",4.2,"₹1,000 for two","Turbhe, Navi Mumbai","TomTom Sky Bar & Club Turbhe, Navi Mumbai",19.06869,73.01925
+Once Upon A Dine,"Cafe, Italian, Continental, Chinese",4.3,₹950 for two,"Khar, Mumbai","Once Upon A Dine Khar, Mumbai",19.06855,72.83423
+Thai Naam,"Thai, Asian, Chinese, Desserts",4.9,"₹2,500 for two","The Orb, Marol, Mumbai","Thai Naam The Orb, Marol, Mumbai",19.1024,72.87814
+Kenko By Manav Shah,"Continental, Salad, Healthy Food, Burger, Sandwich, Pasta, Juices, Beverages",3.8,"₹1,800 for two","Linking Road, Bandra West, Mumbai","Kenko By Manav Shah Linking Road, Bandra West, Mumbai",19.05454,72.83754
+Meraki,"Chinese, Thai, Burmese, Asian, Sichuan, Fast Food, Beverages",4.0,"₹1,000 for two","Carter Road, Bandra West, Mumbai","Meraki Carter Road, Bandra West, Mumbai",19.06076,72.82224
+Ditas,"European, Italian, Salad, Desserts, Beverages",4.7,"₹3,500 for two","Lower Parel, Mumbai","Ditas Lower Parel, Mumbai",18.9968,72.83053
+Yard 64,"Bar Food, Beverages, North Indian, Finger Food, Pizza, Pasta, Mughlai, Lebanese",4.3,"₹1,200 for two","Malad West, Mumbai","Yard 64 Malad West, Mumbai",19.18426,72.82352
+Saz Cafe,"American, Pizza, Pasta, Bar Food, Burger, Desserts",4.3,"₹2,000 for two","Lower Parel, Mumbai","Saz Cafe Lower Parel, Mumbai",19.00192,72.82925
+Cafe Holiday,"Cafe, Beverages, North Indian, Italian, Continental, Asian, Salad, Desserts",New,"₹1,000 for two","Wagle Estate, Thane West, Thane","Cafe Holiday Wagle Estate, Thane West, Thane",19.18931,72.95244
+Kona Eatery & Bar,"North Indian, Chinese, Continental, Biryani, Italian, Bar Food, Desserts",New,"₹1,300 for two","CBD-Belapur, Navi Mumbai","Kona Eatery & Bar CBD-Belapur, Navi Mumbai",19.01601,73.03791
+Taki Taki,"Sushi, Japanese, Asian, Thai, Chinese, Desserts",4.7,"₹3,000 for two","Lower Parel, Mumbai","Taki Taki Lower Parel, Mumbai",19.0025,72.82763
+Mizu,"Japanese, Sushi, Seafood, Ice Cream, Desserts",4.0,"₹2,500 for two","Khar, Mumbai","Mizu Khar, Mumbai",19.06587,72.83283
+Folk,"North Indian, Goan, Salad, Desserts, Beverages",4.8,"₹1,000 for two","Fort, Mumbai","Folk Fort, Mumbai",18.9342,72.83402
+"West 1 - The Park, Navi Mumbai","North Indian, Continental, Bar Food, Fast Food, Beverages",4.0,"₹3,000 for two","The Park, CBD Belapur, Navi Mumbai","West 1 - The Park, Navi Mumbai The Park, CBD Belapur, Navi Mumbai",19.02495,73.03699
+Rasotsav,"Gujarati, North Indian",4.5,"₹1,400 for two","Andheri Lokhandwala, Andheri West, Mumbai","Rasotsav Andheri Lokhandwala, Andheri West, Mumbai",19.13636,72.82553
+Diablo,"Asian, North Indian, Chinese, Desserts, Beverages",4.2,"₹1,900 for two","Worli, Mumbai","Diablo Worli, Mumbai",19.00615,72.82744
+One 'O' One,"Asian, North Indian, Pizza, Continental",4.1,"₹1,500 for two","Kandivali East, Mumbai","One 'O' One Kandivali East, Mumbai",19.2121,72.87165
+Tessa,"Continental, North Indian, Italian, Biryani, Seafood, Mughlai, Chinese, Bar Food",4.5,"₹1,200 for two","Malad West, Mumbai","Tessa Malad West, Mumbai",19.19619,72.8121
+Three 60 Daily Bar & Kitchen,"Bar Food, North Indian, Mughlai, Biryani, Kebab, Chinese, Seafood, Desserts",4.5,"₹1,000 for two","Versova, Andheri West, Mumbai","Three 60 Daily Bar & Kitchen Versova, Andheri West, Mumbai",19.1283,72.81626
+Baoji Asian Home,"Chinese, Asian, Japanese, Rolls, Korean, Sushi, Seafood, Beverages",4.6,"₹2,000 for two","Andheri Lokhandwala, Andheri West, Mumbai","Baoji Asian Home Andheri Lokhandwala, Andheri West, Mumbai",19.14031,72.83299
+Lake View Cafe - The Westin Mumbai Powai Lake,"North Indian, Chinese, Italian, Mughlai, Desserts, Beverages",4.0,"₹3,500 for two","The Westin Mumbai Powai Lake, Mumbai","Lake View Cafe - The Westin Mumbai Powai Lake The Westin Mumbai Powai Lake, Mumbai",19.13446,72.90129
+Gosssip Corner,"Cafe, Italian, Fast Food, Salad, Desserts, Beverages",3.9,"₹1,200 for two","Borivali West, Mumbai","Gosssip Corner Borivali West, Mumbai",19.2393,72.84273
+Hillview Cafe - Marriott Executive Apartments Navi Mumbai,"North Indian, Continental, Asian, Salad, Chinese, Pizza, Biryani, Desserts",4.3,"₹2,100 for two","Turbhe, Navi Mumbai","Hillview Cafe - Marriott Executive Apartments Navi Mumbai Turbhe, Navi Mumbai",19.0633,73.02747
+Mynt - Vivanta Navi Mumbai,"Continental, North Indian, Pizza, Pasta, Salad, Seafood, Desserts, Beverages",4.2,"₹3,500 for two","Turbhe, Navi Mumbai","Mynt - Vivanta Navi Mumbai Turbhe, Navi Mumbai",19.06275,73.02306
+Hops Kitchen & Bar,"North Indian, Chinese, Sichuan, Bar Food",4.4,"₹1,900 for two","Andheri Lokhandwala, Andheri West, Mumbai","Hops Kitchen & Bar Andheri Lokhandwala, Andheri West, Mumbai",19.14656,72.82345
+Mia Cucina,"Italian, Pizza, Panini, Continental, Pasta, Desserts",4.3,"₹2,500 for two","Transocean House, Powai, Mumbai","Mia Cucina Transocean House, Powai, Mumbai",19.11982,72.90723
+Persian Darbar,"North Indian, Biryani, Kebab, Chinese, Mughlai",4.0,"₹1,800 for two","Times Square, Marol, Mumbai","Persian Darbar Times Square, Marol, Mumbai",19.10982,72.87572
+Rajdhani,North Indian,4.1,"₹1,200 for two","Vashi, Navi Mumbai","Rajdhani Vashi, Navi Mumbai",19.08342,73.00641
+Zoca Cafe,"Cafe, Coffee, Beverages, Pizza, Chinese, Continental, Pasta, Desserts",4.0,"₹1,200 for two","Veera Desai Area, Mumbai","Zoca Cafe Veera Desai Area, Mumbai",19.12752,72.83756
+93 East Lounge,"Bar Food, Beverages",4.3,"₹1,000 for two","Mahakali, Mumbai","93 East Lounge Mahakali, Mumbai",,
+Sao By The Sea,"Goan, Seafood, Continental",New,"₹2,000 for two","Gorai, Mumbai","Sao By The Sea Gorai, Mumbai",19.00591,72.82456
+Green Leaf Family Restaurant Lounge And Pub,"North Indian, Continental, Chinese, Seafood, Fast Food, Mughlai, Desserts, Beverages",3.5,"₹1,500 for two","Kalyan, Thane","Green Leaf Family Restaurant Lounge And Pub Kalyan, Thane",19.18214,73.15238
+"August Cafe - Deli, Bakery & Patisserie","Cafe, Beverages, Italian, Continental, Asian, Healthy Food, Mediterranean, Desserts",4.3,"₹1,600 for two","Andheri Lokhandwala, Andheri West, Mumbai","August Cafe - Deli, Bakery & Patisserie Andheri Lokhandwala, Andheri West, Mumbai",19.14273,72.82453
+Earth Cafe @ Juhu,"Cafe, Coffee, Continental, Healthy Food, Italian, Fast Food, Desserts, Beverages",4.2,"₹2,000 for two","Juhu, Mumbai","Earth Cafe @ Juhu Juhu, Mumbai",19.10646,72.82627
+The Atrangii House,"Chinese, North Indian, Finger Food, Asian, Italian, Oriental, Fast Food, Desserts",4.5,"₹1,800 for two","Airoli, Navi Mumbai","The Atrangii House Airoli, Navi Mumbai",19.14515,72.98917
+Mini Punjab Restaurant & Bar,"North Indian, Chinese, Biryani, Mughlai, Beverages, Bar Food, Bakery, BBQ",4.0,"₹1,000 for two","Vashi, Navi Mumbai","Mini Punjab Restaurant & Bar Vashi, Navi Mumbai",19.01125,73.03513
+Till Next Time,"Continental, Chinese, Pizza, Pasta, Italian, Fast Food, Beverages",4.0,"₹1,000 for two","Juhu, Mumbai","Till Next Time Juhu, Mumbai",19.11591,72.82851
+Coco Cafe,"Cafe, Coffee, Sandwich, Healthy Food, Continental, Fast Food, Shake, Beverages",4.5,"₹1,200 for two","Oberoi Mall, Goregaon East, Mumbai","Coco Cafe Oberoi Mall, Goregaon East, Mumbai",19.17381,72.86059
+The Bayview Restaurant - Marine Plaza,"North Indian, Mughlai, Fast Food, Pizza, Biryani",4.0,"₹4,000 for two","Marine Plaza, Marine Lines, Mumbai","The Bayview Restaurant - Marine Plaza Marine Plaza, Marine Lines, Mumbai",18.94244,72.82688
+Pibatie,"Cafe, Italian, Pasta, Mexican, Fast Food, Desserts, Coffee, Beverages",4.5,₹800 for two,"Borivali West, Mumbai","Pibatie Borivali West, Mumbai",19.22161,72.84763
+Seesaw,"Middle Eastern, Continental, Mediterranean, Healthy Food, Beverages, Desserts",4.6,"₹2,000 for two","Jio World Drive, Bandra Kurla Complex, Mumbai","Seesaw Jio World Drive, Bandra Kurla Complex, Mumbai",19.05289,72.84931
+Gaylord,"North Indian, Continental, Fast Food, Seafood, Italian, Biryani, Desserts, Beverages",3.8,"₹3,000 for two","Churchgate, Mumbai","Gaylord Churchgate, Mumbai",18.933,72.82613
+Cecconi's,"Italian, Pizza, Finger Food",3.7,"₹4,000 for two","Santacruz West, Mumbai","Cecconi's Santacruz West, Mumbai",19.09018,72.82735
+Chantilly,"Bakery, Waffle, Desserts, Coffee",4.3,₹850 for two,"Pali Hill, Bandra West, Mumbai","Chantilly Pali Hill, Bandra West, Mumbai",19.06217,72.82969
+Persia Darbar,"North Indian, Mughlai, Chinese, Asian, Seafood, Shawarma, Desserts, Beverages",4.4,"₹1,700 for two","Malad West, Mumbai","Persia Darbar Malad West, Mumbai",19.18872,72.8348
+Spice It - Ibis,"Continental, North Indian, Biryani, Asian, Pizza, Italian, Desserts, Beverages",4.0,"₹2,000 for two","Khopat, Thane West, Thane","Spice It - Ibis Khopat, Thane West, Thane",19.2079,72.96399
+The Game Palacio,"Pizza, Sushi, Asian",4.2,"₹2,400 for two","Linking Road, Bandra West, Mumbai","The Game Palacio Linking Road, Bandra West, Mumbai",19.0608,72.83456
+India Bistro,"North Indian, Bar Food, Mughlai, Biryani, Desserts, Beverages",4.5,"₹1,800 for two","Chembur, Mumbai","India Bistro Chembur, Mumbai",25.22416,55.28576
+Moon Palace Restaurant,"Maharashtrian, Oriental, North Indian, Biryani, Chinese, Pizza, Pasta, Desserts",4.2,"₹1,500 for two","Airoli, Navi Mumbai","Moon Palace Restaurant Airoli, Navi Mumbai",19.1522,72.9998
+The Butler And The Bayleaf,"North Indian, Awadhi, Kebab, Biryani",4.6,"₹2,500 for two","Hotel King's International, Juhu, Mumbai","The Butler And The Bayleaf Hotel King's International, Juhu, Mumbai",19.10699,72.82606
+Surbhi Pure Veg,"North Indian, South Indian, Sandwich, Chinese, Pizza, Italian, Desserts, Beverages",4.1,₹950 for two,"Kandivali East, Mumbai","Surbhi Pure Veg Kandivali East, Mumbai",19.21208,72.87082
+Ruby Talkies,"Continental, Italian, North Indian, Salad, Pasta, Healthy Food, Street Food, Desserts",4.5,"₹1,500 for two","Sakinaka, Mumbai","Ruby Talkies Sakinaka, Mumbai",19.10592,72.88464
+Mutuswami,"Tea, Coffee, Juices, Beverages, South Indian, Pizza, Sandwich, Street Food",4.1,₹500 for two,"Khar, Mumbai","Mutuswami Khar, Mumbai",19.06699,72.83913
+Thyme & Whisk,"North Indian, Continental, Asian, Italian, Salad, Fast Food, Desserts",4.0,"₹1,400 for two","Atria Mall, Worli, Mumbai","Thyme & Whisk Atria Mall, Worli, Mumbai",18.9912,72.81438
+Mamba,"Chinese, Italian, Asian, North Indian, Continental, Seafood",4.5,"₹2,300 for two","Manpada, Thane West, Thane","Mamba Manpada, Thane West, Thane",19.22492,72.97582
+Malvan Tadka,"Malwani, Seafood, Chinese, North Indian, Mughlai, Kebab, Desserts, Biryani",4.2,"₹1,400 for two","Vashi, Navi Mumbai","Malvan Tadka Vashi, Navi Mumbai",19.06465,72.99996
+Yolo Lounge,"Pizza, Pasta, Biryani, Bar Food, Chinese, Oriental, Desserts",4.6,"₹1,500 for two","Wagle Estate, Thane West, Thane","Yolo Lounge Wagle Estate, Thane West, Thane",19.19745,72.95565
+Lil Gamby Pizza Shop And Bar,"Pizza, Sandwich, Pasta, Beverages, Coffee",4.7,₹500 for two,"Khar, Mumbai","Lil Gamby Pizza Shop And Bar Khar, Mumbai",19.0727,72.87591
+Mountain Goat Cafe,"Momos, Chinese, Nepalese, Asian",3.9,"₹1,000 for two","Bandstand, Bandra West, Mumbai","Mountain Goat Cafe Bandstand, Bandra West, Mumbai",19.04663,72.82544
+Chin Chin Chu,"Asian, Japanese, Seafood, Sushi, Chinese, Desserts, Beverages",4.4,"₹2,500 for two","Juhu, Mumbai","Chin Chin Chu Juhu, Mumbai",19.11079,72.8253
+Maharaja Bhog,"North Indian, Gujarati, Rajasthani",4.5,"₹1,800 for two","Lower Parel, Mumbai","Maharaja Bhog Lower Parel, Mumbai",19.00129,72.82929
+Dobaraa,"North Indian, Asian, Continental, Mangalorean, Bar Food, Lebanese, Chinese, Pizza",3.9,"₹1,800 for two","Phoenix Marketcity, Kurla, Mumbai","Dobaraa Phoenix Marketcity, Kurla, Mumbai",19.08548,72.88678
+Mi Casa Su Casa,"Mexican, Desserts, Bar Food, Beverages",4.1,"₹1,800 for two","Andheri Lokhandwala, Andheri West, Mumbai","Mi Casa Su Casa Andheri Lokhandwala, Andheri West, Mumbai",19.14325,72.82472
+Goma - Asian Experience,"Japanese, Sushi, Asian, Chinese, Coffee, Desserts",4.6,"₹2,000 for two","Radisson, Goregaon West, Mumbai","Goma - Asian Experience Radisson, Goregaon West, Mumbai",19.17319,72.84498
+Casper's Bar And Kitchen,"Bar Food, North Indian, Biryani, Oriental, Salad, Pizza, Desserts, Beverages",4.4,"₹1,750 for two","Satra Plaza, Vashi, Navi Mumbai","Casper's Bar And Kitchen Satra Plaza, Vashi, Navi Mumbai",19.08679,73.00139
+Hakkasan,"Cantonese, Asian, Seafood, Desserts",4.6,"₹3,000 for two","Linking Road, Bandra West, Mumbai","Hakkasan Linking Road, Bandra West, Mumbai",19.06246,72.83557
+Olive Bar & Kitchen,"Italian, Pizza, Greek, Salad, Fast Food, Desserts",4.1,"₹4,000 for two","Khar, Mumbai","Olive Bar & Kitchen Khar, Mumbai",18.98038,72.8203
+Independence Brewing Company,"American, Cafe, Continental, Desserts, Fast Food, Bar Food, Beverages",4.6,"₹2,500 for two","Ventura Building, Powai, Mumbai","Independence Brewing Company Ventura Building, Powai, Mumbai",19.11631,72.90901
+Malhar Tribes,"North Indian, Maharashtrian, Andhra, Seafood, Chinese, Italian, Desserts, Beverages",4.6,"₹1,900 for two","Marol, Mumbai","Malhar Tribes Marol, Mumbai",19.11222,72.87929
+Bayroute,"Middle Eastern, Arabian",4.8,"₹3,500 for two","Transocean House, Powai, Mumbai","Bayroute Transocean House, Powai, Mumbai",19.11982,72.90723
+Canto Restaurant & Banquet,"Continental, Italian, Mexican, American, North Indian, Desserts, Beverages",4.6,"₹2,000 for two","Lower Parel, Mumbai","Canto Restaurant & Banquet Lower Parel, Mumbai",18.99849,72.83065
+Thyme & Whisk,"North Indian, Continental, Italian, Asian, Fast Food, Chinese, Desserts",4.2,"₹2,000 for two","Juhu, Mumbai","Thyme & Whisk Juhu, Mumbai",19.10672,72.82634
+Mashriq House Of Mandi,"Mandi, Middle Eastern, Mughlai, North Indian, Desserts, Beverages",4.1,"₹1,500 for two","Versova, Andheri West, Mumbai","Mashriq House Of Mandi Versova, Andheri West, Mumbai",19.13103,72.81386
+Turkey Junction Restaurant,"Turkish, Arabian, Mughlai, North Indian, Chinese, Desserts, Beverages",4.2,"₹1,000 for two","Bandra Talao, Bandra West, Mumbai","Turkey Junction Restaurant Bandra Talao, Bandra West, Mumbai",19.06135,72.837
+Bokka Coffee,"Cafe, Coffee",3.8,₹700 for two,"Pali Hill, Bandra West, Mumbai","Bokka Coffee Pali Hill, Bandra West, Mumbai",19.06493,72.83111
+Coast & Bloom,"Seafood, Maharashtrian, South Indian, Asian, Chinese, Desserts",4.5,"₹2,000 for two","Kohinoor Square Mall, Mumbai","Coast & Bloom Kohinoor Square Mall, Mumbai",19.02486,72.84119
+Corra,"Continental, Pizza, Pasta, Mexican, Chinese, Coffee, Beverages",4.4,"₹2,000 for two","Oshiwara, Andheri West, Mumbai","Corra Oshiwara, Andheri West, Mumbai",19.14048,72.82773
+"One Aura - Pool, Eatery & Bar","Continental, North Indian, Modern Indian, Oriental, Asian, American, Italian",New,"₹2,000 for two","Andheri East, Mumbai","One Aura - Pool, Eatery & Bar Andheri East, Mumbai",19.11698,72.87002
+Zoila,"North Indian, Chinese, Continental, Salad, Fast Food, Bar Food, Desserts, Beverages",3.8,"₹1,800 for two","Fun Republic Mall, Veera Desai Area, Mumbai","Zoila Fun Republic Mall, Veera Desai Area, Mumbai",19.13597,72.83586
+Kissa Stories Over Food,"Asian, Sushi, Italian, Pizza, Modern Indian, Burger, Desserts, Continental",4.4,"₹1,400 for two","Andheri Lokhandwala, Andheri West, Mumbai","Kissa Stories Over Food Andheri Lokhandwala, Andheri West, Mumbai",19.14762,72.82935
+Greenr Cafe,"Cafe, Salad, Pizza, Healthy Food, Italian, Desserts, Beverages",4.9,₹800 for two,"Pali Hill, Bandra West, Mumbai","Greenr Cafe Pali Hill, Bandra West, Mumbai",19.06369,72.82952
+Cafe Crema - Peninsula Grand Hotel,"North Indian, Pizza, Sushi, Chinese, Asian, Pasta, Desserts, Beverages",4.3,"₹1,400 for two","Sakinaka, Mumbai","Cafe Crema - Peninsula Grand Hotel Sakinaka, Mumbai",19.1025,72.88865
+The Villa Exotic Sip And Cuisine,"North Indian, Continental, Oriental, Kebab, Pizza, Sushi, Chinese, Desserts",3.5,"₹1,400 for two","Borivali West, Mumbai","The Villa Exotic Sip And Cuisine Borivali West, Mumbai",19.21983,72.84169
+Saffron & Soy,"North Indian, Chinese, Biryani, Oriental, Continental, Finger Food, Desserts, Beverages",4.4,"₹1,800 for two","Juhu, Mumbai","Saffron & Soy Juhu, Mumbai",19.10137,72.82694
+Pritam Da Dhaba,"North Indian, Mughlai, Kebab, Seafood, Biryani, Desserts, Beverages",3.9,"₹1,600 for two","Juhu, Mumbai","Pritam Da Dhaba Juhu, Mumbai",19.09141,72.82785
+Ammas Restaurant & Bar,"North Indian, Chinese, Seafood, Fast Food, Mughlai, Desserts, Beverages",4.4,"₹1,000 for two","Near Andheri East Station, Mumbai","Ammas Restaurant & Bar Near Andheri East Station, Mumbai",19.11646,72.85481
+Mezcalita Cantina y Tequila Bar,"Mexican, Bar Food, Sandwich, Fast Food, Coffee, Beverages",4.0,"₹1,500 for two","Churchgate, Mumbai","Mezcalita Cantina y Tequila Bar Churchgate, Mumbai",18.93355,72.82579
+Sun & Moon Korean Restaurant,"Korean, Bubble Tea, Coffee",4.4,"₹2,500 for two","Worli, Mumbai","Sun & Moon Korean Restaurant Worli, Mumbai",18.9929,72.82223
+Tight House,"North Indian, Fast Food, Chinese, Kebab, Pasta, Beverages",3.9,"₹2,500 for two","Borivali West, Mumbai","Tight House Borivali West, Mumbai",19.23233,72.82815
+Chef's House,"Asian, Continental, Italian, North Indian, Mughlai, Chinese, Desserts, Beverages",4.1,"₹1,000 for two","Mahakali, Mumbai","Chef's House Mahakali, Mumbai",19.12463,72.864
+Kubec,"North Indian, Fast Food, Chinese",4.0,"₹1,000 for two","Powai, Mumbai","Kubec Powai, Mumbai",19.12315,72.90933
+Ikka - Pallavi Avida,"North Indian, Chinese, Fast Food",4.4,"₹1,400 for two","Pallavi Avida, Kalamboli, Navi Mumbai","Ikka - Pallavi Avida Pallavi Avida, Kalamboli, Navi Mumbai",19.04331,73.10194
+Seven Kitchens - The St. Regis Mumbai,"Chinese, North Indian, Italian, European, Asian, Desserts, Beverages",4.2,"₹5,000 for two","The St. Regis, Lower Parel, Mumbai","Seven Kitchens - The St. Regis Mumbai The St. Regis, Lower Parel, Mumbai",18.99403,72.82461
+Heng Bok,Korean,4.0,"₹2,000 for two","Andheri Lokhandwala, Andheri West, Mumbai","Heng Bok Andheri Lokhandwala, Andheri West, Mumbai",19.13775,72.82562
+Shifuku Asian Dining & Cocktail Bar,"Asian, Japanese, Chinese, Thai, Korean, Sushi, Desserts",4.5,"₹2,000 for two","Andheri Lokhandwala, Andheri West, Mumbai","Shifuku Asian Dining & Cocktail Bar Andheri Lokhandwala, Andheri West, Mumbai",19.14156,72.82687
+The Backyard Brew,"Cafe, Coffee, Burger, Pasta, Continental, Fast Food, Pizza, Sandwich",4.6,"₹1,200 for two","Versova, Andheri West, Mumbai","The Backyard Brew Versova, Andheri West, Mumbai",19.12854,72.82815
+Banyan Tree Cafe,"Salad, Healthy Food, Sandwich, Continental, Coffee, Beverages",4.4,₹700 for two,"Fort, Mumbai","Banyan Tree Cafe Fort, Mumbai",18.93523,72.83821
+TAP,"Continental, Asian, Italian, Chinese, North Indian, Seafood, Salad, Desserts",4.1,"₹2,200 for two","Times Square, Marol, Mumbai","TAP Times Square, Marol, Mumbai",19.11544,72.85458
+Magna - Café & Bar,"Asian, Continental, Mediterranean, Sushi, Lebanese, Pizza, Desserts, Beverages",4.2,"₹2,500 for two","Wagle Estate, Thane West, Thane","Magna - Café & Bar Wagle Estate, Thane West, Thane",19.19285,72.94482
+Oye Kake,"North Indian, Ice Cream, Desserts, Beverages",4.2,"₹1,300 for two","Ghatkopar West, Mumbai","Oye Kake Ghatkopar West, Mumbai",19.09943,72.91564
+The Munchbox,"Mexican, Continental, Fast Food, North Indian, Chinese, Sichuan, Shake, Beverages",4.4,"₹2,000 for two","Malad West, Mumbai","The Munchbox Malad West, Mumbai",19.19133,72.8347
+Samvene - The Bagel Cafe,"Cafe, Coffee, Shake, Beverages, Italian, Continental, Fast Food, Desserts",4.1,"₹1,000 for two","Manpada, Thane West, Thane","Samvene - The Bagel Cafe Manpada, Thane West, Thane",19.19279,72.96752
+Boulevard - The Orchid,"North Indian, Continental, Pasta, Pizza, Chinese, Biryani, Seafood, Desserts",4.4,"₹3,000 for two","The Orchid, Vile Parle East, Mumbai","Boulevard - The Orchid The Orchid, Vile Parle East, Mumbai",19.09622,72.85458
+Barista Coffee,"Cafe, Coffee, Desserts",3.5,₹600 for two,"Chembur, Mumbai","Barista Coffee Chembur, Mumbai",19.06133,72.90776
+Soho House,"Continental, Pizza, Tea",New,"₹2,000 for two","Juhu, Mumbai","Soho House Juhu, Mumbai",19.10556,72.82495
+The Homemade Cafe & Bar,"Cafe, Italian, Continental, Pizza, Pasta, Beverages, Desserts",4.4,"₹1,400 for two","Juhu, Mumbai","The Homemade Cafe & Bar Juhu, Mumbai",19.10362,72.82708
+House Of KO,"European, Asian, Continental, Salad, Desserts, Pizza, Beverages, Bar Food",4.3,"₹1,800 for two","Chembur, Mumbai","House Of KO Chembur, Mumbai",19.03488,72.89574
+Aamchee,"Maharashtrian, Salad, Desserts, Beverages",4.0,"₹1,000 for two","Chowpatty, Mumbai","Aamchee Chowpatty, Mumbai",18.95974,72.81193
+The Bandstand Pantry,"Cafe, Healthy Food, Continental, Sandwich, Pizza, Beverages, Shake, Desserts",4.1,"₹1,700 for two","Bandstand, Bandra West, Mumbai","The Bandstand Pantry Bandstand, Bandra West, Mumbai",19.04748,72.81997
+China Ming,"Chinese, Sushi, Seafood, Bar Food, Asian, Desserts, Beverages",4.2,"₹1,800 for two","The Hub Mall, Goregaon East, Mumbai","China Ming The Hub Mall, Goregaon East, Mumbai",19.15489,72.85639
+California Pizza Kitchen,"Pizza, American, Italian, Pasta, Continental, Salad, Beverages, Desserts",4.2,"₹1,800 for two","Kohinoor Square Mall, Mumbai","California Pizza Kitchen Kohinoor Square Mall, Mumbai",19.11343,72.91284
+Cavalry The Lounge,"North Indian, Chinese, Oriental, Italian, Kebab, Beverages",4.3,"₹2,700 for two","Powai, Mumbai","Cavalry The Lounge Powai, Mumbai",19.11864,72.90555
+Heritage Kitchen And Bar,"North Indian, Continental",4.5,"₹1,000 for two","Marol, Mumbai","Heritage Kitchen And Bar Marol, Mumbai",19.10829,72.88612
+Art House - The Fern Residency,"North Indian, Continental, Chinese, Sandwich, Mughlai, Salad, Desserts, Beverages",4.0,"₹2,500 for two","Chembur, Mumbai","Art House - The Fern Residency Chembur, Mumbai",19.05262,72.89211
+Fillo,"North Indian, Chinese, Italian, Continental, Pizza, Beverages",4.5,"₹1,000 for two","Bhayandar, Mumbai","Fillo Bhayandar, Mumbai",19.26089,72.87287
+Joshi House,"North Indian, Continental, Italian, Salad, Chinese, Bar Food",3.9,"₹2,000 for two","Pali Hill, Bandra West, Mumbai","Joshi House Pali Hill, Bandra West, Mumbai",19.06341,72.82953
+Zima,"Lebanese, Mediterranean, Kebab, Middle Eastern, Arabian, Seafood, Desserts, Beverages",4.3,"₹2,500 for two","Linking Road, Bandra West, Mumbai","Zima Linking Road, Bandra West, Mumbai",19.06246,72.83557
+Gymkhana 91 Bar & Kitchen,"North Indian, Japanese, Thai, Burmese, Chinese, Beverages",4.3,"₹1,800 for two","Lower Parel, Mumbai","Gymkhana 91 Bar & Kitchen Lower Parel, Mumbai",18.99215,72.82407
+Delhi se,North Indian,4.7,₹200 for two,"Chembur, Mumbai","Delhi se Chembur, Mumbai",19.04554,72.89453
+Motodo Pizzeria,"Pizza, Italian, Desserts, Tea, Coffee, Beverages",4.5,"₹1,900 for two","Jio World Drive, Bandra Kurla Complex, Mumbai","Motodo Pizzeria Jio World Drive, Bandra Kurla Complex, Mumbai",19.05289,72.84931
+Farmhouse Palladium,"North Indian, Chinese, Asian, Continental, Seafood, Fast Food, Biryani, Desserts",4.4,"₹1,650 for two","Borivali West, Mumbai","Farmhouse Palladium Borivali West, Mumbai",19.24999,72.84804
+SodaBottleOpenerWala,"Parsi, North Indian, Street Food, Desserts, Beverages",4.3,"₹1,600 for two","Bandra Kurla Complex, Mumbai","SodaBottleOpenerWala Bandra Kurla Complex, Mumbai",19.06361,72.86214
+On The Docks,"Chinese, Continental, Italian, Pizza, Pasta, North Indian, Bar Food, Beverages",4.3,"₹1,200 for two","Fort, Mumbai","On The Docks Fort, Mumbai",18.93892,72.83834
+Thane Social,"North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Kebab, Beverages",4.2,"₹1,800 for two","Viviana Mall, Majiwada, Thane West, Thane","Thane Social Viviana Mall, Majiwada, Thane West, Thane",19.20984,72.97186
+Mezzaterra,"Maharashtrian, Fast Food",3.8,"₹1,000 for two","Borivali West, Mumbai","Mezzaterra Borivali West, Mumbai",19.23316,72.85311
+5 Spice,"Chinese, Sichuan, Asian, Thai, Seafood",4.0,"₹1,300 for two","CBD-Belapur, Navi Mumbai","5 Spice CBD-Belapur, Navi Mumbai",19.01509,73.04111
+Kareem's,"North Indian, Mughlai, Biryani, Rolls, Shawarma",4.7,₹550 for two,"Andheri Lokhandwala, Andheri West, Mumbai","Kareem's Andheri Lokhandwala, Andheri West, Mumbai",19.13775,72.82562
+TOT The Bar,"Chinese, Pizza, Pasta, Fast Food, Desserts",3.8,₹600 for two,"Malad West, Mumbai","TOT The Bar Malad West, Mumbai",19.18079,72.84704
+Fyole,"Cafe, Desserts, Bakery, Sandwich, Pizza, Salad",4.3,₹900 for two,"Lower Parel, Mumbai","Fyole Lower Parel, Mumbai",18.99424,72.82513
+Beans & Beyond - Coffee & Eatery,"Continental, Asian, Italian, Chinese, Mexican, Fast Food, Pizza, Salad",4.2,"₹1,000 for two","CBD-Belapur, Navi Mumbai","Beans & Beyond - Coffee & Eatery CBD-Belapur, Navi Mumbai",19.0157,73.04019
+Project Hum,"Salad, Sandwich, Wraps, Desserts, Beverages",4.9,₹950 for two,"Pali Hill, Bandra West, Mumbai","Project Hum Pali Hill, Bandra West, Mumbai",19.06164,72.82898
+Journal,"Coffee, Continental, Italian, Bakery",4.3,₹700 for two,"Santacruz West, Mumbai","Journal Santacruz West, Mumbai",19.08303,72.83895
+Gurukripa,"North Indian, Mughlai, Chinese, Fast Food, Rolls, Biryani, Kebab, Beverages",4.3,"₹1,700 for two","Powai, Mumbai","Gurukripa Powai, Mumbai",19.11716,72.8897
+Smoor,"Asian, Salad, Pizza, Sandwich, Burger, Desserts, Beverages",4.3,₹600 for two,"Reclamation, Bandra West, Mumbai","Smoor Reclamation, Bandra West, Mumbai",19.05083,72.835
+Qissa,"North Indian, Biryani, Chinese, Seafood, Desserts",3.7,"₹1,300 for two","Mulund West, Mumbai","Qissa Mulund West, Mumbai",19.17664,72.94497
+Khyber,"North Indian, Seafood, Mughlai, Kebab, Desserts",4.0,"₹3,000 for two","Fort, Mumbai","Khyber Fort, Mumbai",18.9283,72.83164
+Gallops,"North Indian, Continental, Seafood, Desserts, Beverages",4.1,"₹2,700 for two","Mahalaxmi, Mumbai","Gallops Mahalaxmi, Mumbai",18.98088,72.81713
+Breve,"Cafe, Coffee, Continental, Beverages",3.1,₹500 for two,"Bandstand, Bandra West, Mumbai","Breve Bandstand, Bandra West, Mumbai",19.05058,72.82675
+Nav Chaitanya,"Malwani, Seafood, Maharashtrian, Desserts",4.6,"₹1,600 for two","4 Bungalows, Mumbai","Nav Chaitanya 4 Bungalows, Mumbai",19.12515,72.83003
+Status Veg Restaurant,"North Indian, South Indian, Street Food, Fast Food, Beverages, Shake, Sichuan",4.3,₹950 for two,"Nariman Point, Mumbai","Status Veg Restaurant Nariman Point, Mumbai",18.92567,72.8261
+Dimsum Momo Express,"Chinese, Momos",3.6,₹450 for two,"Chakala, Mumbai","Dimsum Momo Express Chakala, Mumbai",19.11153,72.87123
+The Timess Square,"Chinese, Continental, Arabian, Pizza, North Indian, Desserts, Beverages",4.4,"₹1,800 for two","Borivali West, Mumbai","The Timess Square Borivali West, Mumbai",19.22573,72.84093
+Bora Bora,"Continental, Mexican, Chinese, North Indian",4.1,"₹2,500 for two","Juhu, Mumbai","Bora Bora Juhu, Mumbai",19.09822,72.82665
+Lotus Cafe - JW Marriott Mumbai Juhu,"North Indian, Asian, Italian, Continental, Lebanese",4.0,"₹5,000 for two","JW Marriott Mumbai, Juhu, Mumbai","Lotus Cafe - JW Marriott Mumbai Juhu JW Marriott Mumbai, Juhu, Mumbai",19.10186,72.82608
+Si Nonna's - The Original Sourdough Pizza,"Pizza, Italian, Desserts, Coffee",4.5,"₹1,000 for two","Inorbit Mall, Vashi, Navi Mumbai","Si Nonna's - The Original Sourdough Pizza Inorbit Mall, Vashi, Navi Mumbai",19.0028,72.8286
+Cafe Holiday,"Bar Food, Tea, Coffee, Shake, Beverages",4.4,"₹1,000 for two","Bhayandar, Mumbai","Cafe Holiday Bhayandar, Mumbai",19.07005,72.82972
+Game Palacio,"Continental, Mexican, Chinese, Pizza, Pasta, Seafood, Biryani, Desserts",4.1,"₹1,600 for two","Phoenix Marketcity, Kurla, Mumbai","Game Palacio Phoenix Marketcity, Kurla, Mumbai",19.0862,72.88847
+Black Bull Bar & Restaurant,"North Indian, Chinese, Kebab, Biryani, Mughlai, Seafood, Sichuan, Desserts",4.2,"₹1,200 for two","Near Andheri East Station, Mumbai","Black Bull Bar & Restaurant Near Andheri East Station, Mumbai",19.1088,72.8574
+Food Inn Royale,"North Indian, Arabian, Mughlai, Maharashtrian, Biryani, Seafood, Shake, Desserts",4.3,₹850 for two,"Oshiwara, Andheri West, Mumbai","Food Inn Royale Oshiwara, Andheri West, Mumbai",19.15066,72.83094
+Blend Kitchen And Bar,"North Indian, Oriental, Bar Food, Beverages, Coffee, Chinese, Desserts",4.5,"₹1,400 for two","Vile Parle East, Mumbai","Blend Kitchen And Bar Vile Parle East, Mumbai",19.09955,72.87481
+The Table,"Continental, European, Fast Food, Beverages",4.7,"₹5,000 for two","Colaba, Mumbai","The Table Colaba, Mumbai",18.92412,72.83313
+Jimis Burger,"Burger, Fast Food, Beverages",4.5,₹650 for two,"Malad West, Mumbai","Jimis Burger Malad West, Mumbai",19.18884,72.8348
+Brik,"Continental, Italian, Burger, Pizza, Chinese, Desserts, Beverages",4.1,"₹1,200 for two","Fort, Mumbai","Brik Fort, Mumbai",19.00063,72.8598
+Grounded,"Cafe, Coffee, Fast Food, Bakery, Beverages, Desserts",3.6,₹800 for two,"Bandstand, Bandra West, Mumbai","Grounded Bandstand, Bandra West, Mumbai",19.04761,72.82082
+Nho Saigon,"Vietnamese, Asian, Finger Food, Thai, Beverages, Desserts",4.5,"₹2,000 for two","Jet Airways Godrej, Bandra Kurla Complex, Mumbai","Nho Saigon Jet Airways Godrej, Bandra Kurla Complex, Mumbai",19.05952,72.86514
+The Fusion Kitchen,"Continental, Mexican, Italian, Thai, Asian, Desserts, Beverages",4.8,"₹1,900 for two","Borivali West, Mumbai","The Fusion Kitchen Borivali West, Mumbai",19.2497,72.8487
+Trento,"North Indian, Asian, Italian, Salad, Seafood, Biryani, Desserts, Beverages",4.5,"₹1,100 for two","Goregaon West, Mumbai","Trento Goregaon West, Mumbai",19.15924,72.84209
+The lovefools,"Italian, Coffee, Tea, Beverages",3.8,"₹1,000 for two","Hill Road, Bandra West, Mumbai","The lovefools Hill Road, Bandra West, Mumbai",19.05437,72.83304
+Bombay Martini,"Chinese, Fast Food, North Indian, Biryani, Desserts, Beverages",4.3,"₹1,400 for two","Powai, Mumbai","Bombay Martini Powai, Mumbai",19.05771,72.83531
+De Aura Global Dining And Bar,"North Indian, Biryani, Continental, Middle Eastern, Asian, Chinese, Sushi, Desserts",4.3,"₹1,500 for two","Majiwada, Thane West, Thane","De Aura Global Dining And Bar Majiwada, Thane West, Thane",19.21189,72.9814
+Agent Jack's Bar,"North Indian, Chinese, Continental, Italian, Beverages, Pasta, Pizza, Oriental",4.2,"₹1,500 for two","Ghatkopar West, Mumbai","Agent Jack's Bar Ghatkopar West, Mumbai",19.09987,72.91635
+Curry N Pasta,"North Indian, Chinese, South Indian, Fast Food, Continental, Arabian, American",3.8,"₹3,000 for two","Parle International, Vile Parle East, Mumbai","Curry N Pasta Parle International, Vile Parle East, Mumbai",19.10114,72.84511
+Gadda Da Vida - Novotel Mumbai Juhu Beach,"Continental, Fast Food, Seafood",4.3,"₹5,500 for two","Novotel, Juhu, Mumbai","Gadda Da Vida - Novotel Mumbai Juhu Beach Novotel, Juhu, Mumbai",19.10852,72.82475
+By the Mekong - The St. Regis Mumbai,"Chinese, Vietnamese, Thai",4.3,"₹5,500 for two","The St. Regis, Lower Parel, Mumbai","By the Mekong - The St. Regis Mumbai The St. Regis, Lower Parel, Mumbai",18.99517,72.82346
+Imlee The Chat Gali by Neeti Goel & Curly Tales,"Street Food, Desserts, Beverages",2.8,₹300 for two,"Pali Hill, Bandra West, Mumbai","Imlee The Chat Gali by Neeti Goel & Curly Tales Pali Hill, Bandra West, Mumbai",19.05458,72.82583
+Farmer's Cafe,"Cafe, Italian, Healthy Food, Desserts",3.6,"₹1,700 for two","Khar, Mumbai","Farmer's Cafe Khar, Mumbai",19.06693,72.83247
+Gourmet Bar By Novotel,"European, Continental, Italian, Desserts",4.7,"₹2,300 for two","Marol, Mumbai","Gourmet Bar By Novotel Marol, Mumbai",19.10831,72.82507
+WOW! Momo,"Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts",4.1,₹400 for two,"Prabhadevi, Mumbai","WOW! Momo Prabhadevi, Mumbai",19.013,72.8283
+Saptami - Holiday Inn,"Continental, North Indian, Italian, American, Chinese, Healthy Food, Beverages",4.1,"₹2,700 for two","Holiday Inn, Sakinaka, Mumbai","Saptami - Holiday Inn Holiday Inn, Sakinaka, Mumbai",19.10345,72.88726
+Flavors,"North Indian, Mughlai, Oriental, Fast Food, Chinese, Pizza, Desserts, Beverages",4.2,"₹1,800 for two","Hotel Yogi Metropolitan, Sanpada, Navi Mumbai","Flavors Hotel Yogi Metropolitan, Sanpada, Navi Mumbai",19.06813,73.01076
+Malang - Courtyard By Marriott Navi Mumbai,"North Indian, Mughlai, Biryani",4.4,"₹2,500 for two","Nerul, Navi Mumbai","Malang - Courtyard By Marriott Navi Mumbai Nerul, Navi Mumbai",19.04334,73.02699
+Jia The Oriental Kitchen,"Japanese, Sushi, Chinese, Asian, Thai, Seafood, Cantonese, Desserts",4.2,"₹3,000 for two","Colaba, Mumbai","Jia The Oriental Kitchen Colaba, Mumbai",18.92416,72.8324
+Nara,"Thai, Seafood, Asian, Bar Food",4.2,"₹3,500 for two","Bandra Kurla Complex, Mumbai","Nara Bandra Kurla Complex, Mumbai",19.06118,72.86265
+Dakshinayan,"South Indian, Desserts, Beverages",4.4,₹700 for two,"Juhu, Mumbai","Dakshinayan Juhu, Mumbai",19.11291,72.82577
+Magari,"Cafe, Coffee, European, Healthy Food, Salad, Italian",4.1,₹560 for two,"Kandivali West, Mumbai","Magari Kandivali West, Mumbai",19.21354,72.8381
+145 Kala Ghoda,"American, Korean, North Indian, Asian, Italian, Shake, Desserts, Beverages",4.4,"₹1,800 for two","Fort, Mumbai","145 Kala Ghoda Fort, Mumbai",18.92833,72.83188
+Kuai Kitchen,"Asian, Chinese, Sushi, Thai, Seafood, Sichuan, Desserts",4.2,"₹1,800 for two","Linking Road, Bandra West, Mumbai","Kuai Kitchen Linking Road, Bandra West, Mumbai",19.05454,72.83754
+The Caravan Menu,"North Indian, Chinese, Pasta, Fast Food, Desserts",4.4,"₹1,600 for two","Panch Pakhadi, Thane West, Thane","The Caravan Menu Panch Pakhadi, Thane West, Thane",19.19514,72.96177
+Shams Alibaba Cafe,"North Indian, Chinese, Mughlai, Kebab, Biryani, Seafood, Desserts",New,"₹1,000 for two","Jogeshwari, Mumbai","Shams Alibaba Cafe Jogeshwari, Mumbai",19.13984,72.84357
+Fauna Cafe,"Cafe, Coffee, Fast Food, Sandwich, Pizza, Italian, Healthy Food, Desserts",4.5,"₹1,000 for two","Wagle Estate, Thane West, Thane","Fauna Cafe Wagle Estate, Thane West, Thane",19.19709,72.94958
+Colaba,"North Indian, Mughlai, Seafood, Biryani, Chinese, Sichuan",3.4,₹600 for two,"Colaba, Mumbai","Colaba Colaba, Mumbai",18.91663,72.82858
+Mirchi & Mime,"Fast Food, North Indian, Biryani, Maharashtrian, Salad, Desserts",4.9,"₹2,000 for two","Transocean House, Powai, Mumbai","Mirchi & Mime Transocean House, Powai, Mumbai",19.11982,72.90723
+1 BHK - Bar House Kitchen,"North Indian, Goan, Italian, Portuguese, Bar Food",4.6,"₹2,000 for two","Vashi, Navi Mumbai","1 BHK - Bar House Kitchen Vashi, Navi Mumbai",19.06408,72.99814
+Urban Tadka,"North Indian, Mughlai, Biryani, Kebab, Seafood, Bar Food, Beverages",4.3,"₹1,900 for two","Growel's 101 Mall, Kandivali East, Mumbai","Urban Tadka Growel's 101 Mall, Kandivali East, Mumbai",19.20327,72.85958
+Kuuraku,"Japanese, Sushi",4.0,"₹2,000 for two","Linking Road, Bandra West, Mumbai","Kuuraku Linking Road, Bandra West, Mumbai",19.05454,72.83754
+Royale Masterchef Fine Dine And Bar,"North Indian, Asian, Italian, Continental, Mughlai, Lebanese, Oriental, Bar Food",4.4,"₹1,700 for two","Dahisar West, Mumbai","Royale Masterchef Fine Dine And Bar Dahisar West, Mumbai",19.25854,72.85328
+WOW! China,"Chinese, Oriental, Asian, Sichuan, Seafood, Momos",4.0,₹900 for two,"Sion, Mumbai","WOW! China Sion, Mumbai",19.04159,72.86068
+Farmhouse Brass Anchor Rest-O-Bar,"Continental, Asian, North Indian, Chinese, Seafood, Fast Food, Biryani, Desserts",4.4,"₹1,300 for two","Borivali West, Mumbai","Farmhouse Brass Anchor Rest-O-Bar Borivali West, Mumbai",19.223,72.85451
+Sesami Asian Kitchen Bar,"Chinese, Asian, Japanese, Sushi",4.5,"₹2,500 for two","Rodas Hotel, Powai, Mumbai","Sesami Asian Kitchen Bar Rodas Hotel, Powai, Mumbai",19.1182,72.91132
+Cafe Mommy Joon,"Middle Eastern, Kebab, Iranian, Desserts, Healthy Food, Mediterranean, Tea, Coffee",4.9,"₹3,500 for two","Linking Road, Bandra West, Mumbai","Cafe Mommy Joon Linking Road, Bandra West, Mumbai",19.05972,72.83246
+Peshawri - ITC Maratha,"North Indian, Mughlai, Kebab, Seafood, Desserts",4.5,"₹8,500 for two","ITC Maratha, Chakala, Mumbai","Peshawri - ITC Maratha ITC Maratha, Chakala, Mumbai",19.10408,72.86789
+Kala Ghoda Cafe,"Continental, Desserts, Salad, Sandwich, Beverages",4.1,"₹1,200 for two","Fort, Mumbai","Kala Ghoda Cafe Fort, Mumbai",18.92851,72.83226
+Turkey Central,"Turkish, North Indian, Mughlai, Biryani, Desserts",4.0,₹950 for two,"Oshiwara, Andheri West, Mumbai","Turkey Central Oshiwara, Andheri West, Mumbai",19.15152,72.83197
+Bara Bara Bistro & Bar,"North Indian, Mughlai, Kebab, Chinese, Biryani, Italian, Bar Food, Desserts",4.5,"₹1,000 for two","Airoli, Navi Mumbai","Bara Bara Bistro & Bar Airoli, Navi Mumbai",19.14211,72.99266
+Woodside Inn,"Continental, Pizza, Burger, Salad, Pasta, Bar Food, Desserts",4.6,"₹1,200 for two","Pali Hill, Bandra West, Mumbai","Woodside Inn Pali Hill, Bandra West, Mumbai",19.06244,72.82939
+Cafe Holiday,"Cafe, Oriental, Continental, American, Fast Food, Desserts, Beverages",4.4,"₹1,400 for two","7 Bungalows, Andheri West, Mumbai","Cafe Holiday 7 Bungalows, Andheri West, Mumbai",19.12637,72.82093
+Spice Laundry,"Asian, Modern Indian, Sushi, Chinese, Biryani, Desserts, Beverages",4.3,"₹2,000 for two","Chembur, Mumbai","Spice Laundry Chembur, Mumbai",19.05177,72.89127
+Golden Delicacy,"Italian, Mexican, North Indian, Oriental, Chinese, South Indian, Desserts, Beverages",4.1,"₹1,700 for two","Borivali West, Mumbai","Golden Delicacy Borivali West, Mumbai",19.22272,72.84948
+Royal China,"Chinese, Asian, Cantonese, Seafood, Desserts",4.1,"₹3,000 for two","Hill Road, Bandra West, Mumbai","Royal China Hill Road, Bandra West, Mumbai",19.05309,72.824
+The Chocolate Heaven,"Cafe, Coffee, Continental, Pizza, Burger, Waffle, Pasta, Desserts",3.4,₹950 for two,"Vile Parle West, Mumbai","The Chocolate Heaven Vile Parle West, Mumbai",19.11023,72.83251
+Ping's Cafe Orient,"Asian, Chinese, Japanese, Salad, Vietnamese, Oriental, Sushi, Thai",4.5,"₹2,000 for two","Lower Parel, Mumbai","Ping's Cafe Orient Lower Parel, Mumbai",19.00192,72.82925
+Kaala Chashma,"North Indian, Asian, Italian, Sichuan, Seafood, Thai, Desserts, Beverages",4.5,"₹1,200 for two","Wagle Estate, Thane West, Thane","Kaala Chashma Wagle Estate, Thane West, Thane",19.18931,72.95244
+Smoor,"Bakery, Desserts",4.2,"₹1,500 for two","Powai, Mumbai","Smoor Powai, Mumbai",19.1201,72.90887
+Mad Doh - Sourdough Pizzeria & Bakes,Italian,4.2,"₹1,100 for two","Mulund West, Mumbai","Mad Doh - Sourdough Pizzeria & Bakes Mulund West, Mumbai",19.17346,72.94735
+Stand By Coffee,"Coffee, Beverages, Desserts, Continental, Mexican, Italian",3.6,₹600 for two,"Worli, Mumbai","Stand By Coffee Worli, Mumbai",18.99723,72.81234
+Achija,"North Indian, South Indian, Biryani, Pizza, Sandwich, Juices, Shake, Beverages",2.8,"₹1,000 for two","Lower Parel, Mumbai","Achija Lower Parel, Mumbai",18.99373,72.82587
+The Backlane Kitchen & Bar,"Finger Food, BBQ, Maharashtrian, North Indian, Chinese, Oriental",4.5,"₹1,200 for two","Majiwada, Thane West, Thane","The Backlane Kitchen & Bar Majiwada, Thane West, Thane",19.22942,72.98562
+Idlay Cafe,South Indian,4.4,₹350 for two,"Chakala, Mumbai","Idlay Cafe Chakala, Mumbai",19.10834,72.86434
+Hellz Kitchen,"Italian, Continental, Healthy Food, Burger, Pasta, Shake",3.9,₹700 for two,"Lower Parel, Mumbai","Hellz Kitchen Lower Parel, Mumbai",19.0032,72.8306
+Figaro's Pizza,"Pizza, Fast Food, Desserts",3.4,₹550 for two,"Veera Desai Area, Mumbai","Figaro's Pizza Veera Desai Area, Mumbai",19.12928,72.83771
+On The Way Falooda,"Desserts, Ice Cream",4.0,₹300 for two,"Borivali West, Mumbai","On The Way Falooda Borivali West, Mumbai",19.20551,72.84227
+Current Affairs,Bar Food,4.4,"₹1,300 for two","Mira Road, Mumbai","Current Affairs Mira Road, Mumbai",19.28951,72.86532
+Seasonal Tastes - The Westin Mumbai Garden City,"North Indian, Continental, Asian, South Indian, Fast Food",4.1,"₹5,000 for two","The Westin Mumbai Garden City, Goregaon East, Mumbai","Seasonal Tastes - The Westin Mumbai Garden City The Westin Mumbai Garden City, Goregaon East, Mumbai",19.17261,72.86057
+Pink Martini By Punjab Mail,"North Indian, Mughlai, Biryani, Chinese, Italian, Steak, Fast Food, Desserts",4.3,₹950 for two,"Manpada, Thane West, Thane","Pink Martini By Punjab Mail Manpada, Thane West, Thane",19.23877,72.97013
+Quattro Bistro,"Mexican, Italian, Fast Food, Sandwich, Pizza, Desserts",4.1,"₹1,500 for two","CBD-Belapur, Navi Mumbai","Quattro Bistro CBD-Belapur, Navi Mumbai",19.02262,73.0384
+Knotty Yard,"Continental, Chinese, Finger Food, Seafood, Pasta, Oriental, Desserts, Beverages",4.3,"₹1,800 for two","Powai, Mumbai","Knotty Yard Powai, Mumbai",19.11812,72.90658
+Bombay Salad Co.,"Salad, Sandwich, Healthy Food, Desserts, Beverages",4.6,"₹1,100 for two","Linking Road, Bandra West, Mumbai","Bombay Salad Co. Linking Road, Bandra West, Mumbai",19.06246,72.83557
+Perch Wine And Coffee Bar,"Cafe, Bar Food, Coffee, European, Mediterranean, Desserts, Beverages",3.7,"₹1,800 for two","Khar, Mumbai","Perch Wine And Coffee Bar Khar, Mumbai",19.0716,72.82478
+Mutuswami,"South Indian, Sandwich, Pizza, Street Food, Ice Cream, Coffee, Beverages, Maharashtrian",4.2,"₹1,000 for two","Dadar East, Mumbai","Mutuswami Dadar East, Mumbai",19.01703,72.84455
+Delhi Highway,"North Indian, Chinese, Kebab, Desserts",4.3,"₹1,500 for two","Fort, Mumbai","Delhi Highway Fort, Mumbai",18.93001,72.83139
+JW Café - JW Marriott Mumbai Sahar,"Japanese, Asian, Continental, Italian, Desserts, South Indian, North Indian, Bakery",4.7,"₹5,000 for two","JW Marriott Mumbai Sahar, Chakala, Mumbai","JW Café - JW Marriott Mumbai Sahar JW Marriott Mumbai Sahar, Chakala, Mumbai",19.1071,72.88197
+Malvan Tadka,"Malwani, Seafood, Chinese, North Indian, Mughlai, Biryani, Desserts",4.2,"₹1,000 for two","Hiranandani Estate, Thane West, Thane","Malvan Tadka Hiranandani Estate, Thane West, Thane",19.25471,72.98257
+Poetry By Love And Cheesecake,"Desserts, Cafe, Bakery, Continental, Beverages, Pasta, Finger Food, Coffee",4.3,"₹1,200 for two","Juhu, Mumbai","Poetry By Love And Cheesecake Juhu, Mumbai",19.10582,72.82662
+Yoko Sizzlers,"Chinese, Burger, Sandwich, Pizza, Seafood, Fast Food, Desserts, Beverages",4.3,"₹2,500 for two","Santacruz West, Mumbai","Yoko Sizzlers Santacruz West, Mumbai",19.07891,72.83796
+Brew Haus Cafe,"Cafe, Coffee, Continental, Italian, Desserts, Tea, Fast Food, Beverages",New,"₹1,000 for two","Dadar West, Mumbai","Brew Haus Cafe Dadar West, Mumbai",19.0156,72.8378
+Same Place Same Time,"Pizza, Pasta, Asian, North Indian, Continental, Desserts, Shake, Beverages",4.1,"₹1,500 for two","City Mall, Andheri West, Mumbai","Same Place Same Time City Mall, Andheri West, Mumbai",19.13984,72.83148
+Subko Mary Lodge,"Cafe, Coffee, Bakery, Desserts, Beverages, Sandwich",2.8,"₹1,000 for two","Reclamation, Bandra West, Mumbai","Subko Mary Lodge Reclamation, Bandra West, Mumbai",19.0496,72.82986
+The Berliner Bar,"Burger, American, Continental, Finger Food, Beverages, German, Bar Food, Hot dogs",4.3,"₹1,800 for two","Versova, Andheri West, Mumbai","The Berliner Bar Versova, Andheri West, Mumbai",19.13009,72.82269
+Si Nonna's - The Original Sourdough Pizza,"Pizza, Italian, Desserts, Coffee",4.5,"₹1,400 for two","Kurla, Mumbai","Si Nonna's - The Original Sourdough Pizza Kurla, Mumbai",19.0028,72.8286
+Madras Diaries,"South Indian, Maharashtrian, Desserts",3.9,₹700 for two,"Linking Road, Bandra West, Mumbai","Madras Diaries Linking Road, Bandra West, Mumbai",19.05454,72.83754
+The Food Town,"North Indian, Chinese, Continental, Pizza, Fast Food, Biryani, Desserts, Beverages",4.4,"₹1,100 for two","Mulund West, Mumbai","The Food Town Mulund West, Mumbai",19.17197,72.94185
+The Green Door,"North Indian, Chinese, Continental, South Indian, Italian, Fast Food, Desserts, Beverages",4.2,"₹1,200 for two","Goregaon West, Mumbai","The Green Door Goregaon West, Mumbai",19.16558,72.84555
+Kofuku,"Japanese, Sushi, Rolls, Desserts",4.2,"₹2,500 for two","Andheri Lokhandwala, Andheri West, Mumbai","Kofuku Andheri Lokhandwala, Andheri West, Mumbai",19.14156,72.82687
+Coffee By Di Bella,"Coffee, Cafe, Tea, Waffle, Shake, Desserts, Beverages",3.9,₹700 for two,"CBD-Belapur, Navi Mumbai","Coffee By Di Bella CBD-Belapur, Navi Mumbai",19.0157,73.04019
+Aslam Chicken,"North Indian, Mughlai, BBQ, Biryani, Kebab, Beverages, Desserts",3.1,₹800 for two,"Oshiwara, Andheri West, Mumbai","Aslam Chicken Oshiwara, Andheri West, Mumbai",19.14661,72.84705
+Maujja,"North Indian, Chinese, Seafood, BBQ, Biryani, Drinks Only, Kebab, Desserts",4.4,"₹1,800 for two","Vile Parle East, Mumbai","Maujja Vile Parle East, Mumbai",19.10742,72.8518
+The Daily All Day Mumbai,"Pizza, Mexican, Asian, Salad, Desserts, Bar Food, Burger",4.4,"₹2,500 for two","Linking Road, Bandra West, Mumbai","The Daily All Day Mumbai Linking Road, Bandra West, Mumbai",19.06098,72.83695
+Ovenfresh,"Italian, Pizza, Pasta, Mexican, Asian, Desserts, Beverages",4.4,"₹1,400 for two","Dadar Shivaji Park, Mumbai","Ovenfresh Dadar Shivaji Park, Mumbai",19.02408,72.83805
+The Beer Cafe,"Bar Food, North Indian, Pizza, Fast Food, Italian, Chinese",4.1,"₹2,000 for two","Inorbit Mall, Malad West, Mumbai","The Beer Cafe Inorbit Mall, Malad West, Mumbai",19.1729,72.83575
+Barbeque Nation,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts",4.3,"₹2,150 for two","Growel's 101 Mall, Kandivali East, Mumbai","Barbeque Nation Growel's 101 Mall, Kandivali East, Mumbai",19.20327,72.85958

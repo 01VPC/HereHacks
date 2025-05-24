@@ -1,0 +1,37 @@
+source,timestamp,total_records,scraper_version,name,category,scrape_time,latitude,longitude,description,url,length
+Wikipedia,2025-05-24T01:19:03.196074,32.0,1.0,,,,,,,,
+wikipedia,,,,"^ ""Politics and emotions behind renaming Mumbai's streets"". Hindustan Times. 10 November 2018. Retrieved 9 June 2019.",road,2025-05-24T01:18:39.815021,,,,,
+wikipedia,,,,"^ a b c ""Mumbai: To learn the meaning of road names, check signboards"". DNA India. 25 February 2019. Retrieved 9 June 2019.",road,2025-05-24T01:18:39.815057,,,,,
+wikipedia,,,,"^ ""Road in Mumbai named after woman who started Arya Mahila Samaj"". The Indian Express. 14 August 2017. Retrieved 9 June 2019.",road,2025-05-24T01:18:39.815104,,,,,
+wikipedia,,,,"^ ""Rustom Sidhwa Marg: 'It is tragic only a few remember the fearless crusader, let alone recall his services to nation'"". The Indian Express. 20 November 2017. Retrieved 9 June 2019.",road,2025-05-24T01:18:39.815127,,,,,
+wikipedia,,,,"^ ""Pincode of JAGANNATH SHANKAR SHETH ROAD WANDEKAR MANSION J S GIRGAON MUMBAI MAHARASHTRA 400004 Pincode.net.in"".",road,2025-05-24T01:18:39.815140,18.95376,72.82047,,,
+wikipedia,,,,"^ ""Jangali maharaj road mumbai"".",road,2025-05-24T01:18:39.815181,18.95991,72.82771,,,
+wikipedia,,,,Shahid Bhagat Singh Marg,road,2025-05-24T01:18:39.816086,25.93483,80.81439,,,
+wikipedia,,,,Bhulabhai Desai Road,road,2025-05-24T01:18:39.816112,18.97612,72.8081,,,
+wikipedia,,,,Dr. Gopalrao Deshmukh Marg,road,2025-05-24T01:18:39.816134,18.96988,72.80956,,,
+wikipedia,,,,Dr. Dadasaheb Bhadkamkar Marg,road,2025-05-24T01:18:39.816155,18.96582,72.81905,,,
+wikipedia,,,,Dr. Kashibai Navrange Marg,road,2025-05-24T01:18:39.816180,,,,,
+wikipedia,,,,Lady Jamshetjee Road,road,2025-05-24T01:18:39.816200,,,,,
+wikipedia,,,,Lal Bahadur Shastri Marg,road,2025-05-24T01:18:39.816220,28.90354,76.54365,,,
+wikipedia,,,,M.L. Dahanukar Marg,road,2025-05-24T01:18:39.816241,18.49718,73.81297,,,
+wikipedia,,,,Mohammad Ali Road,road,2025-05-24T01:18:39.816266,,,,,
+wikipedia,,,,N.S. Patkar Marg,road,2025-05-24T01:18:39.816287,,,,,
+wikipedia,,,,Nepean Sea Road,road,2025-05-24T01:18:39.816304,-35.73633,137.59862,,,
+wikipedia,,,,Ramdas Nayak Road,road,2025-05-24T01:18:39.816322,,,,,
+wikipedia,,,,Pandita Ramabai Marg,road,2025-05-24T01:18:39.816342,28.62414,77.20638,,,
+wikipedia,,,,Rustom Sidhwa Marg,road,2025-05-24T01:18:39.816378,,,,,
+wikipedia,,,,S.K. Barodawallah Marg,road,2025-05-24T01:18:39.816395,,,,,
+wikipedia,,,,Samaldas Gandhi Marg,road,2025-05-24T01:18:39.816413,28.66121,77.26372,,,
+wikipedia,,,,Netaji Subhash Chandra Bose Road,road,2025-05-24T01:18:39.816430,22.48038,88.35488,,,
+wikipedia,,,,Swami Vivekanand Road,road,2025-05-24T01:18:39.816448,,,,,
+wikipedia,,,,Vitthalbhai Patel Road,road,2025-05-24T01:18:39.816467,,,,,
+wikipedia,,,,Shankarsheth Road,road,2025-05-24T01:18:39.816495,,,,,
+wikipedia,,,,Jangali Maharaj Road,road,2025-05-24T01:18:39.816517,18.52535,73.84961,,,
+wikipedia,,,,J. N. Heredia Marg,road,2025-05-24T01:18:39.816535,9.99969,-84.11717,,,
+wikipedia,,,,Western Express Highway,road,2025-05-24T01:18:44.130684,8.48686,-13.23469,"The Western Express Highway, abbreviated to WEH (officially Ali Yavar Jung Marg after the former Governor of Maharashtra), is a major north–south 8-10 lane arterial road in Mumbai, India, stretching from the suburb of Mira Road to Bandra. The 25.33 km (15.74 mi) highway begins near the Mahim Creek and extends to the Kashimira in the northern limit of the city till it connects National Highway 48 at Ghodbunder village. The road connects the city of Mumbai to its suburbs, including the Chhatrapati",https://en.wikipedia.org/wiki/Western_Express_Highway,25.33 km (15.74 mi)
+wikipedia,,,,Eastern Express Highway,road,2025-05-24T01:18:48.520966,-33.79271,150.87059,"The Eastern Express Highway, abbreviated to EEH, is a 23.55 km (14.63 mi) city express highway serving the cities of Mumbai and Thane. It is one of the busiest roads in the Mumbai Metropolitan Area and is a part of the National Highway 48. It is a north–south artery of Mumbai connecting the city proper to the eastern suburbs and to the metropolitan area of Thane.
+For most of its course, it is 6 lanes wide (3 lanes in each direction) with over a dozen flyovers/grade separators.",https://en.wikipedia.org/wiki/Eastern_Express_Highway,23.55 km (14.63 mi)
+wikipedia,,,,"Linking Road, Mumbai",road,2025-05-24T01:18:52.410296,19.07802,72.83406,"Linking Road is a road which extends from Bandra to Santacruz West in the city of Mumbai, India which is the third largest shopping district in India in terms of revenue and footfalls.
+
+","https://en.wikipedia.org/wiki/Linking_Road,_Mumbai",
+wikipedia,,,,"Marine Drive, Mumbai",road,2025-05-24T01:18:56.860321,18.92781,72.82085,"Marine Drive is a 3 kilometre-long promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India. The road and promenade were constructed by Pallonji Mistry in 1940. It is a banana-shaped, six-lane concrete road along the coast of a natural bay. At the northern end of Marine Drive is Girgaon Chowpatty and the adjacent road links Nariman Point at the southern tip to Babulnath and Malabar Hill at the northern tip. Marine Drive is situated on reclaimed land facing west-south-west. Marine Dr","https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai",

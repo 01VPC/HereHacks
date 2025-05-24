@@ -1,0 +1,2990 @@
+{
+  "jw marriott": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel sea princess": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sahara star": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "itc grand maratha": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hilton mumbai international airport": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "taj lands end": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "grand sarowar premiere": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "imperial grand palace": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bawa international": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ibis": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel transit": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the retreat": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the westin mumbai powai lake": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "raheja classique club": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sukh hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel bawa continental": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel juhu plaza": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sun-n-sand": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "janata hotel": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "rozy ...noodle khaoo bhuk mitaao noodle khao": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "al-farook hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel bahri residency": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dosti hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rasoii veg inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "cream lounge": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "timepass": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sitara": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "chocolate heaven": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lakeside chalet, mumbai - marriott executive apartments": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "naaz restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel oriental aster": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tsh canteen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sai palace": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "daily tiffin service": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "fabhotel rk international": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sadguru": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "sandeep restaurant and bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "chembur adda": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "plan d fine dine restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel shalimar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel radhakrishna": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel jewel palace": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kohinoor continental": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel bawa suites": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sudarshan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bloom boutique": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel linkway": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "royal inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "delicasy": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hyatt regency": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "deluxe restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "juhu residency boutique hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rang sharda": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sofitel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "trident hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel lucky": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "grand hyatt mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "taj santacruz mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "apoorva bar & restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "barc hospital canteen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "banjara dhaba": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "bandra born": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "novotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ramada plaza palm grove": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "north gate food court": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "veg treat royal": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shawarma": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "janata tawa grill": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "knoshh - the food hall": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bhavani farsan and sweet mart": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "radha restaurnt": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the emerald hotel and serviced apartments": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "j and k red corner restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dwarka restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "makabo resturant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the taj": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tango fast food and juice center": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "juhu hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel beach garden": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "radisson blu mumbai international airport": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lemon tree premier mumbai international airport": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel amber paramount": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mehezbaan": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "butterfly high": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "mia cucina": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tat": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "aurika by lemon tree hotels, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel beach crown": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hit n run": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "mahesh lunch home": {
+    "weight": 12,
+    "confidence_percent": 91
+  },
+  "jollyland": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ghatla": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jewel of chembur": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "maruthi mahal": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "anita mahal": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "regency": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "classic": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "atlantic": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ajanta": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "royal garden": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ambassador": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "leela kempinski": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kumaria presidency": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "samraj": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sun n sheel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tirupati": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "imperial palace": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "highway inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tunga international": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "babul": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dolphin view": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "manisha cottage": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "blue ballerina": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jay prakash": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the resort": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "anil thakur guest house": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rohan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "seaview": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "citizen hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "good luck restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "wonton house": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "spce canteen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "olive restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ratna mahal": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "balaji rest.": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sai veg world": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "heritage": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ratna": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sai leela hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pratistha": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kamat plaza": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "airlines international": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "apsara international": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "galaxy": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "prince palace": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "welco": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sadguru restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pizza hut": {
+    "weight": 32,
+    "confidence_percent": 95
+  },
+  "hotel samudra": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jabbar hall": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "same place": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "gajali": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "daffodils": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel shree ganesh": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "gulmohar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ray's cafe & pizzeria": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "basant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bhatia island": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ruskon": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "vyas wadi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mezbaan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mid town": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "malhar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "gokulanand hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "alfredo's": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mantra": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "residence inn powai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "aura restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pangat": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "red box": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "caravan serai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shreeji's": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "infinity mall food court": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "delicacy of china": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "nom nom": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "banana leaf": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "mainland china": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "some like it hot": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "goa portuguesa": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the westin mumbai garden city": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "high point": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "suzette": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "papa pancho da dhaba": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pali bhavan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "snack shack": {
+    "weight": 12,
+    "confidence_percent": 91
+  },
+  "poco loco": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "out of the blue": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the courtyard": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ramada powai hotel & convention center": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "indigo deli": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "oh calcutta! express": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "alfredo's bar and diner": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lucky biryani": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "almond flower": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dakshin": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mini punjab": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "canteen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tiss dining hall": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "debonair's pizza": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dragonfly": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "house of mandarin": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "facing east": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jhunka-bhakar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "metro pizza": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jam jar diner": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dakshinayan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel grand inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "goa bhavan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tian": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "amina hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "iqbal azmi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "domino's": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lucky restaurant": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "abhinandan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "saidip restarant & bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "new delhi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ram class": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "amber": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sundar niwas": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jyoti restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "vadhavi resturant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shiv sagar": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "pebbles": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kailash parbat": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "vishva bharti hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "campus hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "prashant hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ruchi hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel shamlat": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "vrindavan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sahara": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "skyway": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel kamaran residency": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel ravi pure veg": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kinoo's cottage": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "basil": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "holiday inn international hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shubalaxmi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "gulam mohhamed shubrati building;suleman usman mithiwala": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sakil hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "triveni bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sheetal restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "cafe nar restarunt": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sawali hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "metro": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "maharana hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "a1 restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "madras cafe": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bharang hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mehman nawazi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "breeze restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "me so happy": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "gettogether": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "swades": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sagar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel benarsi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mamagoto": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "avenue hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ufo revolving resturant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sharma fast food": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "waterstones hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pizza box": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "urban tadka": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "svenska design hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sweet corner": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "blue park": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "loco chino": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "golden fork": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "taste of ganges": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "roti punjab": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "maroosh": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel galaxy view (oyo rooms)": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "amritsari tadka": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the unicontinental": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "borivali biryani centre": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "laxmi vilas hindu hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sathe's all day diner": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "soda bottle opener wala": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bansuri": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "smokehouse deli pali": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hostel-9 canteen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "amrut": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "gopal krishna": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "treebo sea side": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "goldenstar banquet hall": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bonobo": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the leela": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tavaa restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "grand residency hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "balaji restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "legacy of mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "anil lunch home": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "cafe dilshad": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kanchi veg": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "deep punjab dhaba": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "eva's pizza": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jw marriott mumbai sahar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sigdi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hubble": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "deepa bar and restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "peetuk": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hindi, gujarati, english": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "stomach": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "versova social": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the treesome cafe": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lee ann's kitchen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "nirvana residences": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shiv sagar hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shanghai restro": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mirchi & mime": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "secret spice": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "off the grid": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hard rock cafe": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "simply saraswat": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sattva": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "elco restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jai jawan (khar branch)": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ice and spice": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ferry wharf": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kobe sizzlers": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jimme's kitchen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sahibaan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kempinski leela": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "apna dhaba": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "new sunrise restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "yugo sushi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bora bora": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "cherry’s kitchen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lalit mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sai darbar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rajwada thal™": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kailash sarovar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "h1: canteen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "nirvana": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kokan kinara": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rehmani": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel alpha international": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "imbiss meating joint": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel krishna": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bhagwati": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "geeta bhawan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel blue pearl residency": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jai bhavani restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pizzaexpress": {
+    "weight": 12,
+    "confidence_percent": 91
+  },
+  "burn bar and kitchen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "chili's": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "red house hostel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "china valley": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "utsav restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "maddu mess": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "aromas": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sigree global grill": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "parabola restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rodas - an ecotel hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "little punjab restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "charpai - the flavour": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "juicy stuff": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "china house": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dum matka": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "china chilli": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hanglas - the taste of kolkata": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "asian wok": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rodeo pizza": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "growels": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "food inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lebanese point": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "breadkraft": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel kalash": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rama krishna": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel sunny": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "nbh canteen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ten one": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "local eatery": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "yogita  restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dwarka": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "park inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shawarma's & more": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "india bistro": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shai cafe and bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "china bistro": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel classic": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ratnagiri restaurant and bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "krishna lunch home and bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sadguru veg diet": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "akshay food plaza": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "minks sayaji": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pandora's box": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel popular": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "gurukrupa restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "achija restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the flying saucer": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "baba ka dhaba": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel astro": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel yashodha residency": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "de classico hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "deluxe comfort": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rigga inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel signature inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "art hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "l'amor": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mega restaraunt": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "amar fast food and juice center": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lochlainn cafe": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "subham": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "atithi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sandeep": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kirti mahal": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rasoi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the farm house": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "cafe meter on": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "karim’s": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "zaika - the northern street": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "campus": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "balaji chinese restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "chotu's kitchen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel ashirwad": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lazeez caterers": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "grab some momos": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "delhi darbar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "landmark residency": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "marrakesh": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tunak tunak tunn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "achija": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "rasodu - the ethnic kitchen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sea breeze kitchen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "baba foodin": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "testbuds": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "humpty dumpty": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "chaibucks": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shiv vada pav": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "yoko sizzlers": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "malwani kalwan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "blue bells residency-mumbai airport": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "stomach again": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel sunshine lodging": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "vaishali family restaurant & bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "indian accent": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "cincin": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "yauatcha": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "nara thai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hitchki": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kyma": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sequel": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "amazonia": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "o pedro": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "origami japanese & korean restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lucky": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "chandak stella": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shivsagar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mamta hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pop tate's": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "north east kitchen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "riwayat": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "amey": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "belvedere": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "naga belly": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pot pourri": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "amar juice center": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel indigo": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "woodside inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bombay taco company": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the coconut boy": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "joseph's tandoori chicken": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kitchen garden by suzette": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "project hum": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hakkasan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "arbab": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "miya kebabs": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jhelum": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "los cavos": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dimsum wu": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "modern aaji": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "aharveda": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the bodhi cafe": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sai sagar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "meraki": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sheetal bukhara": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "little italy": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "china gate": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "copper chimney": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "the class thali": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "oasis restaurant & bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "orange city saoji": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tanatan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dp's spice": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jaihind lunch home": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jamie oliver": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bombay to barcelona cafe": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pritam da dhaba": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "punjab da chulah": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "grandmama's cafe": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "yeda republic": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hyatt centric": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "r-adda": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "nityanand family restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kfc": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "asia kitchen": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel regal international": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel dwarka": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "al-baik.com": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "chimichurri": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mirages": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel home town": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel sitaram": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "istanbul darbar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shahi dessert and fast food juice": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "karizma dhaba": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sunlight restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "persian darbar": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "hanuman hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lark pure veg restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hrezzo restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "carter road social": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the house of massimo": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "border bean barbecue": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "qj (quarter junction) bar and restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "black bull cafe (bbc bar & restaurant)": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sesame": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the cram bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mani's": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "alfa executive": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bay leaf veg restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "achija veg restaurant kandivali branch": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bar tales": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "golden gate restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "nxt level all day chembur": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the byke delotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "royal challenge restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "zima": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "love in langos": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "maaji's foods": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "apratim, near boomerang building gate no. 1": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "prasad family restaurant and bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "tiger yaki": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shree sagar veg restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "blue tokai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "prakash inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "t24 retro": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the south spice": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "bharat cafe": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "triospice restaurant (roof top)": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "izumi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "5 spice": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jai jawan": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel metro palace": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "chinese food": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "meghdoot restaurant & bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ginger mumbai, andheri east": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "shot stories": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "cream centre": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "era": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "si nonna's": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ibis mumbai vikhroli": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "naaz executive hotel": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "taftoon": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "meluha the fern": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "meluha": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "santa maria": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "chinar bar and restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "surya resto bar": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kuku kiri": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sozo": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lazzat e lucknow": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel kalpana elite": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sagar restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "laxmi next": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lake view cafe": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "royal china": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mayouchi": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "nawab saheb": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "crimson": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "akhil bar and restaurant": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "udipi2mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kappilon": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "goh jia ting": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "townhouse oak times square le western": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "juhu bliss inn": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "thyme & whisk": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "saffron": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mezzo mezzo": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kharghar sector 7, navi mumbai": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "cbd belapur sector 15, navi mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "sanpada, navi mumbai": {
+    "weight": 11,
+    "confidence_percent": 91
+  },
+  "linking road khar west, mumbai": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "senapati bapat marg lower parel, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "akurli road kandivali east, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "kamani-kurla west, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "express highway thane west, thane": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "lodha i think b wing nilje, thane": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "sector-17 vashi, navi mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "sector 19a kopar khairane, navi mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "police colony road badlapur ed, thane": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "prasad road dombivli east, thane": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "agashi road virar west, palghar": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "bhadra nagar-dombivli east, thane": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "nemade marg dombivli west, thane": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "khadakpada-kalyan west, kalyan": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "dombivli east, thane": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "m g road goregaon west, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "express highway virar east, palghar": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "mumbai samachar marg fort, mumbai": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "l t marg crawford market, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "d n road fort, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "shop no 8 surganga charkop, mumbai": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "lbs road kanjurmarg west, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "chincholi bunder-malad west, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "anik wadala road wadala east, mumbai": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "vashi road vashi, navi mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "four bunglows-andheri west, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "park site 4 vikhroli west, mumbai": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "union park road khar west, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "chandivali-andheri east, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "nadanvan garden badlapur, thane": {
+    "weight": 15,
+    "confidence_percent": 92
+  },
+  "ganpati mandir road titwala, thane": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "nm joshi marg lower parel, mumbai": {
+    "weight": 9,
+    "confidence_percent": 91
+  },
+  "bandra kurla complex, mumbai": {
+    "weight": 36,
+    "confidence_percent": 95
+  },
+  "phoenix palladium, lower parel, mumbai": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "linking road, bandra west, mumbai": {
+    "weight": 46,
+    "confidence_percent": 97
+  },
+  "dadar west, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "palladium mall, lower parel, mumbai": {
+    "weight": 10,
+    "confidence_percent": 91
+  },
+  "sion, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "lower parel, mumbai": {
+    "weight": 38,
+    "confidence_percent": 96
+  },
+  "juhu, mumbai": {
+    "weight": 50,
+    "confidence_percent": 98
+  },
+  "khar, mumbai": {
+    "weight": 40,
+    "confidence_percent": 96
+  },
+  "powai, mumbai": {
+    "weight": 26,
+    "confidence_percent": 94
+  },
+  "wagle estate, thane west, thane": {
+    "weight": 26,
+    "confidence_percent": 94
+  },
+  "marol, mumbai": {
+    "weight": 14,
+    "confidence_percent": 92
+  },
+  "worli, mumbai": {
+    "weight": 14,
+    "confidence_percent": 92
+  },
+  "borivali west, mumbai": {
+    "weight": 48,
+    "confidence_percent": 97
+  },
+  "kamala mills compound, mumbai": {
+    "weight": 10,
+    "confidence_percent": 91
+  },
+  "pali hill, bandra west, mumbai": {
+    "weight": 24,
+    "confidence_percent": 93
+  },
+  "hill road, bandra west, mumbai": {
+    "weight": 12,
+    "confidence_percent": 91
+  },
+  "goregaan east, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "santacruz west, mumbai": {
+    "weight": 12,
+    "confidence_percent": 91
+  },
+  "first international financial centre, bandra kurla complex, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "veera desai area, mumbai": {
+    "weight": 20,
+    "confidence_percent": 93
+  },
+  "jio world drive, bandra kurla complex, mumbai": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "andheri lokhandwala, andheri west, mumbai": {
+    "weight": 38,
+    "confidence_percent": 96
+  },
+  "mahakali, mumbai": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "bandra east, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "malad west, mumbai": {
+    "weight": 30,
+    "confidence_percent": 94
+  },
+  "cubic mall, chembur, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "sakinaka, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "dadar shivaji park, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "le sutra hotel, khar, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "colaba, mumbai": {
+    "weight": 14,
+    "confidence_percent": 92
+  },
+  "supreme business park, powai, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hotel king's international, juhu, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "4 bungalows, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mahalaxmi, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "reclamation, bandra west, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "fort, mumbai": {
+    "weight": 26,
+    "confidence_percent": 94
+  },
+  "fun republic mall, veera desai area, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "korum mall, khopat, thane west, thane": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "kandivali west, mumbai": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "times square, marol, mumbai": {
+    "weight": 10,
+    "confidence_percent": 91
+  },
+  "chembur, mumbai": {
+    "weight": 14,
+    "confidence_percent": 92
+  },
+  "bandstand, bandra west, mumbai": {
+    "weight": 10,
+    "confidence_percent": 91
+  },
+  "carter road, bandra west, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "inorbit mall, malad west, mumbai": {
+    "weight": 10,
+    "confidence_percent": 91
+  },
+  "ventura building, powai, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "chandivali, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "oshiwara, andheri west, mumbai": {
+    "weight": 24,
+    "confidence_percent": 93
+  },
+  "goldfinch hotel, mahakali, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "hiranandani estate, thane west, thane": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sahara star, vile parle east, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "phoenix marketcity, kurla, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "turbhe, navi mumbai": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "churchgate, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "ramee guestline hotel, juhu, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "vashi, navi mumbai": {
+    "weight": 12,
+    "confidence_percent": 91
+  },
+  "kopar khairane, navi mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "cbd-belapur, navi mumbai": {
+    "weight": 12,
+    "confidence_percent": 91
+  },
+  "oberoi mall, goregaon east, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "goregaon east, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "mulund west, mumbai": {
+    "weight": 10,
+    "confidence_percent": 91
+  },
+  "viviana mall, majiwada, thane west, thane": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "nerul, navi mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "sofitel, bandra kurla complex, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "goregaon west, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "peninsula redpine, marol, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "naupada, thane west, thane": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "bhayandar, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "airoli, navi mumbai": {
+    "weight": 8,
+    "confidence_percent": 91
+  },
+  "star mall, dadar west, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "versova, andheri west, mumbai": {
+    "weight": 16,
+    "confidence_percent": 92
+  },
+  "t24 residency, marol, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "jet airways godrej, bandra kurla complex, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "chowpatty, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "manpada, thane west, thane": {
+    "weight": 10,
+    "confidence_percent": 91
+  },
+  "chakala, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "hilton mumbai international airport, chakala, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "grand hyatt mumbai & residences, santacruz east, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "dadar east, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "jogeshwari, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "mahim, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "parel, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "the orb, marol, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "the park, cbd belapur, navi mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "kandivali east, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the westin mumbai powai lake, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "transocean house, powai, mumbai": {
+    "weight": 6,
+    "confidence_percent": 90
+  },
+  "gorai, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "kalyan, thane": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "marine plaza, marine lines, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "khopat, thane west, thane": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "atria mall, worli, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "radisson, goregaon west, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "satra plaza, vashi, navi mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "bandra talao, bandra west, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "kohinoor square mall, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "andheri east, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "near andheri east station, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "pallavi avida, kalamboli, navi mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "the st. regis, lower parel, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "ghatkopar west, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "the orchid, vile parle east, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "the hub mall, goregaon east, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "nariman point, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "jw marriott mumbai, juhu, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "inorbit mall, vashi, navi mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "vile parle east, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "goregaan west, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "majiwada, thane west, thane": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "parle international, vile parle east, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "novotel, juhu, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "prabhadevi, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "holiday inn, sakinaka, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "hotel yogi metropolitan, sanpada, navi mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "panch pakhadi, thane west, thane": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "growel's 101 mall, kandivali east, mumbai": {
+    "weight": 4,
+    "confidence_percent": 90
+  },
+  "dahisar west, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "rodas hotel, powai, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "itc maratha, chakala, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "7 bungalows, andheri west, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "vile parle west, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "mira road, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "the westin mumbai garden city, goregaon east, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "jw marriott mumbai sahar, chakala, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "city mall, andheri west, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "kurla, mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "many prominent hospitals in mumbai, such as the tata memorial hospital, bombay hospital and g": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "south mumbai": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "horniman circle, the historic centre of mumbai": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "central mumbai and houses between 800,000 and 10 lakh (one million) people in 2": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "the central part of mumbai and serves as a gateway between south mumbai and the mumbai suburbs": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "antilia (building)": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "palais royale, mumbai": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "victorian gothic and art deco ensembles of mumbai": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "mutton street, near bhendi bazaar in grant road, south mumbai": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "navi mumbai": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "nan": {
+    "weight": 3,
+    "confidence_percent": 50
+  },
+  "masque (restaurant)": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "leopold cafe": {
+    "weight": 1,
+    "confidence_percent": 50
+  },
+  "2008 mumbai attacks": {
+    "weight": 2,
+    "confidence_percent": 50
+  },
+  "dishoom (restaurant)": {
+    "weight": 1,
+    "confidence_percent": 50
+  }
+}

@@ -1,0 +1,1741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": null,
+        "address": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06496,
+          19.03464
+        ]
+      },
+      "properties": {
+        "name": "New Ajwa Family Restaurant",
+        "address": "Kharghar Sector 7, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06496,
+          19.03464
+        ]
+      },
+      "properties": {
+        "name": "New Ajwa Family Restaurant",
+        "address": "Kharghar Sector 7, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06496,
+          19.03464
+        ]
+      },
+      "properties": {
+        "name": "New Ajwa Family Restaurant",
+        "address": "Kharghar Sector 7, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06496,
+          19.03464
+        ]
+      },
+      "properties": {
+        "name": "New Ajwa Family Restaurant",
+        "address": "Kharghar Sector 7, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06496,
+          19.03464
+        ]
+      },
+      "properties": {
+        "name": "New Ajwa Family Restaurant",
+        "address": "Kharghar Sector 7, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03403,
+          19.00712
+        ]
+      },
+      "properties": {
+        "name": "Afzal's Mao Restaurant",
+        "address": "Cbd Belapur Sector 15, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03403,
+          19.00712
+        ]
+      },
+      "properties": {
+        "name": "Afzal's Mao Restaurant",
+        "address": "Cbd Belapur Sector 15, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03403,
+          19.00712
+        ]
+      },
+      "properties": {
+        "name": "Afzal's Mao Restaurant",
+        "address": "Cbd Belapur Sector 15, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01075,
+          19.06108
+        ]
+      },
+      "properties": {
+        "name": "Titan Family Restaurant & Bar",
+        "address": "Sanpada, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01075,
+          19.06108
+        ]
+      },
+      "properties": {
+        "name": "Titan Family Restaurant & Bar",
+        "address": "Sanpada, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01075,
+          19.06108
+        ]
+      },
+      "properties": {
+        "name": "Titan Family Restaurant & Bar",
+        "address": "Sanpada, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83382,
+          19.06633
+        ]
+      },
+      "properties": {
+        "name": "And Store",
+        "address": "Linking Road Khar West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83382,
+          19.06633
+        ]
+      },
+      "properties": {
+        "name": "And Store",
+        "address": "Linking Road Khar West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83382,
+          19.06633
+        ]
+      },
+      "properties": {
+        "name": "And Store",
+        "address": "Linking Road Khar West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83382,
+          19.06633
+        ]
+      },
+      "properties": {
+        "name": "And Store",
+        "address": "Linking Road Khar West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83382,
+          19.06633
+        ]
+      },
+      "properties": {
+        "name": "And Store",
+        "address": "Linking Road Khar West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "And Store (High Street Phoenix)",
+        "address": "Senapati Bapat Marg Lower Parel, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "And Store (High Street Phoenix)",
+        "address": "Senapati Bapat Marg Lower Parel, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "And Store (High Street Phoenix)",
+        "address": "Senapati Bapat Marg Lower Parel, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85958,
+          19.20327
+        ]
+      },
+      "properties": {
+        "name": "AND Store (Growels 101 Mall)",
+        "address": "Akurli Road Kandivali East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85958,
+          19.20327
+        ]
+      },
+      "properties": {
+        "name": "AND Store (Growels 101 Mall)",
+        "address": "Akurli Road Kandivali East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85958,
+          19.20327
+        ]
+      },
+      "properties": {
+        "name": "AND Store (Growels 101 Mall)",
+        "address": "Akurli Road Kandivali East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88294,
+          19.08389
+        ]
+      },
+      "properties": {
+        "name": "Phoenix Market City Mall",
+        "address": "Kamani-Kurla West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88294,
+          19.08389
+        ]
+      },
+      "properties": {
+        "name": "Phoenix Market City Mall",
+        "address": "Kamani-Kurla West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88294,
+          19.08389
+        ]
+      },
+      "properties": {
+        "name": "Phoenix Market City Mall",
+        "address": "Kamani-Kurla West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96697,
+          19.20186
+        ]
+      },
+      "properties": {
+        "name": "Viviana Mall",
+        "address": "Express Highway Thane West, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96697,
+          19.20186
+        ]
+      },
+      "properties": {
+        "name": "Viviana Mall",
+        "address": "Express Highway Thane West, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96697,
+          19.20186
+        ]
+      },
+      "properties": {
+        "name": "Viviana Mall",
+        "address": "Express Highway Thane West, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Bright Real Estate Consultant",
+        "address": "Lodha I Think B Wing Nilje, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Bright Real Estate Consultant",
+        "address": "Lodha I Think B Wing Nilje, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bright Real Estate Consultant",
+        "address": "Lodha I Think B Wing Nilje, Thane"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Bright Real Estate Consultant",
+        "address": "Lodha I Think B Wing Nilje, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bright Real Estate Consultant",
+        "address": "Lodha I Think B Wing Nilje, Thane"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00137,
+          19.07337
+        ]
+      },
+      "properties": {
+        "name": "Omkar Enterprises",
+        "address": "Sector-17 Vashi, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00137,
+          19.07337
+        ]
+      },
+      "properties": {
+        "name": "Omkar Enterprises",
+        "address": "Sector-17 Vashi, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00137,
+          19.07337
+        ]
+      },
+      "properties": {
+        "name": "Omkar Enterprises",
+        "address": "Sector-17 Vashi, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00104,
+          19.10744
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Realty & Investment (S P Enterprises)",
+        "address": "Sector 19A Kopar Khairane, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00104,
+          19.10744
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Realty & Investment (S P Enterprises)",
+        "address": "Sector 19A Kopar Khairane, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00104,
+          19.10744
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Realty & Investment (S P Enterprises)",
+        "address": "Sector 19A Kopar Khairane, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22976,
+          19.1629
+        ]
+      },
+      "properties": {
+        "name": "Maxcare Multispeciality Hospital",
+        "address": "Police Colony Road Badlapur Ed, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22976,
+          19.1629
+        ]
+      },
+      "properties": {
+        "name": "Maxcare Multispeciality Hospital",
+        "address": "Police Colony Road Badlapur Ed, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22976,
+          19.1629
+        ]
+      },
+      "properties": {
+        "name": "Maxcare Multispeciality Hospital",
+        "address": "Police Colony Road Badlapur Ed, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22976,
+          19.1629
+        ]
+      },
+      "properties": {
+        "name": "Maxcare Multispeciality Hospital",
+        "address": "Police Colony Road Badlapur Ed, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22976,
+          19.1629
+        ]
+      },
+      "properties": {
+        "name": "Maxcare Multispeciality Hospital",
+        "address": "Police Colony Road Badlapur Ed, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08694,
+          19.21306
+        ]
+      },
+      "properties": {
+        "name": "Sparsh Multispeciality Hospital Iccu",
+        "address": "Prasad Road Dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08694,
+          19.21306
+        ]
+      },
+      "properties": {
+        "name": "Sparsh Multispeciality Hospital Iccu",
+        "address": "Prasad Road Dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08694,
+          19.21306
+        ]
+      },
+      "properties": {
+        "name": "Sparsh Multispeciality Hospital Iccu",
+        "address": "Prasad Road Dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80679,
+          19.45325
+        ]
+      },
+      "properties": {
+        "name": "Swara Hospital",
+        "address": "Agashi Road Virar West, Palghar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80679,
+          19.45325
+        ]
+      },
+      "properties": {
+        "name": "Swara Hospital",
+        "address": "Agashi Road Virar West, Palghar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80679,
+          19.45325
+        ]
+      },
+      "properties": {
+        "name": "Swara Hospital",
+        "address": "Agashi Road Virar West, Palghar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08324,
+          19.18685
+        ]
+      },
+      "properties": {
+        "name": "Euro School",
+        "address": "Bhadra Nagar-dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08324,
+          19.18685
+        ]
+      },
+      "properties": {
+        "name": "Euro School",
+        "address": "Bhadra Nagar-dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08324,
+          19.18685
+        ]
+      },
+      "properties": {
+        "name": "Euro School",
+        "address": "Bhadra Nagar-dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08324,
+          19.18685
+        ]
+      },
+      "properties": {
+        "name": "Euro School",
+        "address": "Bhadra Nagar-dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08324,
+          19.18685
+        ]
+      },
+      "properties": {
+        "name": "Euro School",
+        "address": "Bhadra Nagar-dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07796,
+          19.21844
+        ]
+      },
+      "properties": {
+        "name": "Jan Gan Man School & Vande Mataram Degree College",
+        "address": "Nemade Marg Dombivli West, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07796,
+          19.21844
+        ]
+      },
+      "properties": {
+        "name": "Jan Gan Man School & Vande Mataram Degree College",
+        "address": "Nemade Marg Dombivli West, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07796,
+          19.21844
+        ]
+      },
+      "properties": {
+        "name": "Jan Gan Man School & Vande Mataram Degree College",
+        "address": "Nemade Marg Dombivli West, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13809,
+          19.2598
+        ]
+      },
+      "properties": {
+        "name": "Narayana E-Techno School",
+        "address": "Khadakpada-Kalyan West, Kalyan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13809,
+          19.2598
+        ]
+      },
+      "properties": {
+        "name": "Narayana E-Techno School",
+        "address": "Khadakpada-Kalyan West, Kalyan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13809,
+          19.2598
+        ]
+      },
+      "properties": {
+        "name": "Narayana E-Techno School",
+        "address": "Khadakpada-Kalyan West, Kalyan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08148,
+          19.19653
+        ]
+      },
+      "properties": {
+        "name": "Vira Palace",
+        "address": "Dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08148,
+          19.19653
+        ]
+      },
+      "properties": {
+        "name": "Vira Palace",
+        "address": "Dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08148,
+          19.19653
+        ]
+      },
+      "properties": {
+        "name": "Vira Palace",
+        "address": "Dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08148,
+          19.19653
+        ]
+      },
+      "properties": {
+        "name": "Vira Palace",
+        "address": "Dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08148,
+          19.19653
+        ]
+      },
+      "properties": {
+        "name": "Vira Palace",
+        "address": "Dombivli East, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8336,
+          19.16915
+        ]
+      },
+      "properties": {
+        "name": "Hotel Metro Galaxy Inn",
+        "address": "M G Road Goregaon West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8336,
+          19.16915
+        ]
+      },
+      "properties": {
+        "name": "Hotel Metro Galaxy Inn",
+        "address": "M G Road Goregaon West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8336,
+          19.16915
+        ]
+      },
+      "properties": {
+        "name": "Hotel Metro Galaxy Inn",
+        "address": "M G Road Goregaon West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89643,
+          19.32005
+        ]
+      },
+      "properties": {
+        "name": "Vishram Executive Rooms1 Star Hotel",
+        "address": "Express Highway Virar East, Palghar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89643,
+          19.32005
+        ]
+      },
+      "properties": {
+        "name": "Vishram Executive Rooms1 Star Hotel",
+        "address": "Express Highway Virar East, Palghar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83363,
+          18.92938
+        ]
+      },
+      "properties": {
+        "name": "Indusind Bank Ltd",
+        "address": "Mumbai Samachar Marg Fort, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83363,
+          18.92938
+        ]
+      },
+      "properties": {
+        "name": "Indusind Bank Ltd",
+        "address": "Mumbai Samachar Marg Fort, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83363,
+          18.92938
+        ]
+      },
+      "properties": {
+        "name": "Indusind Bank Ltd",
+        "address": "Mumbai Samachar Marg Fort, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83363,
+          18.92938
+        ]
+      },
+      "properties": {
+        "name": "Indusind Bank Ltd",
+        "address": "Mumbai Samachar Marg Fort, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83363,
+          18.92938
+        ]
+      },
+      "properties": {
+        "name": "Indusind Bank Ltd",
+        "address": "Mumbai Samachar Marg Fort, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81704,
+          18.95774
+        ]
+      },
+      "properties": {
+        "name": "Indusind Bank Ltd",
+        "address": "L T Marg Crawford Market, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81704,
+          18.95774
+        ]
+      },
+      "properties": {
+        "name": "Indusind Bank Ltd",
+        "address": "L T Marg Crawford Market, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81704,
+          18.95774
+        ]
+      },
+      "properties": {
+        "name": "Indusind Bank Ltd",
+        "address": "L T Marg Crawford Market, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83404,
+          18.93599
+        ]
+      },
+      "properties": {
+        "name": "Bank of India",
+        "address": "D N Road Fort, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83404,
+          18.93599
+        ]
+      },
+      "properties": {
+        "name": "Bank of India",
+        "address": "D N Road Fort, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83404,
+          18.93599
+        ]
+      },
+      "properties": {
+        "name": "Bank of India",
+        "address": "D N Road Fort, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82833,
+          19.21518
+        ]
+      },
+      "properties": {
+        "name": "IDBI Bank ATM",
+        "address": "Shop No 8 Surganga Charkop, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82833,
+          19.21518
+        ]
+      },
+      "properties": {
+        "name": "IDBI Bank ATM",
+        "address": "Shop No 8 Surganga Charkop, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82833,
+          19.21518
+        ]
+      },
+      "properties": {
+        "name": "IDBI Bank ATM",
+        "address": "Shop No 8 Surganga Charkop, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82833,
+          19.21518
+        ]
+      },
+      "properties": {
+        "name": "IDBI Bank ATM",
+        "address": "Shop No 8 Surganga Charkop, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82833,
+          19.21518
+        ]
+      },
+      "properties": {
+        "name": "IDBI Bank ATM",
+        "address": "Shop No 8 Surganga Charkop, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92637,
+          19.14029
+        ]
+      },
+      "properties": {
+        "name": "ICICI Bank ATM",
+        "address": "Lbs Road Kanjurmarg West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92637,
+          19.14029
+        ]
+      },
+      "properties": {
+        "name": "ICICI Bank ATM",
+        "address": "Lbs Road Kanjurmarg West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92637,
+          19.14029
+        ]
+      },
+      "properties": {
+        "name": "ICICI Bank ATM",
+        "address": "Lbs Road Kanjurmarg West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83402,
+          19.17832
+        ]
+      },
+      "properties": {
+        "name": "Bank Of Baroda ATM",
+        "address": "Chincholi Bunder-Malad West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83402,
+          19.17832
+        ]
+      },
+      "properties": {
+        "name": "Bank Of Baroda ATM",
+        "address": "Chincholi Bunder-Malad West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83402,
+          19.17832
+        ]
+      },
+      "properties": {
+        "name": "Bank Of Baroda ATM",
+        "address": "Chincholi Bunder-Malad West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87778,
+          19.03254
+        ]
+      },
+      "properties": {
+        "name": "Indus Filling Station",
+        "address": "Anik Wadala Road Wadala East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87778,
+          19.03254
+        ]
+      },
+      "properties": {
+        "name": "Indus Filling Station",
+        "address": "Anik Wadala Road Wadala East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87778,
+          19.03254
+        ]
+      },
+      "properties": {
+        "name": "Indus Filling Station",
+        "address": "Anik Wadala Road Wadala East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87778,
+          19.03254
+        ]
+      },
+      "properties": {
+        "name": "Indus Filling Station",
+        "address": "Anik Wadala Road Wadala East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87778,
+          19.03254
+        ]
+      },
+      "properties": {
+        "name": "Indus Filling Station",
+        "address": "Anik Wadala Road Wadala East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00753,
+          19.08161
+        ]
+      },
+      "properties": {
+        "name": "Vashi Fuel Center (Hindustan Petroleum)",
+        "address": "vashi road Vashi, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00753,
+          19.08161
+        ]
+      },
+      "properties": {
+        "name": "Vashi Fuel Center (Hindustan Petroleum)",
+        "address": "vashi road Vashi, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00753,
+          19.08161
+        ]
+      },
+      "properties": {
+        "name": "Vashi Fuel Center (Hindustan Petroleum)",
+        "address": "vashi road Vashi, Navi Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84436,
+          19.11757
+        ]
+      },
+      "properties": {
+        "name": "Vikram Petrol Pump (Bharat Petroleum)",
+        "address": "Four Bunglows-Andheri West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84436,
+          19.11757
+        ]
+      },
+      "properties": {
+        "name": "Vikram Petrol Pump (Bharat Petroleum)",
+        "address": "Four Bunglows-Andheri West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84436,
+          19.11757
+        ]
+      },
+      "properties": {
+        "name": "Vikram Petrol Pump (Bharat Petroleum)",
+        "address": "Four Bunglows-Andheri West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91751,
+          19.10141
+        ]
+      },
+      "properties": {
+        "name": "Truemeds",
+        "address": "Park Site 4 Vikhroli West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91751,
+          19.10141
+        ]
+      },
+      "properties": {
+        "name": "Truemeds",
+        "address": "Park Site 4 Vikhroli West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91751,
+          19.10141
+        ]
+      },
+      "properties": {
+        "name": "Truemeds",
+        "address": "Park Site 4 Vikhroli West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91751,
+          19.10141
+        ]
+      },
+      "properties": {
+        "name": "Truemeds",
+        "address": "Park Site 4 Vikhroli West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91751,
+          19.10141
+        ]
+      },
+      "properties": {
+        "name": "Truemeds",
+        "address": "Park Site 4 Vikhroli West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90073,
+          19.051
+        ]
+      },
+      "properties": {
+        "name": "Global Medical",
+        "address": "Union Park Road Khar West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90073,
+          19.051
+        ]
+      },
+      "properties": {
+        "name": "Global Medical",
+        "address": "Union Park Road Khar West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90073,
+          19.051
+        ]
+      },
+      "properties": {
+        "name": "Global Medical",
+        "address": "Union Park Road Khar West, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87137,
+          19.13852
+        ]
+      },
+      "properties": {
+        "name": "New Grace Medical & General Stores",
+        "address": "Chandivali-andheri East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87137,
+          19.13852
+        ]
+      },
+      "properties": {
+        "name": "New Grace Medical & General Stores",
+        "address": "Chandivali-andheri East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87137,
+          19.13852
+        ]
+      },
+      "properties": {
+        "name": "New Grace Medical & General Stores",
+        "address": "Chandivali-andheri East, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24119,
+          19.16927
+        ]
+      },
+      "properties": {
+        "name": "U-VA Fitness",
+        "address": "Nadanvan Garden Badlapur, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24119,
+          19.16927
+        ]
+      },
+      "properties": {
+        "name": "U-VA Fitness",
+        "address": "Nadanvan Garden Badlapur, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24119,
+          19.16927
+        ]
+      },
+      "properties": {
+        "name": "U-VA Fitness",
+        "address": "Nadanvan Garden Badlapur, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24119,
+          19.16927
+        ]
+      },
+      "properties": {
+        "name": "U-VA Fitness",
+        "address": "Nadanvan Garden Badlapur, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24119,
+          19.16927
+        ]
+      },
+      "properties": {
+        "name": "U-VA Fitness",
+        "address": "Nadanvan Garden Badlapur, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.04133,
+          30.29563
+        ]
+      },
+      "properties": {
+        "name": "Savvy's Fitness Centre",
+        "address": "Ganpati Mandir Road Titwala, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.04133,
+          30.29563
+        ]
+      },
+      "properties": {
+        "name": "Savvy's Fitness Centre",
+        "address": "Ganpati Mandir Road Titwala, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.04133,
+          30.29563
+        ]
+      },
+      "properties": {
+        "name": "Savvy's Fitness Centre",
+        "address": "Ganpati Mandir Road Titwala, Thane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83069,
+          18.99961
+        ]
+      },
+      "properties": {
+        "name": "Mr Fitness Center",
+        "address": "Nm Joshi Marg Lower Parel, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83069,
+          18.99961
+        ]
+      },
+      "properties": {
+        "name": "Mr Fitness Center",
+        "address": "Nm Joshi Marg Lower Parel, Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83069,
+          18.99961
+        ]
+      },
+      "properties": {
+        "name": "Mr Fitness Center",
+        "address": "Nm Joshi Marg Lower Parel, Mumbai"
+      }
+    }
+  ]
+}

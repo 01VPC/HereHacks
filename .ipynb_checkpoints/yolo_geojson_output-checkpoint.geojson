@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1357.690623544438,
+          330.23086896213147
+        ]
+      },
+      "properties": {
+        "prompt_input": "Detected object: {blue sign}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1357.690623544438,
+          330.23086896213147
+        ]
+      },
+      "properties": {
+        "prompt_input": "Detected object: {blue sign}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1357.690623544438,
+          330.23086896213147
+        ]
+      },
+      "properties": {
+        "prompt_input": "Detected object: {blue sign}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1357.690623544438,
+          330.23086896213147
+        ]
+      },
+      "properties": {
+        "prompt_input": "Detected object: {blue sign}"
+      }
+    }
+  ]
+}

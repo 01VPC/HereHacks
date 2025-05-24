@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "source": "Wikipedia",
+    "timestamp": "2025-05-24T01:19:03.196074",
+    "total_records": 32,
+    "scraper_version": "1.0"
+  },
+  "data": [
+    {
+      "name": "^ \"Politics and emotions behind renaming Mumbai's streets\". Hindustan Times. 10 November 2018. Retrieved 9 June 2019.",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.815021",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "^ a b c \"Mumbai: To learn the meaning of road names, check signboards\". DNA India. 25 February 2019. Retrieved 9 June 2019.",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.815057",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "^ \"Road in Mumbai named after woman who started Arya Mahila Samaj\". The Indian Express. 14 August 2017. Retrieved 9 June 2019.",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.815104",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "^ \"Rustom Sidhwa Marg: 'It is tragic only a few remember the fearless crusader, let alone recall his services to nation'\". The Indian Express. 20 November 2017. Retrieved 9 June 2019.",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.815127",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "^ \"Pincode of JAGANNATH SHANKAR SHETH ROAD WANDEKAR MANSION J S GIRGAON MUMBAI MAHARASHTRA 400004 Pincode.net.in\".",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.815140",
+      "latitude": 18.95376,
+      "longitude": 72.82047
+    },
+    {
+      "name": "^ \"Jangali maharaj road mumbai\".",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.815181",
+      "latitude": 18.95991,
+      "longitude": 72.82771
+    },
+    {
+      "name": "Shahid Bhagat Singh Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816086",
+      "latitude": 25.93483,
+      "longitude": 80.81439
+    },
+    {
+      "name": "Bhulabhai Desai Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816112",
+      "latitude": 18.97612,
+      "longitude": 72.8081
+    },
+    {
+      "name": "Dr. Gopalrao Deshmukh Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816134",
+      "latitude": 18.96988,
+      "longitude": 72.80956
+    },
+    {
+      "name": "Dr. Dadasaheb Bhadkamkar Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816155",
+      "latitude": 18.96582,
+      "longitude": 72.81905
+    },
+    {
+      "name": "Dr. Kashibai Navrange Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816180",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Lady Jamshetjee Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816200",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Lal Bahadur Shastri Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816220",
+      "latitude": 28.90354,
+      "longitude": 76.54365
+    },
+    {
+      "name": "M.L. Dahanukar Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816241",
+      "latitude": 18.49718,
+      "longitude": 73.81297
+    },
+    {
+      "name": "Mohammad Ali Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816266",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "N.S. Patkar Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816287",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Nepean Sea Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816304",
+      "latitude": -35.73633,
+      "longitude": 137.59862
+    },
+    {
+      "name": "Ramdas Nayak Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816322",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Pandita Ramabai Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816342",
+      "latitude": 28.62414,
+      "longitude": 77.20638
+    },
+    {
+      "name": "Rustom Sidhwa Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816378",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "S.K. Barodawallah Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816395",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Samaldas Gandhi Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816413",
+      "latitude": 28.66121,
+      "longitude": 77.26372
+    },
+    {
+      "name": "Netaji Subhash Chandra Bose Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816430",
+      "latitude": 22.48038,
+      "longitude": 88.35488
+    },
+    {
+      "name": "Swami Vivekanand Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816448",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Vitthalbhai Patel Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816467",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Shankarsheth Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816495",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Jangali Maharaj Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816517",
+      "latitude": 18.52535,
+      "longitude": 73.84961
+    },
+    {
+      "name": "J. N. Heredia Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:39.816535",
+      "latitude": 9.99969,
+      "longitude": -84.11717
+    },
+    {
+      "name": "Western Express Highway",
+      "category": "road",
+      "description": "The Western Express Highway, abbreviated to WEH (officially Ali Yavar Jung Marg after the former Governor of Maharashtra), is a major north\u2013south 8-10 lane arterial road in Mumbai, India, stretching from the suburb of Mira Road to Bandra. The 25.33 km (15.74 mi) highway begins near the Mahim Creek and extends to the Kashimira in the northern limit of the city till it connects National Highway 48 at Ghodbunder village. The road connects the city of Mumbai to its suburbs, including the Chhatrapati",
+      "url": "https://en.wikipedia.org/wiki/Western_Express_Highway",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:44.130684",
+      "length": "25.33\u00a0km\u00a0(15.74\u00a0mi)",
+      "latitude": 8.48686,
+      "longitude": -13.23469
+    },
+    {
+      "name": "Eastern Express Highway",
+      "category": "road",
+      "description": "The Eastern Express Highway, abbreviated to EEH, is a 23.55 km (14.63 mi) city express highway serving the cities of Mumbai and Thane. It is one of the busiest roads in the Mumbai Metropolitan Area and is a part of the National Highway 48. It is a north\u2013south artery of Mumbai connecting the city proper to the eastern suburbs and to the metropolitan area of Thane.\nFor most of its course, it is 6 lanes wide (3 lanes in each direction) with over a dozen flyovers/grade separators.",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Express_Highway",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:48.520966",
+      "length": "23.55\u00a0km\u00a0(14.63\u00a0mi)",
+      "latitude": -33.79271,
+      "longitude": 150.87059
+    },
+    {
+      "name": "Linking Road, Mumbai",
+      "category": "road",
+      "description": "Linking Road is a road which extends from Bandra to Santacruz West in the city of Mumbai, India which is the third largest shopping district in India in terms of revenue and footfalls.\n\n",
+      "url": "https://en.wikipedia.org/wiki/Linking_Road,_Mumbai",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:52.410296",
+      "latitude": 19.07802,
+      "longitude": 72.83406
+    },
+    {
+      "name": "Marine Drive, Mumbai",
+      "category": "road",
+      "description": "Marine Drive is a 3 kilometre-long promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India. The road and promenade were constructed by Pallonji Mistry in 1940. It is a banana-shaped, six-lane concrete road along the coast of a natural bay. At the northern end of Marine Drive is Girgaon Chowpatty and the adjacent road links Nariman Point at the southern tip to Babulnath and Malabar Hill at the northern tip. Marine Drive is situated on reclaimed land facing west-south-west. Marine Dr",
+      "url": "https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:18:56.860321",
+      "latitude": 18.92781,
+      "longitude": 72.82085
+    }
+  ]
+}
