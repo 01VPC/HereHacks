@@ -19,7 +19,7 @@ import {
   Car,
   Building
 } from 'lucide-react';
-
+import mockGeoJsonData from '../data/mockdata.json';
 const DataSources = () => {
     const [isAddingSource, setIsAddingSource] = useState(false);
     const [showGeoJson, setShowGeoJson] = useState(false);
@@ -29,7 +29,8 @@ const DataSources = () => {
     const [responseData, setResponseData] = useState(null);
     const [showResponseDialog, setShowResponseDialog] = useState(false);
     const [activeSource, setActiveSource] = useState(null);
-
+  
+   
   const dataSources = [
     { name: 'Open Street Maps', type: 'Vector Tiles', status: 'Active', lastUpdate: '2 min ago', icon: Map, color: 'blue', coverage: '99.8%' },
     { name: 'JustDial Data', type: 'POI Data', status: 'Inactive', lastUpdate: '2 hours ago', icon: Building, color: 'purple', coverage: '92.1%' },

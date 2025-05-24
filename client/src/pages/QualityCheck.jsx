@@ -268,9 +268,7 @@ Format your response as valid JSON with these sections:
       "name": "Hospital Name",
       "address": "Full address with street",
       "coordinates": [lat, lng],
-      "responseTime": "X minutes",
-      "capacity": "Y beds",
-      "equipment": ["list"]
+
     }],
     "routeOptimization": "Text description",
     "recommendations": ["List"]
@@ -292,9 +290,7 @@ Format your response as valid JSON with these sections:
       "area": "Neighborhood name",
       "address": "Full address",
       "coordinates": [lat, lng],
-      "missingServices": ["List"],
-      "opportunity": "High/Medium/Low",
-      "population": "Estimate"
+
     }],
     "marketValue": "Text description",
     "recommendations": ["List"]
@@ -601,7 +597,7 @@ Format your response as valid JSON with these sections:
             AI-Powered Urban Analytics for Mumbai Metropolitan Region using Gemini AI
           </p>
           
-          {!geoJsonData && (
+          {/* {!geoJsonData && (
             <div className="bg-white border-2 border-dashed border-gray-300 rounded-lg p-8">
               <Upload className="w-12 h-12 mx-auto mb-4 text-gray-400" />
               <label className="cursor-pointer">
@@ -619,7 +615,7 @@ Format your response as valid JSON with these sections:
                 Upload Mumbai, Navi Mumbai, or Thane GeoJSON data to begin real-time AI analysis
               </p>
             </div>
-          )}
+          )} */}
 
           {error && (
             <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
