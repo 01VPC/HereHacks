@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { 
   Download, 
   Settings,
@@ -10,6 +10,125 @@ import {
 } from 'lucide-react';
 
 const Maps = () => {
+  const mapRef = useRef(null);
+  const displayRef = useRef(null);
+  const [mapInitialized, setMapInitialized] = useState(false);
+
+  // Sample GeoJSON data
+  const geoJsonData = {
+    type: "FeatureCollection",
+    features: [
+      {
+        type: "Feature",
+        properties: {},
+        geometry: {
+          type: "Point",
+          coordinates: [8.53422, 50.16212]
+        }
+      },
+      {
+        type: "Feature",
+        properties: {},
+        geometry: {
+          type: "LineString",
+          coordinates: [
+            [8.53422, 50.16212],
+            [8.53450, 50.16230],
+            [8.53500, 50.16210]
+          ]
+        }
+      }
+    ]
+  };
+
+  useEffect(() => {
+    // Check if XYZMaps is loaded
+    const checkXYZMaps = () => {
+      if (window.XYZMaps && mapRef.current && !displayRef.current) {
+        initializeMap();
+      } else {
+        setTimeout(checkXYZMaps, 100);
+      }
+    };
+
+    const initializeMap = () => {
+      try {
+        console.log('Initializing XYZ Map...');
+        
+        // Base map layer configuration
+        const baseLayer = {
+          name: 'base-layer',
+          style: {
+            styleGroups: {
+              tile: [{
+                zIndex: 0,
+                type: 'Rect',
+                fill: '#F5F5F5'
+              }]
+            },
+            assign: () => 'tile'
+          },
+          url: 'https://xyz.api.here.com/tiles/osmbase/512/all/{z}/{x}/{y}.mvt?access_token=6JDMdJ79eaBnqgPSNPj7V-Ut6nz1XSyKfjQSjF4SgnM'
+        };
+
+        // GeoJSON layer configuration
+        const geoJsonLayer = {
+          name: 'geojson-layer',
+          style: {
+            styleGroups: {
+              Point: [{
+                zIndex: 1,
+                type: 'Circle',
+                radius: 8,
+                fill: '#FF0000',
+                stroke: '#FFFFFF',
+                strokeWidth: 2
+              }],
+              LineString: [{
+                zIndex: 1,
+                type: 'Line',
+                stroke: '#3366FF',
+                strokeWidth: 3
+              }]
+            },
+            assign: (feature) => feature.geometry.type
+          },
+          data: geoJsonData
+        };
+
+        // Initialize the map
+        displayRef.current = new window.XYZMaps.MapDisplay(mapRef.current, {
+          zoomLevel: 18,
+          center: {
+            longitude: 8.53422,
+            latitude: 50.16212
+          },
+          layers: [baseLayer, geoJsonLayer],
+          behaviors: {
+            zoom: true,
+            drag: true
+          }
+        });
+
+        console.log('Map initialized successfully');
+        setMapInitialized(true);
+
+      } catch (error) {
+        console.error('Error initializing XYZ Map:', error);
+      }
+    };
+
+    checkXYZMaps();
+
+    return () => {
+      if (displayRef.current) {
+        console.log('Cleaning up map');
+        displayRef.current.destroy();
+        displayRef.current = null;
+      }
+    };
+  }, []);
+
   return (
     <div className="space-y-6">
       <div className="flex justify-between items-center">
@@ -32,9 +151,9 @@ const Maps = () => {
             <h3 className="text-lg font-semibold text-gray-900">Interactive Map View</h3>
             <div className="flex items-center space-x-2">
               <select className="px-3 py-2 border border-gray-300 rounded-lg text-sm">
+                <option>Default View</option>
                 <option>Satellite View</option>
                 <option>Street View</option>
-                <option>Hybrid View</option>
               </select>
               <button className="p-2 border border-gray-300 rounded-lg hover:bg-gray-100">
                 <Layers className="h-4 w-4" />
@@ -43,12 +162,24 @@ const Maps = () => {
           </div>
         </div>
         
-        <div className="h-96 bg-gradient-to-br from-green-100 to-blue-100 flex items-center justify-center">
-          <div className="text-center">
-            <Map className="h-16 w-16 text-gray-400 mx-auto mb-4" />
-            <p className="text-gray-600 mb-2">Interactive Map Display</p>
-            <p className="text-sm text-gray-500">Real-time map updates from AI processing pipeline</p>
-          </div>
+        <div 
+          ref={mapRef} 
+          className="h-96 w-full"
+          style={{ 
+            minHeight: '384px',
+            position: 'relative',
+            overflow: 'hidden',
+            backgroundColor: mapInitialized ? 'transparent' : '#F5F5F5'
+          }}
+        >
+          {!mapInitialized && (
+            <div className="absolute inset-0 flex items-center justify-center">
+              <div className="text-center">
+                <Map className="h-16 w-16 text-gray-400 mx-auto mb-4" />
+                <p className="text-gray-600">Loading map...</p>
+              </div>
+            </div>
+          )}
         </div>
       </div>
 
