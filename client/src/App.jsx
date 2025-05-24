@@ -5,6 +5,7 @@ import Pipeline from './pages/Pipeline';
 import DataSources from './pages/DataSources';
 import Maps from './pages/Maps';
 import QualityCheck from './pages/QualityCheck';
+import GeoIntelligenceDashboard from './pages/QualityCheck';
 
 const App = () => {
   const [activeTab, setActiveTab] = useState('dashboard');
@@ -19,8 +20,8 @@ const App = () => {
         return <DataSources />;
       case 'maps':
         return <Maps />;
-      case 'quality':
-        return <QualityCheck />;
+      case 'genAI Analysis':
+        return <GeoIntelligenceDashboard />;
       default:
         return <Dashboard />;
     }
