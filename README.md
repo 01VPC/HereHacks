@@ -1,5 +1,5 @@
 # MapGen
-
+![Dashboard](images/dashboard.png)
 ## Overview
 This project implements an AI-driven pipeline for updating digital maps using crowd-sourced data. The system leverages modern AI techniques to process, analyze, and integrate various data sources to create and maintain accurate, up-to-date digital maps.
 
